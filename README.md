@@ -19,4 +19,4 @@ This repository is about data visualization of a bank's customer insights. This 
 ![Job Classification](https://github.com/hamzaziizzz/UK-Bank-Customer-Insights/blob/main/images/Job%20Classification.png)
 
 ## *Link for Final Interactive Dashboard*
-[UK Bank Customer Insights Interactive Dashboard](https://public.tableau.com/views/UKBankCustomerInsights_16576343434190/UKBankCustomers?:language=en-US&:display_count=n&:origin=viz_share_link)
+[UK Bank Customer Insights Interactive Dashboard](https://public.tableau.com/app/profile/hamza.aziz/viz/UKBankCustomerInsights_16576343434190/UKBankCustomers)
