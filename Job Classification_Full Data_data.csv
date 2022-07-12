@@ -1,0 +1,4015 @@
+﻿Job Classification,Age (bin),Balance (bin),Gender,Region,Age,Balance
+White Collar,21,110K,Male,England,21,113810.15
+Blue Collar,34,35K,Female,Northern Ireland,34,36919.73
+White Collar,46,100K,Male,England,46,101536.83
+White Collar,32,0K,Male,Wales,32,1421.52
+Blue Collar,38,35K,Female,England,38,35639.79
+Blue Collar,30,120K,Female,Wales,30,122443.77
+Blue Collar,34,40K,Female,England,34,42879.84
+Other,48,35K,Female,Scotland,48,36680.17
+White Collar,33,70K,Female,Wales,33,74284.35
+White Collar,42,10K,Male,England,42,10912.45
+White Collar,40,35K,Male,England,40,39667.83
+White Collar,39,30K,Male,England,39,32281.62
+White Collar,24,40K,Male,England,24,40781.63
+Other,46,45K,Male,Scotland,46,48791.46
+Other,36,0K,Female,Wales,36,2846.03
+White Collar,42,0K,Male,England,42,2116.85
+Other,31,10K,Female,Scotland,31,10356.31
+Other,42,0K,Female,Scotland,42,3801.69
+Blue Collar,40,65K,Male,England,40,65534.69
+Blue Collar,46,10K,Female,England,46,11462.64
+Other,37,30K,Male,Wales,37,31778.9
+Blue Collar,58,20K,Male,Scotland,58,21252.97
+White Collar,41,65K,Female,Wales,41,66785.78
+Blue Collar,52,5K,Male,Scotland,52,6580.81
+White Collar,38,20K,Female,England,38,20505.32
+Blue Collar,55,40K,Male,Scotland,55,43249.26
+White Collar,37,0K,Female,Northern Ireland,37,3967.2
+White Collar,33,0K,Female,England,33,3428.56
+Blue Collar,50,20K,Male,Scotland,50,20516.1
+White Collar,42,10K,Male,England,42,10813.83
+White Collar,25,35K,Female,England,25,38889.76
+White Collar,30,10K,Male,Wales,30,14094.01
+Other,58,25K,Female,Scotland,58,25865.2
+Other,26,5K,Male,England,26,5833.62
+Blue Collar,34,75K,Female,England,34,77809.59
+White Collar,36,30K,Female,England,36,31680.67
+White Collar,33,20K,Female,England,33,20504.37
+Other,31,5K,Male,England,31,5688.36
+Blue Collar,35,10K,Male,Scotland,35,12848.59
+Other,59,110K,Male,Scotland,59,114456.23
+Blue Collar,27,50K,Male,England,27,51412.6
+White Collar,35,5K,Female,England,35,9695.7
+Blue Collar,49,110K,Male,Scotland,49,114021.21
+Other,22,105K,Female,Northern Ireland,22,107728.07
+Other,53,0K,Female,England,53,2893.19
+Other,47,50K,Female,Scotland,47,54589.61
+Other,32,55K,Female,Scotland,32,59501.63
+Other,19,10K,Female,Northern Ireland,19,14337.82
+White Collar,27,20K,Male,England,27,23921.89
+White Collar,39,35K,Male,England,39,39034.14
+Blue Collar,29,0K,Female,England,29,1401.43
+Blue Collar,31,40K,Female,England,31,41626.25
+Other,37,45K,Female,England,37,47551.7
+White Collar,32,20K,Female,England,32,24187.98
+White Collar,24,0K,Male,England,24,4912.21
+White Collar,40,55K,Male,England,40,58391.45
+Blue Collar,33,55K,Female,England,33,58033.89
+White Collar,44,35K,Male,England,44,35831.2
+Other,39,0K,Male,England,39,1879.85
+White Collar,47,20K,Male,England,47,23375.57
+White Collar,35,0K,Female,England,35,4586.23
+Other,47,20K,Female,England,47,20336.8
+White Collar,47,20K,Male,England,47,22414.93
+White Collar,39,40K,Female,England,39,40305.24
+Other,50,15K,Female,Scotland,50,18091.36
+Blue Collar,43,20K,Male,Scotland,43,20076.8
+Blue Collar,47,5K,Male,Scotland,47,5300.47
+Blue Collar,61,5K,Male,Scotland,61,7162.43
+Blue Collar,53,35K,Male,Scotland,53,35751.37
+Other,45,15K,Male,Scotland,45,15013.76
+Blue Collar,49,70K,Male,Scotland,49,70041.44
+Other,51,35K,Female,Scotland,51,35937.38
+White Collar,36,40K,Female,Wales,36,41442.1
+Other,45,35K,Male,Wales,45,36696.92
+White Collar,30,0K,Female,Northern Ireland,30,21.03
+Blue Collar,44,55K,Male,Scotland,44,58237.65
+White Collar,38,25K,Male,England,38,28509.46
+Other,36,35K,Female,England,36,38715.45
+Blue Collar,23,5K,Female,Wales,23,7370.52
+White Collar,34,0K,Male,England,34,245.46
+White Collar,36,55K,Female,England,36,59935.75
+White Collar,20,10K,Male,England,20,11624.36
+Blue Collar,31,5K,Male,England,31,9346.66
+White Collar,42,40K,Male,England,42,43770.37
+White Collar,38,60K,Female,England,38,63642.19
+White Collar,39,20K,Male,England,39,22831.08
+Other,41,0K,Male,England,41,4846.57
+White Collar,24,70K,Female,England,24,71571.52
+White Collar,24,40K,Female,England,24,42409.89
+White Collar,35,0K,Female,England,35,4194.57
+White Collar,35,75K,Male,England,35,75613.68
+White Collar,26,25K,Female,England,26,28587.08
+White Collar,23,10K,Male,England,23,14699.05
+Other,38,40K,Female,England,38,44034.26
+White Collar,30,55K,Female,England,30,55046.35
+White Collar,28,65K,Male,England,28,67479.01
+Blue Collar,38,60K,Female,England,38,61890.85
+White Collar,36,0K,Female,England,36,1430.6
+Blue Collar,40,5K,Male,Scotland,40,5456.86
+Other,56,10K,Female,Scotland,56,13251.27
+Blue Collar,51,115K,Male,Scotland,51,119014.87
+White Collar,44,15K,Female,Scotland,44,18829.79
+White Collar,55,35K,Female,Scotland,55,35939.04
+Other,57,20K,Female,Scotland,57,22686
+White Collar,48,85K,Male,Scotland,48,85108.08
+Other,54,40K,Female,Scotland,54,44973.03
+Blue Collar,36,10K,Male,Scotland,36,12616.44
+Blue Collar,48,20K,Male,Scotland,48,23910.87
+Other,63,70K,Male,Scotland,63,73461.71
+Blue Collar,63,25K,Male,Scotland,63,26474.23
+Other,25,70K,Female,Wales,25,70799.64
+White Collar,26,20K,Male,Wales,26,20627.65
+White Collar,29,80K,Male,Northern Ireland,29,82229.52
+Other,18,50K,Female,Northern Ireland,18,51171.29
+Blue Collar,43,35K,Female,Northern Ireland,43,37889.38
+Other,36,20K,Female,England,36,21806.3
+Other,40,10K,Female,England,40,12415.5
+Other,52,65K,Male,Scotland,52,67682.92
+White Collar,18,30K,Female,England,18,33524.41
+White Collar,31,135K,Female,England,31,136370.38
+White Collar,37,35K,Male,England,37,39159.35
+Other,25,0K,Male,England,25,3738.1
+White Collar,50,40K,Male,England,50,43234.21
+Other,39,110K,Male,England,39,111149.47
+White Collar,27,10K,Male,England,27,12312.49
+White Collar,42,55K,Male,England,42,55661.5
+White Collar,27,10K,Female,England,27,10481.48
+White Collar,41,0K,Female,England,41,4347.79
+White Collar,47,15K,Male,England,47,15093.04
+White Collar,27,25K,Female,England,27,27738.77
+White Collar,41,25K,Female,England,41,27557.08
+Blue Collar,20,5K,Male,England,20,9578.65
+White Collar,38,40K,Female,England,38,40456.97
+Blue Collar,34,40K,Male,England,34,44744.24
+White Collar,42,55K,Male,England,42,56652.56
+White Collar,26,10K,Male,England,26,12994.18
+White Collar,43,40K,Female,England,43,42207.46
+White Collar,37,10K,Male,England,37,10704.25
+White Collar,40,55K,Female,England,40,57140.07
+Blue Collar,57,40K,Male,Scotland,57,40510.36
+White Collar,45,35K,Female,England,45,36584.21
+White Collar,23,10K,Male,England,23,10249.56
+Other,45,40K,Male,England,45,40379.31
+White Collar,26,0K,Male,England,26,4539.24
+White Collar,37,85K,Male,England,37,89120.92
+White Collar,41,50K,Male,England,41,51707.8
+White Collar,33,0K,Male,England,33,4940.82
+White Collar,37,45K,Female,England,37,48405.93
+White Collar,33,30K,Male,England,33,32467.1
+White Collar,29,0K,Female,England,29,4020.51
+White Collar,33,5K,Male,England,33,5160.27
+White Collar,32,50K,Male,England,32,51576.88
+White Collar,36,55K,Female,England,36,57019.91
+White Collar,46,55K,Male,England,46,57365.32
+Blue Collar,33,0K,Male,England,33,1455.6
+Other,24,35K,Male,England,24,36256.2
+White Collar,32,20K,Male,England,32,24927.39
+White Collar,26,0K,Male,England,26,1009.69
+White Collar,30,20K,Male,England,30,21871.43
+White Collar,38,5K,Male,England,38,7602.94
+White Collar,42,0K,Female,England,42,2337
+Other,36,60K,Female,England,36,61541.83
+White Collar,39,0K,Female,England,39,4120.66
+Other,59,65K,Female,Scotland,59,67524.87
+Blue Collar,52,0K,Male,Scotland,52,4371.98
+Blue Collar,51,10K,Male,Scotland,51,10229.63
+Blue Collar,24,15K,Male,Wales,24,19064.65
+White Collar,30,30K,Female,Wales,30,30846.82
+Blue Collar,39,70K,Male,England,39,71396.66
+Other,32,0K,Female,England,32,3290.79
+White Collar,38,10K,Male,England,38,13181.22
+Blue Collar,42,60K,Male,England,42,62923.29
+White Collar,26,90K,Female,England,26,93353.93
+White Collar,31,45K,Female,England,31,46078.71
+White Collar,31,15K,Male,England,31,15986.62
+White Collar,25,25K,Female,England,25,27384.85
+White Collar,35,70K,Male,England,35,70349.32
+Blue Collar,33,60K,Male,England,33,60748.04
+Blue Collar,24,50K,Male,England,24,52862.29
+Blue Collar,29,20K,Male,Northern Ireland,29,20516.51
+White Collar,32,95K,Female,England,32,99806.54
+White Collar,36,20K,Male,England,36,21236.23
+White Collar,31,115K,Male,England,31,115312.87
+Other,33,80K,Male,England,33,80564.87
+Other,40,20K,Male,England,40,21351.4
+Other,51,55K,Female,Scotland,51,58953.83
+White Collar,46,40K,Female,England,46,40685.39
+White Collar,29,20K,Female,England,29,22659.88
+White Collar,40,5K,Female,England,40,9431.04
+Other,25,55K,Female,England,25,58714.66
+Blue Collar,51,0K,Male,Scotland,51,1239.6
+White Collar,39,45K,Male,England,39,48396.17
+Other,44,10K,Female,England,44,12283.3
+White Collar,40,25K,Male,England,40,29331.41
+White Collar,35,15K,Female,England,35,16390.11
+White Collar,32,85K,Female,England,32,87203.66
+Blue Collar,38,0K,Male,England,38,3141.6
+White Collar,29,0K,Male,England,29,2299.26
+Blue Collar,31,40K,Female,England,31,44162.06
+White Collar,47,90K,Female,England,47,90868.86
+Other,34,35K,Male,England,34,37985.15
+White Collar,37,50K,Female,England,37,54630.38
+White Collar,40,60K,Female,England,40,60648.52
+White Collar,26,15K,Female,England,26,18894.19
+Blue Collar,25,75K,Female,England,25,79603.36
+White Collar,36,105K,Female,England,36,109026.81
+White Collar,41,70K,Male,England,41,73998.37
+White Collar,39,0K,Male,England,39,3734.24
+Blue Collar,39,20K,Male,England,39,23322.33
+Blue Collar,44,60K,Male,Scotland,44,64482.16
+White Collar,39,50K,Male,England,39,52505.16
+White Collar,34,15K,Male,England,34,16569.82
+Blue Collar,29,20K,Female,England,29,21065.22
+Other,21,10K,Female,England,21,13487.9
+Blue Collar,39,30K,Male,England,39,34338.84
+White Collar,38,45K,Male,England,38,48146.54
+White Collar,28,25K,Female,England,28,27008.87
+White Collar,29,25K,Female,England,29,29907.72
+White Collar,25,30K,Male,England,25,31660.86
+Other,38,30K,Female,England,38,33509.17
+Blue Collar,45,0K,Female,England,45,2575.63
+White Collar,33,0K,Female,England,33,4072.58
+White Collar,32,15K,Male,England,32,15375.41
+White Collar,43,15K,Male,England,43,18103.72
+White Collar,31,60K,Male,England,31,63230.57
+White Collar,40,5K,Male,England,40,9875.43
+Other,29,105K,Male,England,29,106172.13
+White Collar,37,0K,Female,England,37,4611.5
+White Collar,36,40K,Female,England,36,42635.27
+White Collar,42,50K,Male,England,42,51923.76
+White Collar,45,35K,Female,England,45,39249.25
+Blue Collar,41,55K,Male,England,41,57762.79
+White Collar,42,60K,Male,England,42,63869.71
+White Collar,42,10K,Male,England,42,10199.66
+White Collar,40,45K,Female,England,40,47518.92
+White Collar,43,25K,Female,England,43,25542.15
+White Collar,43,20K,Female,England,43,23887.45
+Other,27,35K,Female,Wales,27,39264.03
+White Collar,35,10K,Female,England,35,11880.47
+White Collar,32,50K,Male,England,32,50658.95
+White Collar,43,10K,Male,England,43,14946.79
+Blue Collar,34,55K,Female,England,34,57148.41
+Blue Collar,47,115K,Male,England,47,116144.95
+White Collar,39,45K,Male,England,39,45135.16
+White Collar,31,5K,Male,England,31,9867.56
+White Collar,30,0K,Male,England,30,4442.71
+White Collar,33,10K,Female,England,33,14380.27
+White Collar,37,0K,Male,England,37,4263.53
+White Collar,43,30K,Male,England,43,32667.33
+Blue Collar,30,10K,Female,England,30,13407.54
+White Collar,33,55K,Female,England,33,57127.03
+White Collar,30,70K,Male,England,30,74588.31
+White Collar,29,40K,Female,England,29,41237.66
+White Collar,34,20K,Male,England,34,20276.52
+Blue Collar,36,20K,Female,England,36,20379
+Blue Collar,46,25K,Male,Scotland,46,29487.25
+Blue Collar,36,75K,Male,Scotland,36,79483.58
+Other,54,0K,Male,Scotland,54,2112.92
+Other,50,15K,Female,Scotland,50,18160.49
+Blue Collar,45,25K,Male,Scotland,45,26059.74
+Blue Collar,47,15K,Male,Scotland,47,19177.31
+Other,59,20K,Female,Scotland,59,23550.89
+Other,41,85K,Female,Scotland,41,87758.52
+Other,48,10K,Female,Scotland,48,10577.52
+Blue Collar,52,45K,Male,Scotland,52,45213.63
+Other,28,10K,Female,Scotland,28,13162.58
+Other,55,35K,Male,Scotland,55,36993.45
+Blue Collar,28,65K,Male,Wales,28,67180.28
+Other,42,40K,Female,Wales,42,44094.63
+Other,63,25K,Female,Wales,63,27020.99
+White Collar,30,25K,Male,Wales,30,28912.8
+White Collar,25,45K,Female,Northern Ireland,25,48997.63
+White Collar,41,40K,Male,England,41,41250.67
+Other,34,110K,Female,England,34,111818.28
+White Collar,42,10K,Male,England,42,10114.95
+Blue Collar,30,10K,Male,England,30,14034.12
+White Collar,37,55K,Female,England,37,57574.38
+Blue Collar,30,70K,Female,England,30,71596.18
+White Collar,42,30K,Male,England,42,32187.62
+Other,31,0K,Female,England,31,717.13
+Blue Collar,37,100K,Male,England,37,103875.81
+White Collar,29,70K,Female,England,29,70403.65
+White Collar,34,10K,Female,England,34,12559.26
+White Collar,30,5K,Female,England,30,7136.47
+White Collar,34,50K,Male,England,34,51792.13
+Other,31,95K,Female,England,31,96203.49
+White Collar,41,60K,Male,England,41,64731.46
+White Collar,37,35K,Male,England,37,37857
+White Collar,32,50K,Female,England,32,51470.09
+White Collar,40,70K,Male,England,40,70357.61
+White Collar,21,5K,Female,England,21,5470.79
+White Collar,40,25K,Female,England,40,25248.37
+Other,45,65K,Male,England,45,65116.98
+Other,27,20K,Male,England,27,23668.42
+Blue Collar,45,15K,Male,Scotland,45,16423.75
+White Collar,31,50K,Female,England,31,50533.23
+White Collar,33,0K,Female,England,33,152.91
+White Collar,26,10K,Female,England,26,14758.38
+White Collar,40,10K,Female,England,40,14730.54
+Blue Collar,53,60K,Male,Scotland,53,64309.53
+Blue Collar,41,95K,Male,Scotland,41,99190.79
+Blue Collar,30,10K,Male,Wales,30,13597.9
+Blue Collar,42,120K,Male,England,42,122903.78
+White Collar,42,30K,Female,England,42,30474.69
+White Collar,29,5K,Male,England,29,8802.24
+White Collar,32,60K,Male,England,32,60487.89
+Blue Collar,33,0K,Male,England,33,2457.4
+White Collar,43,30K,Male,England,43,33311.31
+White Collar,30,20K,Male,England,30,21296.27
+White Collar,33,60K,Female,England,33,60876.78
+Blue Collar,30,25K,Male,England,30,26572.16
+Blue Collar,45,20K,Male,England,45,21150.98
+White Collar,40,65K,Female,England,40,65947.69
+White Collar,31,85K,Female,England,31,86849.17
+Other,27,5K,Male,England,27,7336.33
+White Collar,37,5K,Female,England,37,5611.36
+White Collar,35,40K,Male,England,35,43790.83
+Blue Collar,43,0K,Female,England,43,1537.23
+White Collar,30,20K,Male,England,30,23015.54
+White Collar,34,40K,Male,England,34,42984.36
+Blue Collar,43,65K,Male,England,43,67809.29
+Other,30,35K,Female,England,30,35117.34
+White Collar,21,45K,Female,England,21,45045.19
+White Collar,54,30K,Male,England,54,33113.21
+Other,35,40K,Male,England,35,41080.73
+White Collar,42,70K,Female,England,42,71637.04
+Other,40,5K,Male,England,40,7463.59
+White Collar,34,0K,Female,England,34,2016.84
+White Collar,37,10K,Female,England,37,12405.07
+White Collar,31,15K,Female,England,31,19933.38
+White Collar,44,50K,Male,England,44,50015.54
+White Collar,34,20K,Female,England,34,24709.89
+Blue Collar,54,15K,Male,Scotland,54,15859.07
+White Collar,33,40K,Female,England,33,41128.52
+Blue Collar,42,5K,Female,England,42,7583.72
+White Collar,36,25K,Female,England,36,25132.97
+White Collar,22,70K,Female,England,22,70526.58
+White Collar,42,30K,Male,England,42,31273.66
+Other,58,30K,Female,Scotland,58,33008.01
+White Collar,20,0K,Female,Wales,20,1488.04
+White Collar,29,0K,Female,England,29,4507.91
+White Collar,38,15K,Male,England,38,18433.59
+White Collar,33,30K,Male,England,33,30907.61
+White Collar,35,55K,Female,England,35,58807.73
+White Collar,36,10K,Male,England,36,10174.7
+White Collar,31,20K,Male,England,31,20570.41
+Other,56,70K,Male,Scotland,56,70950.09
+Other,51,25K,Male,Scotland,51,27842.09
+Blue Collar,55,60K,Male,Scotland,55,60036.51
+Blue Collar,61,30K,Male,Scotland,61,31920.69
+Blue Collar,38,45K,Male,Wales,38,48457.2
+White Collar,51,90K,Male,Scotland,51,90573.15
+Blue Collar,58,5K,Male,Scotland,58,6416.8
+Other,42,10K,Male,Scotland,42,13414.22
+Blue Collar,46,10K,Male,Scotland,46,10950.36
+Blue Collar,42,15K,Male,Scotland,42,17740.51
+Other,27,15K,Female,Wales,27,18106.22
+Blue Collar,28,5K,Male,Wales,28,6729.3
+Other,17,65K,Female,Northern Ireland,17,65798.4
+White Collar,44,5K,Female,England,44,8118.3
+Blue Collar,45,65K,Male,Scotland,45,68256.88
+White Collar,52,105K,Male,Scotland,52,107185.54
+Blue Collar,45,20K,Male,Scotland,45,24064.3
+White Collar,34,5K,Female,Wales,34,5654.34
+Other,28,65K,Female,Wales,28,65204.55
+White Collar,35,15K,Female,Wales,35,17495.5
+White Collar,32,15K,Female,Wales,32,18897.91
+Other,31,60K,Female,Northern Ireland,31,62299.63
+White Collar,38,40K,Female,England,38,40010.06
+Other,62,50K,Male,Scotland,62,53342.1
+Other,44,5K,Male,Scotland,44,6288.73
+Blue Collar,54,20K,Male,Scotland,54,20205.92
+Blue Collar,39,15K,Male,Scotland,39,16549.43
+Blue Collar,19,90K,Male,Wales,19,94786.37
+Other,44,45K,Female,Wales,44,47772.44
+Other,28,40K,Female,Northern Ireland,28,44349.72
+Other,49,5K,Female,England,49,9119.52
+White Collar,18,0K,Male,England,18,311.26
+Other,38,15K,Female,England,38,19744.49
+White Collar,39,45K,Male,England,39,48712.33
+White Collar,41,10K,Female,England,41,13162.58
+Other,45,50K,Male,England,45,53204.35
+White Collar,32,65K,Female,England,32,67428.15
+Other,42,10K,Female,Scotland,42,12088.72
+Blue Collar,41,25K,Male,Scotland,41,28710.54
+Other,51,35K,Male,Scotland,51,36923.01
+Blue Collar,56,40K,Male,Scotland,56,40540.01
+Blue Collar,58,20K,Male,Scotland,58,23001.06
+Blue Collar,38,10K,Male,Scotland,38,11418.92
+Blue Collar,46,15K,Male,Scotland,46,16431.17
+Blue Collar,61,55K,Male,Scotland,61,56557.11
+Other,44,25K,Female,Wales,44,25290.08
+Other,34,105K,Female,Wales,34,109225.68
+Blue Collar,42,40K,Female,Wales,42,41572.1
+Other,32,0K,Male,Wales,32,4820.58
+Blue Collar,32,20K,Female,Northern Ireland,32,23059.56
+Other,36,60K,Female,Northern Ireland,36,61911.69
+Other,37,35K,Female,Northern Ireland,37,36603.02
+Other,23,20K,Female,Northern Ireland,23,20060.1
+White Collar,35,0K,Male,England,35,2423.46
+White Collar,41,50K,Male,England,41,51459.45
+White Collar,32,10K,Female,England,32,13621.48
+White Collar,39,80K,Female,England,39,84925.13
+White Collar,38,120K,Male,England,38,120732.35
+White Collar,36,20K,Male,England,36,23722.37
+Blue Collar,39,35K,Male,Scotland,39,39343.24
+Other,48,20K,Male,Scotland,48,23703.79
+Blue Collar,55,25K,Male,Scotland,55,26811.22
+Other,45,15K,Male,Wales,45,19287.92
+White Collar,32,50K,Male,Wales,32,50621.67
+White Collar,38,95K,Male,Wales,38,97120.48
+White Collar,18,5K,Male,England,18,6507.7
+Blue Collar,24,35K,Male,England,24,38590.44
+Other,45,5K,Male,Scotland,45,8313.86
+Blue Collar,45,35K,Male,Scotland,45,35076.06
+Blue Collar,46,60K,Male,Scotland,46,64383.55
+Blue Collar,37,30K,Male,Scotland,37,31821.23
+White Collar,44,5K,Male,Wales,44,9667.85
+Other,25,0K,Female,Northern Ireland,25,1905.46
+White Collar,32,0K,Female,England,32,4285.6
+Other,30,5K,Female,England,30,5357.39
+White Collar,35,5K,Male,England,35,8245.73
+White Collar,27,60K,Female,England,27,60406.61
+Blue Collar,53,65K,Male,Scotland,53,67540.82
+Other,45,30K,Male,Scotland,45,34870.84
+Blue Collar,55,40K,Male,Scotland,55,40918.44
+White Collar,24,65K,Male,Wales,24,65526.26
+White Collar,49,20K,Female,Wales,49,20738.67
+Other,37,30K,Male,Wales,37,34401.95
+White Collar,26,20K,Female,Wales,26,20774.79
+White Collar,29,0K,Female,Northern Ireland,29,743.29
+Other,29,0K,Female,Northern Ireland,29,4287.78
+White Collar,27,20K,Female,Northern Ireland,27,23871.79
+Other,27,0K,Female,Northern Ireland,27,2437.23
+White Collar,35,15K,Male,England,35,15042.08
+Other,24,75K,Female,England,24,77908.67
+Blue Collar,31,5K,Male,England,31,6459.02
+White Collar,60,0K,Male,Scotland,60,1860.46
+Blue Collar,26,0K,Male,Wales,26,3209.28
+White Collar,23,30K,Female,Wales,23,32658.92
+Blue Collar,21,60K,Female,Northern Ireland,21,60338.07
+Other,33,70K,Female,Northern Ireland,33,72810.9
+White Collar,27,105K,Male,England,27,107287.71
+Blue Collar,41,15K,Female,England,41,18907.19
+White Collar,43,40K,Female,England,43,44996.7
+White Collar,37,65K,Male,England,37,66791.82
+Blue Collar,33,75K,Male,Scotland,33,76071.15
+Blue Collar,41,20K,Male,Scotland,41,21536.61
+White Collar,30,40K,Male,Northern Ireland,30,41273.45
+Blue Collar,39,0K,Male,Northern Ireland,39,2838.91
+Blue Collar,36,10K,Female,England,36,10303.92
+White Collar,40,15K,Male,England,40,15488.15
+White Collar,23,15K,Female,England,23,17253.97
+Other,26,20K,Male,England,26,22143.77
+Blue Collar,35,0K,Male,England,35,1760.36
+White Collar,51,25K,Female,England,51,28034.11
+Blue Collar,48,15K,Female,Scotland,48,18739.74
+Blue Collar,59,30K,Male,Scotland,59,34640.4
+Other,43,55K,Male,Scotland,43,57551.21
+Other,54,15K,Female,Scotland,54,18720.84
+White Collar,52,25K,Male,Scotland,52,29971.21
+Other,52,5K,Male,Scotland,52,6967.51
+Blue Collar,46,130K,Male,Scotland,46,131848.63
+Blue Collar,57,25K,Male,Scotland,57,26601.44
+Other,42,45K,Female,Scotland,42,48457.47
+White Collar,39,80K,Female,Wales,39,83260.18
+Other,20,0K,Female,Wales,20,1291.01
+Other,45,60K,Female,Wales,45,64149.12
+Blue Collar,38,60K,Male,Wales,38,64271.06
+White Collar,27,10K,Male,Northern Ireland,27,14890.26
+White Collar,35,25K,Female,Northern Ireland,35,27867.83
+Other,23,55K,Female,Northern Ireland,23,58442.19
+Other,32,35K,Male,Northern Ireland,32,36854.57
+White Collar,33,65K,Male,Northern Ireland,33,66642.91
+White Collar,37,100K,Male,England,37,101697.71
+White Collar,33,30K,Female,England,33,30862.64
+White Collar,31,35K,Female,England,31,36911.96
+White Collar,33,5K,Female,England,33,9069.47
+Other,43,40K,Male,Scotland,43,41525.24
+Blue Collar,45,25K,Male,Scotland,45,25671.22
+Blue Collar,48,70K,Female,Scotland,48,74211.7
+White Collar,53,15K,Male,Scotland,53,19032.02
+Other,47,15K,Male,Scotland,47,18970.24
+Blue Collar,39,5K,Male,Scotland,39,6572.36
+White Collar,54,70K,Male,Scotland,54,72492.49
+Blue Collar,53,15K,Male,Scotland,53,19641.85
+White Collar,19,30K,Female,Wales,19,30972.98
+Other,35,35K,Female,Northern Ireland,35,38769.69
+White Collar,41,80K,Male,England,41,80877.94
+Other,58,70K,Female,Scotland,58,71689.7
+Blue Collar,46,10K,Male,Scotland,46,14557.62
+Blue Collar,50,15K,Male,Scotland,50,18144.44
+Blue Collar,49,125K,Male,Scotland,49,127883.17
+White Collar,41,70K,Male,Wales,41,74390.3
+White Collar,40,5K,Male,Wales,40,8257.16
+Other,41,20K,Female,Wales,41,21688.92
+White Collar,26,5K,Female,Northern Ireland,26,5789.63
+Blue Collar,37,5K,Female,England,37,9178.75
+Other,42,35K,Female,England,42,36354.73
+Other,32,40K,Female,England,32,44609.05
+White Collar,42,45K,Female,England,42,47360.61
+White Collar,18,55K,Female,England,18,58142.21
+Blue Collar,51,0K,Male,Scotland,51,920.31
+White Collar,51,15K,Male,Scotland,51,16320.71
+Blue Collar,42,35K,Male,Scotland,42,35821.21
+Blue Collar,53,15K,Male,Scotland,53,15708.72
+Blue Collar,51,85K,Male,Scotland,51,85973.68
+Other,47,15K,Female,Scotland,47,15438.53
+White Collar,31,50K,Female,Wales,31,54685.83
+White Collar,27,35K,Male,Wales,27,36638.21
+Blue Collar,51,40K,Female,Wales,51,40918.08
+White Collar,57,45K,Female,Wales,57,45944.18
+Other,20,0K,Female,Northern Ireland,20,4672.75
+Other,35,60K,Male,Northern Ireland,35,63602.12
+White Collar,26,90K,Female,Northern Ireland,26,93357.28
+Other,29,20K,Female,Northern Ireland,29,23358.95
+Other,37,5K,Female,Northern Ireland,37,6456.6
+Blue Collar,35,60K,Female,England,35,64233.87
+White Collar,19,70K,Male,England,19,70407.91
+White Collar,42,25K,Female,England,42,29385.08
+Blue Collar,23,25K,Female,England,23,27124.28
+White Collar,41,30K,Male,Scotland,41,33345.11
+Blue Collar,50,90K,Male,Scotland,50,92328.66
+White Collar,31,145K,Male,Wales,31,145995.97
+Blue Collar,23,55K,Male,Wales,23,56584.82
+Other,40,55K,Female,Wales,40,57702.39
+White Collar,32,40K,Female,Wales,32,43353.84
+Other,30,30K,Female,Wales,30,34170.61
+White Collar,24,50K,Female,Wales,24,51952.49
+White Collar,36,70K,Female,Wales,36,73513.79
+White Collar,23,50K,Female,Wales,23,51109.71
+Blue Collar,53,5K,Male,Scotland,53,9531.85
+Other,56,20K,Female,Scotland,56,20740.75
+Blue Collar,62,5K,Male,Scotland,62,6273.93
+Blue Collar,46,0K,Male,Scotland,46,399.51
+Blue Collar,47,15K,Male,Scotland,47,18486.67
+Other,50,10K,Female,Scotland,50,12726.77
+Blue Collar,44,60K,Male,Scotland,44,61035.44
+Blue Collar,23,80K,Female,Wales,23,80752.64
+Other,31,120K,Female,Northern Ireland,31,121133.06
+Blue Collar,30,5K,Female,Northern Ireland,30,6133.35
+White Collar,31,55K,Female,England,31,57538.47
+White Collar,35,45K,Female,England,35,46422.42
+White Collar,29,70K,Male,England,29,73217.9
+Blue Collar,36,85K,Female,England,36,88072.23
+Blue Collar,24,10K,Female,England,24,10816.33
+White Collar,40,5K,Female,England,40,7924.91
+Other,63,10K,Female,Scotland,63,10013.03
+Other,55,35K,Male,Scotland,55,35657.25
+Blue Collar,34,0K,Female,Wales,34,2872.93
+Other,35,5K,Male,Wales,35,7709.87
+White Collar,38,40K,Female,Wales,38,40078.58
+Blue Collar,33,50K,Female,Wales,33,53715.28
+Other,26,30K,Female,Northern Ireland,26,32940.49
+Other,38,10K,Female,Northern Ireland,38,14606.14
+Other,38,25K,Female,Northern Ireland,38,28388.7
+Other,23,20K,Female,Northern Ireland,23,21191.04
+Other,42,25K,Female,England,42,26577.07
+White Collar,34,15K,Female,England,34,15376.5
+Other,34,45K,Male,England,34,46243.31
+White Collar,30,65K,Female,England,30,65904.54
+White Collar,27,20K,Male,England,27,23502.2
+Blue Collar,52,75K,Female,England,52,76378.23
+White Collar,27,10K,Male,England,27,12420.86
+Other,31,20K,Female,England,31,21282.52
+White Collar,36,5K,Female,England,36,7483.28
+White Collar,26,25K,Female,England,26,27284.36
+White Collar,35,65K,Male,England,35,66567.28
+White Collar,39,70K,Female,England,39,73357.86
+Other,34,35K,Female,England,34,35679.31
+White Collar,31,75K,Male,England,31,79744.7
+White Collar,51,70K,Male,England,51,72742.52
+White Collar,35,45K,Male,England,35,45176.14
+Other,25,5K,Male,England,25,8518.46
+White Collar,20,0K,Male,England,20,3115.49
+White Collar,26,55K,Female,England,26,55006.43
+Other,43,80K,Female,England,43,82248.75
+Blue Collar,33,125K,Male,England,33,126150.99
+Other,47,40K,Male,Scotland,47,44263.92
+Other,52,20K,Male,Scotland,52,22436.69
+Blue Collar,46,10K,Male,Scotland,46,14605.89
+Blue Collar,42,20K,Female,Scotland,42,24087.99
+Other,56,45K,Female,Scotland,56,46034.1
+Blue Collar,44,60K,Male,Scotland,44,60464.54
+Other,58,50K,Male,Scotland,58,54739.91
+Blue Collar,44,5K,Male,Scotland,44,6498.08
+Blue Collar,51,40K,Male,Scotland,51,43526.55
+Blue Collar,46,25K,Male,Scotland,46,26094.73
+Blue Collar,43,60K,Male,Scotland,43,64483.09
+Blue Collar,53,35K,Male,Scotland,53,35898.96
+Blue Collar,41,50K,Male,Scotland,41,52388.41
+White Collar,27,95K,Female,Wales,27,98541.75
+Other,33,30K,Female,Wales,33,33373.82
+White Collar,39,40K,Female,Wales,39,40637.13
+Blue Collar,34,60K,Male,Wales,34,61421.55
+White Collar,36,55K,Female,Wales,36,56989.79
+White Collar,36,60K,Male,Wales,36,60084.51
+Blue Collar,39,50K,Male,Wales,39,51333.22
+White Collar,33,0K,Female,Wales,33,1790.25
+Other,24,30K,Female,Northern Ireland,24,33611.35
+Blue Collar,32,30K,Male,Northern Ireland,32,30923.45
+White Collar,24,60K,Female,Northern Ireland,24,63070.39
+White Collar,31,40K,Female,England,31,41203.42
+White Collar,31,20K,Female,England,31,21890.47
+White Collar,45,70K,Female,England,45,74637.96
+White Collar,42,0K,Female,England,42,4252.16
+White Collar,45,10K,Male,Scotland,45,10273.77
+Other,44,5K,Male,Scotland,44,9061.01
+Other,58,85K,Male,Scotland,58,86041.55
+Blue Collar,52,95K,Male,Scotland,52,96808.76
+Blue Collar,36,25K,Female,Wales,36,26783.44
+White Collar,24,15K,Female,Wales,24,16637.73
+White Collar,31,30K,Male,Wales,31,34008.59
+Blue Collar,38,25K,Female,Wales,38,27842.1
+Other,42,20K,Female,Wales,42,24020.29
+White Collar,40,20K,Female,England,40,22671.13
+Blue Collar,32,0K,Male,England,32,4576.45
+White Collar,42,15K,Male,England,42,16236.11
+Blue Collar,49,30K,Male,Scotland,49,32144.44
+Blue Collar,51,50K,Male,Scotland,51,54343.81
+Blue Collar,51,60K,Male,Scotland,51,60857.23
+White Collar,49,65K,Male,Scotland,49,68252.3
+Other,53,110K,Male,Scotland,53,110688.19
+Blue Collar,40,30K,Male,Wales,40,34324.69
+White Collar,22,10K,Male,Northern Ireland,22,10472.49
+White Collar,36,25K,Female,England,36,27754.62
+White Collar,44,90K,Male,England,44,94471.86
+White Collar,33,20K,Female,England,33,22387.4
+Other,48,5K,Male,Scotland,48,8114.82
+Blue Collar,51,125K,Male,Scotland,51,126331.75
+Blue Collar,57,50K,Male,Scotland,57,50454.73
+Blue Collar,64,15K,Male,Scotland,64,15909.96
+White Collar,42,35K,Male,Wales,42,39588.61
+White Collar,50,55K,Female,Wales,50,57622.79
+White Collar,34,45K,Female,Wales,34,48381.35
+White Collar,30,20K,Female,Wales,30,20276.08
+White Collar,40,15K,Female,Wales,40,18379.01
+Blue Collar,46,20K,Female,Northern Ireland,46,22906.99
+White Collar,28,145K,Male,Northern Ireland,28,146569.77
+Blue Collar,38,45K,Male,England,38,47824.63
+Other,38,30K,Female,England,38,30788.33
+Blue Collar,29,60K,Male,England,29,62631.04
+Other,32,75K,Female,England,32,79617.5
+Blue Collar,48,5K,Male,Scotland,48,9997.81
+Other,47,15K,Female,Scotland,47,19366.89
+Blue Collar,50,70K,Male,Scotland,50,70840.07
+Other,50,45K,Male,Scotland,50,48457.18
+Blue Collar,52,45K,Male,Scotland,52,49590.89
+Blue Collar,53,30K,Male,Scotland,53,33269.35
+Blue Collar,26,35K,Female,Wales,26,39944.64
+White Collar,46,30K,Female,Wales,46,30255.26
+White Collar,34,25K,Female,Wales,34,28272.45
+White Collar,35,10K,Male,Northern Ireland,35,11638.39
+Other,25,0K,Male,Northern Ireland,25,354.04
+White Collar,30,15K,Male,England,30,18150.13
+Other,32,50K,Male,England,32,52580.7
+White Collar,48,25K,Female,England,48,26493.26
+Other,45,15K,Male,Scotland,45,16824.6
+Blue Collar,52,15K,Male,Scotland,52,16849.99
+Blue Collar,53,65K,Male,Scotland,53,66329.8
+Blue Collar,51,25K,Male,Scotland,51,25861.3
+Blue Collar,48,25K,Male,Scotland,48,29501.46
+Other,52,55K,Male,Scotland,52,58470.37
+White Collar,38,35K,Male,Scotland,38,39702.17
+Other,48,15K,Male,Scotland,48,19419.68
+Blue Collar,35,35K,Male,Wales,35,38041.18
+White Collar,35,80K,Male,Wales,35,83727.16
+White Collar,33,40K,Male,Wales,33,42548.69
+Blue Collar,52,80K,Male,Scotland,52,83902.83
+Blue Collar,42,65K,Male,Scotland,42,65655.36
+Other,61,5K,Female,Scotland,61,8367.59
+Other,59,20K,Female,Scotland,59,24075.18
+Other,53,70K,Male,Scotland,53,71478.63
+Blue Collar,55,30K,Male,Scotland,55,32611.26
+Blue Collar,26,10K,Male,Wales,26,11076.52
+Other,22,30K,Female,Northern Ireland,22,30117.88
+White Collar,41,20K,Male,England,41,24558.98
+White Collar,25,0K,Female,England,25,926.29
+White Collar,29,15K,Female,England,29,15392.76
+Blue Collar,40,75K,Female,England,40,76093.12
+Other,52,15K,Female,Scotland,52,17999.17
+Other,37,65K,Male,Scotland,37,66522.71
+Blue Collar,60,10K,Male,Scotland,60,13764.72
+Blue Collar,23,55K,Male,Scotland,23,57918.09
+Blue Collar,42,30K,Female,Wales,42,30630.24
+Blue Collar,34,80K,Male,Wales,34,84898.38
+Other,36,0K,Male,Wales,36,401.13
+White Collar,33,35K,Female,Wales,33,35636.26
+White Collar,33,30K,Male,Wales,33,31308.46
+Other,42,95K,Female,Northern Ireland,42,96028.9
+White Collar,18,35K,Male,Northern Ireland,18,38879.77
+Other,34,120K,Female,Northern Ireland,34,121806.79
+White Collar,32,10K,Male,England,32,10926.7
+White Collar,29,20K,Male,England,29,20969.32
+White Collar,45,75K,Female,England,45,79000.32
+Other,44,30K,Male,Scotland,44,30742.33
+Other,45,70K,Male,Scotland,45,74230.68
+Blue Collar,45,50K,Male,Scotland,45,53086.19
+Other,60,45K,Male,Scotland,60,49081.5
+Blue Collar,58,60K,Male,Scotland,58,61365.17
+Other,48,15K,Male,Scotland,48,17261.5
+White Collar,31,55K,Female,Wales,31,56873.89
+White Collar,34,20K,Female,Wales,34,24796.57
+White Collar,40,20K,Female,Wales,40,22691.31
+White Collar,34,20K,Male,Wales,34,20385.54
+White Collar,28,30K,Female,Northern Ireland,28,34535.68
+White Collar,29,70K,Male,England,29,74862.98
+White Collar,32,75K,Female,England,32,76517.17
+White Collar,38,15K,Female,England,38,18169.19
+White Collar,39,50K,Female,England,39,52102.28
+Other,53,80K,Female,Scotland,53,82160.5
+Blue Collar,54,85K,Male,Scotland,54,87050.11
+Blue Collar,54,55K,Male,Scotland,54,55163.34
+Other,45,15K,Male,Scotland,45,15444.28
+Blue Collar,56,20K,Male,Scotland,56,20747.04
+White Collar,59,40K,Female,Scotland,59,44129.74
+White Collar,30,15K,Female,Wales,30,16103.61
+White Collar,32,35K,Male,Wales,32,37564.21
+White Collar,32,85K,Male,Wales,32,88416.84
+White Collar,26,0K,Male,Northern Ireland,26,988.73
+White Collar,33,90K,Male,Northern Ireland,33,93525.03
+White Collar,36,50K,Female,England,36,51542.67
+White Collar,43,35K,Male,England,43,39923.4
+White Collar,41,0K,Female,England,41,3786.28
+Blue Collar,59,25K,Male,Scotland,59,25916.21
+Other,43,0K,Male,Scotland,43,2362.16
+Other,53,40K,Male,Scotland,53,44740.65
+Other,63,20K,Male,Scotland,63,23026.64
+Blue Collar,34,60K,Male,Wales,34,61450.2
+White Collar,33,80K,Female,Wales,33,83889.98
+White Collar,31,60K,Male,Wales,31,63986.32
+Blue Collar,40,15K,Male,Wales,40,19438.99
+Blue Collar,47,5K,Male,Wales,47,8395.45
+White Collar,45,15K,Female,Wales,45,16542.71
+Other,28,15K,Male,Wales,28,18064.46
+Blue Collar,33,30K,Female,Wales,33,33670.19
+Other,38,40K,Female,Northern Ireland,38,41266.87
+Other,20,25K,Female,Northern Ireland,20,25398.03
+Other,31,30K,Female,Northern Ireland,31,34515.67
+Blue Collar,29,55K,Male,Northern Ireland,29,56838.19
+Other,38,5K,Female,Northern Ireland,38,7828.3
+White Collar,34,40K,Male,England,34,44552.66
+Other,47,80K,Female,England,47,83088.67
+White Collar,38,15K,Female,England,38,15989.89
+White Collar,46,45K,Male,England,46,47074.94
+Other,34,45K,Female,England,34,46037.55
+Blue Collar,47,5K,Male,Scotland,47,6187.55
+Blue Collar,51,15K,Male,Scotland,51,17188.7
+Blue Collar,36,15K,Male,Scotland,36,16694.22
+Other,43,10K,Male,Scotland,43,12188.75
+Blue Collar,22,0K,Male,Scotland,22,837.33
+White Collar,35,45K,Female,Wales,35,45887.56
+Other,34,35K,Male,Wales,34,35449.82
+Other,25,15K,Female,Northern Ireland,25,16380.24
+Other,19,0K,Female,Northern Ireland,19,4733.29
+Other,37,80K,Female,Northern Ireland,37,81504.12
+Other,45,5K,Female,Northern Ireland,45,9490.02
+White Collar,26,5K,Female,Northern Ireland,26,9406.12
+White Collar,37,45K,Male,Northern Ireland,37,47245.76
+White Collar,40,0K,Male,England,40,919.39
+White Collar,38,20K,Female,England,38,23848.8
+Other,52,40K,Female,Scotland,52,44756.41
+White Collar,46,45K,Male,Scotland,46,46084.51
+Other,48,135K,Male,Scotland,48,137330.94
+Blue Collar,44,5K,Male,Scotland,44,5784.28
+Blue Collar,45,85K,Male,Scotland,45,85726.19
+White Collar,34,105K,Female,Wales,34,106555.59
+Other,39,0K,Female,Wales,39,747.35
+White Collar,24,75K,Male,Northern Ireland,24,78004.29
+White Collar,22,55K,Female,Northern Ireland,22,58585.68
+White Collar,44,15K,Male,England,44,15861
+White Collar,32,95K,Male,England,32,97377.64
+Other,45,50K,Male,England,45,53554.5
+Blue Collar,34,5K,Male,Scotland,34,9347.83
+Blue Collar,37,0K,Male,Scotland,37,69.01
+Other,32,60K,Male,Wales,32,62131.4
+White Collar,22,45K,Female,Wales,22,47414.52
+Blue Collar,28,0K,Male,Wales,28,2511.02
+White Collar,36,35K,Female,Wales,36,39797.91
+Blue Collar,31,95K,Male,Northern Ireland,31,96409.06
+Other,32,70K,Female,England,32,74530.06
+White Collar,31,10K,Female,England,31,12994.54
+White Collar,48,5K,Male,England,48,9344.48
+Blue Collar,47,20K,Male,Scotland,47,24930.12
+White Collar,53,25K,Male,Scotland,53,25554.52
+Blue Collar,36,65K,Female,Wales,36,65364.64
+Blue Collar,38,65K,Male,Wales,38,69471.06
+White Collar,47,35K,Female,England,47,39175.76
+White Collar,22,0K,Male,England,22,3932.55
+White Collar,51,10K,Female,England,51,10872.02
+White Collar,45,55K,Female,Scotland,45,56216.25
+Blue Collar,55,5K,Male,Scotland,55,8441.89
+Other,47,15K,Male,Scotland,47,17538.34
+White Collar,41,130K,Male,Wales,41,132675.53
+Other,31,15K,Female,Northern Ireland,31,18645.55
+White Collar,28,30K,Female,England,28,34796.83
+Blue Collar,29,30K,Female,England,29,33338.42
+Other,27,5K,Female,England,27,8680.37
+Blue Collar,45,60K,Male,Scotland,45,62071.23
+Blue Collar,39,25K,Male,Scotland,39,27582.12
+White Collar,53,35K,Female,Scotland,53,35865.54
+Other,54,5K,Male,Scotland,54,8844.87
+Blue Collar,49,55K,Male,Scotland,49,56825.53
+White Collar,46,30K,Female,Scotland,46,34711.98
+Other,52,15K,Male,Scotland,52,17953.05
+White Collar,39,25K,Female,England,39,26507.93
+White Collar,39,65K,Male,England,39,68856.42
+White Collar,41,35K,Male,England,41,37768.87
+White Collar,29,5K,Male,England,29,9644.68
+Other,48,55K,Female,Scotland,48,58229.1
+Other,52,45K,Female,Scotland,52,45693.28
+White Collar,23,45K,Female,Wales,23,46151.71
+White Collar,33,90K,Female,Wales,33,91205.06
+Other,33,0K,Male,Wales,33,1657.46
+White Collar,29,15K,Female,Wales,29,15006.48
+White Collar,45,10K,Male,England,45,14279.24
+White Collar,34,80K,Female,England,34,84823.05
+White Collar,47,15K,Female,England,47,15879.06
+Other,55,5K,Female,Scotland,55,9885.69
+Blue Collar,52,15K,Male,Scotland,52,19187.18
+Blue Collar,53,40K,Male,Scotland,53,42226.31
+Blue Collar,34,25K,Male,Wales,34,29527.41
+Blue Collar,36,60K,Male,England,36,61120.3
+White Collar,34,20K,Female,England,34,22808.73
+Other,33,25K,Male,England,33,27818.08
+White Collar,35,35K,Male,England,35,36442.3
+White Collar,31,70K,Female,England,31,71026.81
+Other,45,10K,Male,Scotland,45,13683.26
+Other,29,55K,Female,Northern Ireland,29,57983.8
+White Collar,21,25K,Male,Northern Ireland,21,27022.94
+White Collar,37,15K,Male,England,37,17556.02
+White Collar,36,65K,Male,England,36,65227.05
+Blue Collar,54,30K,Male,Scotland,54,30687.34
+Other,42,60K,Male,Scotland,42,62472.65
+White Collar,40,35K,Male,England,40,38087.63
+White Collar,35,45K,Female,England,35,48766.55
+White Collar,29,55K,Male,Northern Ireland,29,57397.59
+White Collar,25,130K,Female,England,25,130797.71
+White Collar,44,55K,Male,England,44,55484.77
+White Collar,32,25K,Male,England,32,27236.35
+Other,42,0K,Female,England,42,1081.38
+Blue Collar,64,0K,Male,Scotland,64,3775.44
+Blue Collar,49,55K,Male,Scotland,49,56695.35
+Other,35,20K,Female,Scotland,35,22134.94
+Blue Collar,45,70K,Male,Wales,45,70114.57
+Blue Collar,46,20K,Female,England,46,20515.25
+White Collar,29,30K,Female,England,29,31495.71
+White Collar,27,75K,Male,England,27,78010.57
+White Collar,25,0K,Female,England,25,2703.33
+Blue Collar,36,40K,Male,England,36,44399.73
+White Collar,32,15K,Male,England,32,19378.62
+White Collar,53,20K,Male,Wales,53,22477.05
+White Collar,36,15K,Female,England,36,15461.71
+White Collar,42,40K,Male,England,42,40303.71
+Blue Collar,40,10K,Male,Scotland,40,10718.8
+Blue Collar,41,65K,Male,Scotland,41,67100.09
+Blue Collar,25,15K,Female,Wales,25,15700.14
+Blue Collar,45,10K,Male,England,45,12326.19
+White Collar,33,20K,Female,England,33,20019.58
+White Collar,38,5K,Female,England,38,9100.32
+Blue Collar,47,5K,Female,England,47,9098.32
+Other,31,20K,Male,England,31,20938.59
+Other,42,80K,Female,Scotland,42,82725.38
+Blue Collar,58,35K,Male,Scotland,58,36743
+Other,43,55K,Female,Scotland,43,57420.82
+Blue Collar,56,30K,Male,Scotland,56,31933.56
+White Collar,38,0K,Male,England,38,4562.77
+White Collar,44,15K,Female,England,44,19645.17
+White Collar,34,20K,Male,England,34,22571.15
+White Collar,38,15K,Male,England,38,19703.37
+White Collar,40,75K,Male,England,40,79434.98
+White Collar,46,20K,Female,England,46,20383.64
+White Collar,30,35K,Female,England,30,35243.71
+White Collar,34,10K,Female,England,34,10218.7
+White Collar,47,65K,Male,England,47,69979.67
+White Collar,35,25K,Female,England,35,26731.12
+White Collar,34,75K,Female,England,34,76181.33
+White Collar,22,30K,Female,England,22,31498.96
+White Collar,31,35K,Male,England,31,38820.41
+Blue Collar,31,20K,Female,England,31,20304.1
+Blue Collar,38,40K,Female,England,38,40515.6
+White Collar,23,10K,Male,England,23,13049.38
+White Collar,42,35K,Female,England,42,38638.28
+White Collar,24,35K,Female,England,24,38243.22
+White Collar,45,25K,Female,England,45,29123.62
+Blue Collar,54,55K,Male,Scotland,54,55672.22
+Other,38,15K,Female,Scotland,38,18241.98
+White Collar,26,50K,Female,Wales,26,54186.89
+White Collar,37,40K,Male,England,37,44096.51
+Blue Collar,26,70K,Male,England,26,70346.54
+Other,32,45K,Female,England,32,48355
+White Collar,27,35K,Male,England,27,37191.94
+White Collar,41,10K,Female,England,41,12212.85
+Other,39,45K,Female,England,39,46957.62
+White Collar,33,20K,Female,England,33,20359.61
+Blue Collar,59,20K,Male,Scotland,59,21784.09
+Blue Collar,49,65K,Male,Scotland,49,66375.91
+White Collar,47,20K,Female,England,47,24797.11
+Blue Collar,40,25K,Female,England,40,27635.28
+White Collar,34,15K,Female,England,34,17308.75
+White Collar,38,95K,Female,England,38,95477.25
+White Collar,37,45K,Male,England,37,46682.59
+Other,43,20K,Male,Scotland,43,21136.88
+Blue Collar,52,50K,Male,Scotland,52,51689.74
+Other,29,15K,Female,Wales,29,16037.16
+White Collar,31,20K,Female,England,31,24602.08
+White Collar,47,70K,Male,England,47,71446.54
+White Collar,31,35K,Male,England,31,35693.86
+Other,44,95K,Female,Scotland,44,96860.93
+Blue Collar,43,30K,Male,Scotland,43,30323.97
+Other,48,0K,Male,Scotland,48,1341.31
+Other,56,40K,Male,Scotland,56,40922.28
+Blue Collar,39,50K,Male,Wales,39,54165.92
+Blue Collar,25,145K,Female,Northern Ireland,25,149698.12
+Other,26,50K,Female,Northern Ireland,26,54272.56
+White Collar,35,90K,Male,Northern Ireland,35,93787.01
+Other,34,55K,Female,England,34,57387.06
+White Collar,24,40K,Female,England,24,41988.65
+White Collar,28,70K,Female,England,28,73859.27
+Other,23,50K,Male,England,23,50104.04
+White Collar,43,25K,Male,England,43,29188.4
+White Collar,30,70K,Female,England,30,73490.09
+White Collar,40,60K,Female,England,40,62886.29
+Other,60,65K,Female,Scotland,60,66713
+White Collar,34,5K,Male,England,34,7729.88
+White Collar,49,60K,Male,England,49,60180.76
+White Collar,37,85K,Female,England,37,87912.9
+White Collar,30,20K,Male,England,30,21157.3
+White Collar,35,20K,Female,England,35,22932.94
+White Collar,35,20K,Female,England,35,21314.68
+White Collar,42,20K,Female,England,42,22298.93
+White Collar,30,10K,Female,England,30,14184.7
+Blue Collar,32,20K,Male,England,32,23899.56
+White Collar,35,10K,Female,England,35,14360.43
+Other,32,40K,Female,England,32,42248.4
+White Collar,36,5K,Female,England,36,9406.07
+Blue Collar,28,5K,Female,England,28,6921.74
+Blue Collar,52,25K,Male,Scotland,52,29715
+Other,42,65K,Male,Scotland,42,65530.32
+Blue Collar,58,25K,Male,Scotland,58,27878.55
+Blue Collar,48,0K,Male,Scotland,48,4941.65
+White Collar,40,30K,Male,Scotland,40,32790.32
+Other,47,25K,Female,Scotland,47,29481.76
+Other,47,15K,Male,Scotland,47,15090.98
+Blue Collar,62,25K,Male,Scotland,62,29719.47
+Blue Collar,53,15K,Male,Scotland,53,15668.02
+Other,56,105K,Female,Scotland,56,105138.65
+White Collar,53,45K,Female,Scotland,53,45663.95
+Other,50,0K,Male,Scotland,50,2347.34
+Blue Collar,55,10K,Male,Scotland,55,12231.08
+Blue Collar,36,55K,Male,Wales,36,56653.07
+White Collar,40,20K,Female,Wales,40,24435.72
+Blue Collar,41,75K,Male,Wales,41,77995.62
+White Collar,33,45K,Male,Wales,33,49775.7
+White Collar,41,50K,Male,Northern Ireland,41,53685.06
+White Collar,22,20K,Female,Northern Ireland,22,22515.19
+Other,38,80K,Male,England,38,80709.15
+White Collar,33,60K,Male,England,33,60205.51
+Blue Collar,26,20K,Female,England,26,23694.9
+White Collar,36,30K,Female,England,36,31644.37
+Other,49,25K,Female,Scotland,49,26688.85
+Blue Collar,50,35K,Male,Scotland,50,38577.66
+Other,56,50K,Male,Scotland,56,54809.65
+Blue Collar,59,25K,Female,Scotland,59,29417.52
+Blue Collar,52,30K,Male,Scotland,52,30981.38
+Blue Collar,38,20K,Female,Wales,38,23669.58
+White Collar,42,60K,Female,Wales,42,61134.99
+White Collar,38,20K,Male,England,38,21138.46
+White Collar,21,85K,Female,England,21,89067.87
+White Collar,32,20K,Female,England,32,20852.18
+White Collar,23,25K,Male,England,23,28959.8
+White Collar,32,85K,Male,England,32,85709.46
+Other,25,85K,Female,England,25,86275.31
+Other,58,10K,Male,Scotland,58,11596.34
+Blue Collar,43,70K,Male,Scotland,43,74155.05
+Other,61,75K,Female,Scotland,61,75200.68
+Other,43,25K,Female,Scotland,43,27580.15
+White Collar,45,15K,Female,Wales,45,17753.01
+White Collar,28,25K,Male,Wales,28,28240.06
+White Collar,19,65K,Male,England,19,65493.89
+Other,31,70K,Female,England,31,74414.09
+White Collar,34,105K,Female,England,34,107641.39
+Other,37,40K,Female,Scotland,37,42322.58
+Other,57,60K,Female,Scotland,57,64620.15
+Blue Collar,56,45K,Male,Scotland,56,48707.14
+Blue Collar,56,25K,Male,Scotland,56,27458.53
+Blue Collar,42,5K,Male,Scotland,42,7562.83
+White Collar,39,105K,Female,Northern Ireland,39,107680.1
+Other,34,40K,Female,England,34,40542.83
+Blue Collar,43,80K,Male,England,43,80880.83
+White Collar,33,0K,Male,England,33,3226.71
+Blue Collar,43,65K,Male,Scotland,43,68551.15
+Blue Collar,33,75K,Male,Wales,33,77870.46
+Blue Collar,35,55K,Male,Wales,35,56611.75
+Other,29,80K,Female,England,29,81080.08
+White Collar,34,40K,Male,England,34,40109.99
+White Collar,44,70K,Female,England,44,74948.24
+Other,36,80K,Male,England,36,82776.89
+Other,60,30K,Male,Scotland,60,34597.56
+Other,29,0K,Female,Northern Ireland,29,4406.82
+Blue Collar,18,20K,Female,England,18,20389.34
+Blue Collar,21,55K,Female,England,21,59639.46
+Blue Collar,21,40K,Female,England,21,41703.21
+Blue Collar,21,110K,Female,England,21,113673.32
+Blue Collar,22,85K,Female,England,22,87500.9
+Blue Collar,22,35K,Female,England,22,37906.5
+Blue Collar,22,0K,Female,England,22,2301.9
+Blue Collar,23,0K,Female,England,23,2092.59
+Blue Collar,24,55K,Female,England,24,55477.57
+Blue Collar,24,75K,Female,England,24,77514.08
+Blue Collar,25,45K,Female,England,25,47846.97
+Blue Collar,25,5K,Female,England,25,5490.74
+Blue Collar,25,30K,Female,England,25,31113.33
+Blue Collar,27,30K,Female,England,27,32313.23
+Blue Collar,27,0K,Female,England,27,134.94
+Blue Collar,27,55K,Female,England,27,59292.8
+Blue Collar,27,115K,Female,England,27,115220.03
+Blue Collar,27,50K,Female,England,27,51197.28
+Blue Collar,27,25K,Female,England,27,27565.54
+Blue Collar,27,0K,Female,England,27,3471.22
+Blue Collar,28,30K,Female,England,28,31878.71
+Blue Collar,28,15K,Female,England,28,16210.13
+Blue Collar,28,65K,Female,England,28,68518.55
+Blue Collar,28,10K,Female,England,28,13618.72
+Blue Collar,28,25K,Female,England,28,28581.78
+Blue Collar,29,15K,Female,England,29,18800.25
+Blue Collar,29,55K,Female,England,29,56296.6
+Blue Collar,29,15K,Female,England,29,18984.55
+Blue Collar,29,55K,Female,England,29,55720.37
+Blue Collar,29,0K,Female,England,29,1434.13
+Blue Collar,30,90K,Female,England,30,94490.55
+Blue Collar,30,5K,Female,England,30,8100.12
+Blue Collar,30,110K,Female,England,30,113533.08
+Blue Collar,30,10K,Female,England,30,13717.09
+Blue Collar,30,25K,Female,England,30,27944.23
+Blue Collar,31,25K,Female,England,31,29943.33
+Blue Collar,31,35K,Female,England,31,38379.6
+Blue Collar,31,60K,Female,England,31,63449.29
+Blue Collar,31,20K,Female,England,31,23951.94
+Blue Collar,32,10K,Female,England,32,10488.42
+Blue Collar,32,10K,Female,England,32,10818.08
+Blue Collar,32,25K,Female,England,32,28086.32
+Blue Collar,32,10K,Female,England,32,12013.82
+Blue Collar,32,40K,Female,England,32,42968.77
+Blue Collar,32,50K,Female,England,32,50886.35
+Blue Collar,32,35K,Female,England,32,37935.65
+Blue Collar,32,40K,Female,England,32,41881.91
+Blue Collar,32,50K,Female,England,32,50290.76
+Blue Collar,33,15K,Female,England,33,16040.88
+Blue Collar,33,45K,Female,England,33,45536.82
+Blue Collar,33,40K,Female,England,33,40186.04
+Blue Collar,33,30K,Female,England,33,32418.13
+Blue Collar,33,15K,Female,England,33,19416.33
+Blue Collar,34,15K,Female,England,34,15667.57
+Blue Collar,34,55K,Female,England,34,55704.09
+Blue Collar,34,0K,Female,England,34,4561.22
+Blue Collar,34,90K,Female,England,34,91324.46
+Blue Collar,34,0K,Female,England,34,3279.7
+Blue Collar,34,75K,Female,England,34,75592.09
+Blue Collar,34,40K,Female,England,34,41064.35
+Blue Collar,34,30K,Female,England,34,32700.03
+Blue Collar,35,35K,Female,England,35,38448.21
+Blue Collar,35,5K,Female,England,35,6083.13
+Blue Collar,35,35K,Female,England,35,39047.45
+Blue Collar,35,50K,Female,England,35,53586.79
+Blue Collar,35,85K,Female,England,35,87960.01
+Blue Collar,35,85K,Female,England,35,88873.04
+Blue Collar,35,15K,Female,England,35,17717.33
+Blue Collar,35,15K,Female,England,35,15477.05
+Blue Collar,35,40K,Female,England,35,40095.85
+Blue Collar,35,40K,Female,England,35,43833.84
+Blue Collar,35,0K,Female,England,35,168.18
+Blue Collar,35,20K,Female,England,35,21420.72
+Blue Collar,35,90K,Female,England,35,90913.77
+Blue Collar,35,0K,Female,England,35,3673.79
+Blue Collar,36,70K,Female,England,36,72728.32
+Blue Collar,36,20K,Female,England,36,23247.17
+Blue Collar,36,15K,Female,England,36,18925.43
+Blue Collar,36,85K,Female,England,36,88957.46
+Blue Collar,36,45K,Female,England,36,49350.39
+Blue Collar,37,15K,Female,England,37,16408.46
+Blue Collar,37,60K,Female,England,37,61138.64
+Blue Collar,37,40K,Female,England,37,42453.12
+Blue Collar,37,70K,Female,England,37,74238.83
+Blue Collar,37,25K,Female,England,37,25978.37
+Blue Collar,37,40K,Female,England,37,43420.7
+Blue Collar,37,50K,Female,England,37,54692.79
+Blue Collar,37,10K,Female,England,37,11073.76
+Blue Collar,38,90K,Female,England,38,94159.68
+Blue Collar,38,30K,Female,England,38,31728.14
+Blue Collar,38,0K,Female,England,38,3761.07
+Blue Collar,39,10K,Female,England,39,10685.07
+Blue Collar,39,20K,Female,England,39,23208.75
+Blue Collar,39,105K,Female,England,39,106334.38
+Blue Collar,39,20K,Female,England,39,21924.56
+Blue Collar,39,50K,Female,England,39,54045.93
+Blue Collar,39,60K,Female,England,39,63992.1
+Blue Collar,39,30K,Female,England,39,33581.76
+Blue Collar,40,10K,Female,England,40,13612.39
+Blue Collar,40,30K,Female,England,40,31439.06
+Blue Collar,40,110K,Female,England,40,114118.53
+Blue Collar,41,10K,Female,England,41,12434.03
+Blue Collar,41,0K,Female,England,41,964.1
+Blue Collar,41,40K,Female,England,41,43298.43
+Blue Collar,41,50K,Female,England,41,52991.99
+Blue Collar,41,10K,Female,England,41,12978.24
+Blue Collar,41,30K,Female,England,41,33934.22
+Blue Collar,41,45K,Female,England,41,45505.77
+Blue Collar,41,105K,Female,England,41,105902.66
+Blue Collar,42,10K,Female,England,42,10810.61
+Blue Collar,42,75K,Female,England,42,77228.1
+Blue Collar,42,50K,Female,England,42,51786.07
+Blue Collar,42,30K,Female,England,42,34017.93
+Blue Collar,42,25K,Female,England,42,25710.04
+Blue Collar,42,45K,Female,England,42,46452.14
+Blue Collar,43,20K,Female,England,43,20996.83
+Blue Collar,43,20K,Female,England,43,23540.79
+Blue Collar,43,50K,Female,England,43,50078.57
+Blue Collar,43,35K,Female,England,43,38227.22
+Blue Collar,44,0K,Female,England,44,4837.23
+Blue Collar,45,35K,Female,England,45,38404.23
+Blue Collar,45,20K,Female,England,45,22420.34
+Blue Collar,45,10K,Female,England,45,12508.07
+Blue Collar,46,0K,Female,England,46,4907.58
+Blue Collar,46,5K,Female,England,46,9564.07
+Blue Collar,47,15K,Female,England,47,15690.97
+Blue Collar,49,35K,Female,England,49,36294.12
+Blue Collar,52,25K,Female,England,52,27309.33
+Blue Collar,17,95K,Female,Northern Ireland,17,97610.35
+Blue Collar,18,30K,Female,Northern Ireland,18,31948.6
+Blue Collar,19,0K,Female,Northern Ireland,19,69.78
+Blue Collar,19,60K,Female,Northern Ireland,19,63979.4
+Blue Collar,21,50K,Female,Northern Ireland,21,51615.61
+Blue Collar,21,10K,Female,Northern Ireland,21,11236.25
+Blue Collar,26,65K,Female,Northern Ireland,26,65999.04
+Blue Collar,27,45K,Female,Northern Ireland,27,48456.97
+Blue Collar,27,0K,Female,Northern Ireland,27,1897.88
+Blue Collar,29,50K,Female,Northern Ireland,29,50213.26
+Blue Collar,29,10K,Female,Northern Ireland,29,13733.52
+Blue Collar,31,35K,Female,Northern Ireland,31,39120.91
+Blue Collar,31,45K,Female,Northern Ireland,31,46207.53
+Blue Collar,31,5K,Female,Northern Ireland,31,6057.88
+Blue Collar,33,55K,Female,Northern Ireland,33,59125.17
+Blue Collar,34,15K,Female,Northern Ireland,34,15263.47
+Blue Collar,34,15K,Female,Northern Ireland,34,17843.97
+Blue Collar,35,15K,Female,Northern Ireland,35,17947.14
+Blue Collar,36,15K,Female,Northern Ireland,36,19799.42
+Blue Collar,37,55K,Female,Northern Ireland,37,59970.28
+Blue Collar,39,20K,Female,Northern Ireland,39,21272.69
+Blue Collar,40,55K,Female,Northern Ireland,40,58691.17
+Blue Collar,26,75K,Female,Scotland,26,76714.19
+Blue Collar,28,35K,Female,Scotland,28,39597.2
+Blue Collar,42,15K,Female,Scotland,42,15178.11
+Blue Collar,43,40K,Female,Scotland,43,40769.29
+Blue Collar,46,65K,Female,Scotland,46,68527.61
+Blue Collar,46,50K,Female,Scotland,46,53327.97
+Blue Collar,46,15K,Female,Scotland,46,16995.99
+Blue Collar,51,50K,Female,Scotland,51,52001.9
+Blue Collar,51,20K,Female,Scotland,51,24237.4
+Blue Collar,51,5K,Female,Scotland,51,7573.67
+Blue Collar,52,40K,Female,Scotland,52,43787.71
+Blue Collar,52,30K,Female,Scotland,52,34890.3
+Blue Collar,52,95K,Female,Scotland,52,97609.31
+Blue Collar,55,30K,Female,Scotland,55,33460.57
+Blue Collar,56,30K,Female,Scotland,56,32792.43
+Blue Collar,57,55K,Female,Scotland,57,55886.74
+Blue Collar,57,30K,Female,Scotland,57,31824.47
+Blue Collar,59,10K,Female,Scotland,59,14569.22
+Blue Collar,60,5K,Female,Scotland,60,5916.94
+Blue Collar,61,45K,Female,Scotland,61,48394.84
+Blue Collar,61,0K,Female,Scotland,61,1409.52
+Blue Collar,63,25K,Female,Scotland,63,28395.48
+Blue Collar,64,20K,Female,Scotland,64,24729.53
+Blue Collar,19,70K,Female,Wales,19,71036.74
+Blue Collar,24,15K,Female,Wales,24,16527
+Blue Collar,24,15K,Female,Wales,24,18858.69
+Blue Collar,28,90K,Female,Wales,28,94793.04
+Blue Collar,29,25K,Female,Wales,29,25737.94
+Blue Collar,29,20K,Female,Wales,29,23049.76
+Blue Collar,29,5K,Female,Wales,29,7614.4
+Blue Collar,30,0K,Female,Wales,30,96.26
+Blue Collar,32,30K,Female,Wales,32,33207.29
+Blue Collar,33,15K,Female,Wales,33,15196.68
+Blue Collar,34,0K,Female,Wales,34,4478.46
+Blue Collar,34,45K,Female,Wales,34,49214.87
+Blue Collar,35,40K,Female,Wales,35,41917.78
+Blue Collar,35,80K,Female,Wales,35,80558.45
+Blue Collar,36,15K,Female,Wales,36,15245.28
+Blue Collar,36,50K,Female,Wales,36,54473.03
+Blue Collar,37,100K,Female,Wales,37,101532.72
+Blue Collar,41,30K,Female,Wales,41,30822.55
+Blue Collar,42,20K,Female,Wales,42,24238.89
+Blue Collar,43,5K,Female,Wales,43,9130.19
+Blue Collar,46,25K,Female,Wales,46,29012.65
+Other,18,5K,Female,England,18,9281.39
+Other,21,15K,Female,England,21,16352.86
+Other,23,5K,Female,England,23,5434.22
+Other,23,20K,Female,England,23,20148.51
+Other,23,15K,Female,England,23,16418.92
+Other,23,40K,Female,England,23,42510.95
+Other,24,0K,Female,England,24,3140.85
+Other,24,90K,Female,England,24,92201.51
+Other,24,50K,Female,England,24,54218.79
+Other,24,15K,Female,England,24,17946.83
+Other,25,35K,Female,England,25,39374.75
+Other,25,70K,Female,England,25,71683.32
+Other,25,0K,Female,England,25,1890.37
+Other,25,10K,Female,England,25,12589.45
+Other,26,0K,Female,England,26,4212.36
+Other,26,10K,Female,England,26,10054.71
+Other,27,30K,Female,England,27,34178.68
+Other,27,30K,Female,England,27,30992.37
+Other,28,105K,Female,England,28,106947.88
+Other,28,65K,Female,England,28,68799.11
+Other,28,10K,Female,England,28,10688.34
+Other,28,35K,Female,England,28,35052.06
+Other,29,40K,Female,England,29,41897.53
+Other,29,25K,Female,England,29,29654.53
+Other,29,0K,Female,England,29,1834.14
+Other,29,30K,Female,England,29,33563.67
+Other,29,45K,Female,England,29,46543.51
+Other,29,65K,Female,England,29,68344.02
+Other,29,10K,Female,England,29,11738.7
+Other,29,10K,Female,England,29,11504.49
+Other,29,25K,Female,England,29,27683.73
+Other,30,0K,Female,England,30,2730.89
+Other,30,70K,Female,England,30,72874.91
+Other,30,105K,Female,England,30,105695.88
+Other,30,50K,Female,England,30,52474.35
+Other,30,45K,Female,England,30,47404.84
+Other,30,85K,Female,England,30,86591.86
+Other,31,0K,Female,England,31,4941.26
+Other,31,80K,Female,England,31,81245.5
+Other,31,0K,Female,England,31,1173.73
+Other,31,105K,Female,England,31,107268.59
+Other,31,0K,Female,England,31,4064.42
+Other,31,70K,Female,England,31,73990.81
+Other,31,25K,Female,England,31,25016.03
+Other,32,70K,Female,England,32,71324.35
+Other,32,60K,Female,England,32,62279.58
+Other,32,40K,Female,England,32,44949.1
+Other,32,0K,Female,England,32,699.42
+Other,32,75K,Female,England,32,76207.19
+Other,33,45K,Female,England,33,49665.09
+Other,33,0K,Female,England,33,2471.48
+Other,33,60K,Female,England,33,60395.3
+Other,33,35K,Female,England,33,36709.9
+Other,34,20K,Female,England,34,22433.36
+Other,34,10K,Female,England,34,14965.91
+Other,34,20K,Female,England,34,23145.58
+Other,34,35K,Female,England,34,39040.73
+Other,34,60K,Female,England,34,63083.87
+Other,34,20K,Female,England,34,21997.45
+Other,35,25K,Female,England,35,28586.34
+Other,35,45K,Female,England,35,49160.19
+Other,35,50K,Female,England,35,54691.63
+Other,35,100K,Female,England,35,104867.33
+Other,35,40K,Female,England,35,42162.2
+Other,35,15K,Female,England,35,16482.84
+Other,35,30K,Female,England,35,30158.68
+Other,35,80K,Female,England,35,82688.19
+Other,36,10K,Female,England,36,10057.04
+Other,36,35K,Female,England,36,39639.3
+Other,36,70K,Female,England,36,70684.35
+Other,36,55K,Female,England,36,56430.27
+Other,36,5K,Female,England,36,6272.99
+Other,36,30K,Female,England,36,31377.37
+Other,36,5K,Female,England,36,9106.91
+Other,37,25K,Female,England,37,26478.35
+Other,37,0K,Female,England,37,339.23
+Other,37,85K,Female,England,37,89906.69
+Other,37,30K,Female,England,37,31706.03
+Other,37,35K,Female,England,37,37294.08
+Other,37,15K,Female,England,37,16358.32
+Other,37,90K,Female,England,37,93845.6
+Other,38,80K,Female,England,38,80338.65
+Other,38,50K,Female,England,38,52220.12
+Other,38,75K,Female,England,38,77856.76
+Other,38,35K,Female,England,38,37142.39
+Other,38,50K,Female,England,38,54104.73
+Other,39,30K,Female,England,39,34441.92
+Other,39,15K,Female,England,39,18016.11
+Other,39,60K,Female,England,39,63362.89
+Other,39,20K,Female,England,39,21827.12
+Other,40,50K,Female,England,40,52970.78
+Other,40,55K,Female,England,40,55489.08
+Other,40,0K,Female,England,40,1795.2
+Other,40,85K,Female,England,40,87234.69
+Other,40,25K,Female,England,40,26011.48
+Other,40,25K,Female,England,40,27602.78
+Other,40,20K,Female,England,40,24204.28
+Other,40,70K,Female,England,40,73177.7
+Other,41,70K,Female,England,41,70452.02
+Other,41,15K,Female,England,41,19938.81
+Other,41,40K,Female,England,41,41566.38
+Other,41,15K,Female,England,41,18206.83
+Other,41,15K,Female,England,41,19269.63
+Other,42,60K,Female,England,42,61434.51
+Other,42,10K,Female,England,42,10562.39
+Other,42,15K,Female,England,42,19699.45
+Other,42,105K,Female,England,42,107366.02
+Other,42,0K,Female,England,42,4959.12
+Other,43,35K,Female,England,43,38986.48
+Other,43,85K,Female,England,43,88279.66
+Other,43,70K,Female,England,43,73601.8
+Other,44,60K,Female,England,44,64470.77
+Other,44,10K,Female,England,44,14563.87
+Other,44,70K,Female,England,44,71313.5
+Other,44,10K,Female,England,44,11121.96
+Other,44,50K,Female,England,44,52619.82
+Other,44,30K,Female,England,44,32865.62
+Other,45,35K,Female,England,45,36293
+Other,45,5K,Female,England,45,9976.92
+Other,45,10K,Female,England,45,12247.62
+Other,45,60K,Female,England,45,62529.53
+Other,45,65K,Female,England,45,68291.36
+Other,46,70K,Female,England,46,71257.04
+Other,46,50K,Female,England,46,50959.4
+Other,46,45K,Female,England,46,49374.99
+Other,49,40K,Female,England,49,41652.84
+Other,49,90K,Female,England,49,90049.91
+Other,53,35K,Female,England,53,36319.75
+Other,53,50K,Female,England,53,52378.68
+Other,17,10K,Female,Northern Ireland,17,13301.43
+Other,19,0K,Female,Northern Ireland,19,2184.18
+Other,20,80K,Female,Northern Ireland,20,82598.94
+Other,20,5K,Female,Northern Ireland,20,9707.95
+Other,21,50K,Female,Northern Ireland,21,50686.07
+Other,22,15K,Female,Northern Ireland,22,18299.03
+Other,23,55K,Female,Northern Ireland,23,55821.07
+Other,23,80K,Female,Northern Ireland,23,82229.1
+Other,24,0K,Female,Northern Ireland,24,899.97
+Other,24,65K,Female,Northern Ireland,24,66857.45
+Other,24,0K,Female,Northern Ireland,24,2617.17
+Other,25,25K,Female,Northern Ireland,25,29644.65
+Other,27,15K,Female,Northern Ireland,27,18601.06
+Other,27,35K,Female,Northern Ireland,27,37985.87
+Other,27,65K,Female,Northern Ireland,27,65095.97
+Other,28,25K,Female,Northern Ireland,28,25544.09
+Other,28,30K,Female,Northern Ireland,28,31153.14
+Other,28,15K,Female,Northern Ireland,28,19160.55
+Other,28,130K,Female,Northern Ireland,28,133050.09
+Other,28,40K,Female,Northern Ireland,28,40163.92
+Other,29,30K,Female,Northern Ireland,29,32458.74
+Other,29,70K,Female,Northern Ireland,29,74348.45
+Other,29,75K,Female,Northern Ireland,29,75395.32
+Other,30,60K,Female,Northern Ireland,30,60385.3
+Other,30,50K,Female,Northern Ireland,30,51991.07
+Other,31,5K,Female,Northern Ireland,31,6631.42
+Other,31,30K,Female,Northern Ireland,31,32162.34
+Other,31,50K,Female,Northern Ireland,31,50699.67
+Other,31,30K,Female,Northern Ireland,31,30914.02
+Other,31,5K,Female,Northern Ireland,31,8261.2
+Other,31,25K,Female,Northern Ireland,31,27667.95
+Other,32,45K,Female,Northern Ireland,32,48145.5
+Other,32,5K,Female,Northern Ireland,32,5908.97
+Other,32,15K,Female,Northern Ireland,32,15858.93
+Other,32,20K,Female,Northern Ireland,32,20451.86
+Other,32,15K,Female,Northern Ireland,32,19510.11
+Other,33,0K,Female,Northern Ireland,33,133.75
+Other,34,20K,Female,Northern Ireland,34,20742.96
+Other,34,0K,Female,Northern Ireland,34,4951.65
+Other,35,75K,Female,Northern Ireland,35,77091.37
+Other,36,45K,Female,Northern Ireland,36,49294.33
+Other,36,10K,Female,Northern Ireland,36,11566.5
+Other,38,10K,Female,Northern Ireland,38,13914.8
+Other,39,50K,Female,Northern Ireland,39,50492.06
+Other,39,80K,Female,Northern Ireland,39,84480.9
+Other,42,45K,Female,Northern Ireland,42,46393.55
+Other,42,40K,Female,Northern Ireland,42,43376.23
+Other,43,25K,Female,Northern Ireland,43,29990.71
+Other,43,20K,Female,Northern Ireland,43,21607.48
+Other,45,85K,Female,Northern Ireland,45,88579.21
+Other,46,40K,Female,Northern Ireland,46,44875.11
+Other,52,115K,Female,Northern Ireland,52,118676.95
+Other,52,5K,Female,Northern Ireland,52,7764.71
+Other,55,55K,Female,Northern Ireland,55,55111.01
+Other,27,5K,Female,Scotland,27,7835.23
+Other,28,50K,Female,Scotland,28,52614.67
+Other,28,30K,Female,Scotland,28,33797.54
+Other,28,30K,Female,Scotland,28,32468.21
+Other,30,30K,Female,Scotland,30,31311.45
+Other,31,10K,Female,Scotland,31,14526.24
+Other,32,35K,Female,Scotland,32,37920.84
+Other,33,25K,Female,Scotland,33,27833.06
+Other,34,60K,Female,Scotland,34,61355.54
+Other,34,55K,Female,Scotland,34,57068.72
+Other,34,20K,Female,Scotland,34,20725.33
+Other,35,5K,Female,Scotland,35,5897.92
+Other,36,30K,Female,Scotland,36,33617.08
+Other,37,55K,Female,Scotland,37,59655.79
+Other,37,25K,Female,Scotland,37,29666.2
+Other,38,65K,Female,Scotland,38,69556.06
+Other,38,110K,Female,Scotland,38,114945.55
+Other,38,100K,Female,Scotland,38,102268.43
+Other,38,35K,Female,Scotland,38,37115.03
+Other,38,65K,Female,Scotland,38,67598.37
+Other,39,45K,Female,Scotland,39,47002.22
+Other,39,55K,Female,Scotland,39,58376.83
+Other,39,30K,Female,Scotland,39,31245
+Other,39,60K,Female,Scotland,39,60307.56
+Other,39,10K,Female,Scotland,39,13061.49
+Other,40,20K,Female,Scotland,40,22027.41
+Other,40,15K,Female,Scotland,40,16469.27
+Other,40,35K,Female,Scotland,40,36530.74
+Other,41,5K,Female,Scotland,41,8910.56
+Other,41,10K,Female,Scotland,41,10473.35
+Other,42,35K,Female,Scotland,42,38905.96
+Other,42,80K,Female,Scotland,42,80857.57
+Other,42,5K,Female,Scotland,42,6916.13
+Other,42,0K,Female,Scotland,42,1063.2
+Other,42,5K,Female,Scotland,42,9013.24
+Other,42,60K,Female,Scotland,42,62850.82
+Other,42,55K,Female,Scotland,42,56135.18
+Other,42,55K,Female,Scotland,42,59189.09
+Other,43,5K,Female,Scotland,43,8837.34
+Other,43,0K,Female,Scotland,43,3297.32
+Other,43,40K,Female,Scotland,43,41538.28
+Other,43,0K,Female,Scotland,43,3893.42
+Other,43,10K,Female,Scotland,43,10037.76
+Other,43,15K,Female,Scotland,43,19695.66
+Other,43,35K,Female,Scotland,43,38012.27
+Other,43,35K,Female,Scotland,43,38308.54
+Other,43,60K,Female,Scotland,43,63757.4
+Other,43,40K,Female,Scotland,43,40730.74
+Other,43,5K,Female,Scotland,43,7670.6
+Other,43,10K,Female,Scotland,43,10513.17
+Other,44,60K,Female,Scotland,44,60444.7
+Other,44,10K,Female,Scotland,44,10268.99
+Other,44,10K,Female,Scotland,44,12939.73
+Other,44,15K,Female,Scotland,44,19326.71
+Other,44,40K,Female,Scotland,44,44623.87
+Other,44,20K,Female,Scotland,44,22760.94
+Other,44,20K,Female,Scotland,44,24636.06
+Other,44,10K,Female,Scotland,44,14635.36
+Other,44,55K,Female,Scotland,44,59401.58
+Other,44,0K,Female,Scotland,44,2799.27
+Other,44,30K,Female,Scotland,44,33835.65
+Other,44,25K,Female,Scotland,44,25692
+Other,45,5K,Female,Scotland,45,6176.99
+Other,45,5K,Female,Scotland,45,9654.58
+Other,45,30K,Female,Scotland,45,33898.15
+Other,45,20K,Female,Scotland,45,24993.27
+Other,45,70K,Female,Scotland,45,71299.84
+Other,45,10K,Female,Scotland,45,10628.71
+Other,45,25K,Female,Scotland,45,28231.9
+Other,45,0K,Female,Scotland,45,4151.14
+Other,46,15K,Female,Scotland,46,15479.42
+Other,46,20K,Female,Scotland,46,24686.89
+Other,46,75K,Female,Scotland,46,79599.33
+Other,46,0K,Female,Scotland,46,3374.35
+Other,46,20K,Female,Scotland,46,22847.37
+Other,46,10K,Female,Scotland,46,13507.48
+Other,46,30K,Female,Scotland,46,32324.22
+Other,46,40K,Female,Scotland,46,43705.96
+Other,46,25K,Female,Scotland,46,27886.21
+Other,46,35K,Female,Scotland,46,36237.59
+Other,47,30K,Female,Scotland,47,34391.3
+Other,47,95K,Female,Scotland,47,97165.43
+Other,47,10K,Female,Scotland,47,10671.26
+Other,47,45K,Female,Scotland,47,48268.62
+Other,47,60K,Female,Scotland,47,64940.12
+Other,47,35K,Female,Scotland,47,38258.98
+Other,47,20K,Female,Scotland,47,20587.44
+Other,47,85K,Female,Scotland,47,86073.84
+Other,47,5K,Female,Scotland,47,9169.82
+Other,48,35K,Female,Scotland,48,39884.78
+Other,48,35K,Female,Scotland,48,35190.96
+Other,48,10K,Female,Scotland,48,12405.42
+Other,48,5K,Female,Scotland,48,6104.59
+Other,48,60K,Female,Scotland,48,63490.36
+Other,48,40K,Female,Scotland,48,40137.73
+Other,48,5K,Female,Scotland,48,7764.14
+Other,48,15K,Female,Scotland,48,19089.33
+Other,48,70K,Female,Scotland,48,73328.32
+Other,48,5K,Female,Scotland,48,9758.08
+Other,49,25K,Female,Scotland,49,29854.64
+Other,49,115K,Female,Scotland,49,115069.41
+Other,49,20K,Female,Scotland,49,21093.17
+Other,49,60K,Female,Scotland,49,62026.18
+Other,49,5K,Female,Scotland,49,5981.41
+Other,49,70K,Female,Scotland,49,73866.02
+Other,49,30K,Female,Scotland,49,31505.8
+Other,49,45K,Female,Scotland,49,49277
+Other,49,45K,Female,Scotland,49,47764.94
+Other,49,70K,Female,Scotland,49,74079.13
+Other,49,5K,Female,Scotland,49,7873.92
+Other,49,35K,Female,Scotland,49,38447.9
+Other,50,45K,Female,Scotland,50,48266.76
+Other,50,15K,Female,Scotland,50,15104.72
+Other,50,25K,Female,Scotland,50,26851.86
+Other,50,30K,Female,Scotland,50,31918.02
+Other,50,95K,Female,Scotland,50,99770.73
+Other,50,55K,Female,Scotland,50,59477.82
+Other,50,10K,Female,Scotland,50,14835.01
+Other,50,25K,Female,Scotland,50,28116.71
+Other,50,65K,Female,Scotland,50,67803.35
+Other,51,25K,Female,Scotland,51,29889.68
+Other,51,15K,Female,Scotland,51,16321.85
+Other,51,55K,Female,Scotland,51,58682.58
+Other,51,55K,Female,Scotland,51,55056.65
+Other,51,5K,Female,Scotland,51,6555.97
+Other,51,10K,Female,Scotland,51,11909.63
+Other,51,50K,Female,Scotland,51,50115.25
+Other,51,5K,Female,Scotland,51,5227.69
+Other,51,40K,Female,Scotland,51,43954.03
+Other,51,5K,Female,Scotland,51,5467.19
+Other,51,45K,Female,Scotland,51,47468.79
+Other,52,5K,Female,Scotland,52,8526.86
+Other,52,5K,Female,Scotland,52,6222.21
+Other,52,60K,Female,Scotland,52,61901.62
+Other,52,65K,Female,Scotland,52,65019.95
+Other,52,45K,Female,Scotland,52,49205.24
+Other,52,35K,Female,Scotland,52,36607.23
+Other,52,10K,Female,Scotland,52,12210.94
+Other,52,50K,Female,Scotland,52,53599.25
+Other,52,15K,Female,Scotland,52,16743.55
+Other,52,90K,Female,Scotland,52,94197.01
+Other,53,35K,Female,Scotland,53,37604.23
+Other,53,35K,Female,Scotland,53,36741.01
+Other,53,0K,Female,Scotland,53,466.01
+Other,53,40K,Female,Scotland,53,40931.28
+Other,53,5K,Female,Scotland,53,7887.99
+Other,53,50K,Female,Scotland,53,53820.41
+Other,53,10K,Female,Scotland,53,12769.93
+Other,53,55K,Female,Scotland,53,56122.61
+Other,53,55K,Female,Scotland,53,56872.97
+Other,53,45K,Female,Scotland,53,47265.41
+Other,53,40K,Female,Scotland,53,41704.56
+Other,53,70K,Female,Scotland,53,71809.45
+Other,53,20K,Female,Scotland,53,21717.51
+Other,53,50K,Female,Scotland,53,51621.76
+Other,53,80K,Female,Scotland,53,81863.36
+Other,54,80K,Female,Scotland,54,80616.31
+Other,54,40K,Female,Scotland,54,43204.63
+Other,54,35K,Female,Scotland,54,37009.51
+Other,54,60K,Female,Scotland,54,61439.56
+Other,54,40K,Female,Scotland,54,40691.52
+Other,54,15K,Female,Scotland,54,17076.49
+Other,54,30K,Female,Scotland,54,34767.58
+Other,54,10K,Female,Scotland,54,12121.66
+Other,55,45K,Female,Scotland,55,46862.56
+Other,55,10K,Female,Scotland,55,10738.26
+Other,55,75K,Female,Scotland,55,77113.36
+Other,55,100K,Female,Scotland,55,100995.05
+Other,55,15K,Female,Scotland,55,18705.83
+Other,55,25K,Female,Scotland,55,29753.91
+Other,55,65K,Female,Scotland,55,68864.13
+Other,55,10K,Female,Scotland,55,12232.83
+Other,55,5K,Female,Scotland,55,7365.5
+Other,56,25K,Female,Scotland,56,25452.8
+Other,56,0K,Female,Scotland,56,4111.03
+Other,56,10K,Female,Scotland,56,14418.78
+Other,56,115K,Female,Scotland,56,115592.15
+Other,56,10K,Female,Scotland,56,11863.42
+Other,56,25K,Female,Scotland,56,29174.19
+Other,56,10K,Female,Scotland,56,10029.71
+Other,56,5K,Female,Scotland,56,6197.21
+Other,56,65K,Female,Scotland,56,66211.28
+Other,57,35K,Female,Scotland,57,38534.15
+Other,57,0K,Female,Scotland,57,4025.97
+Other,57,30K,Female,Scotland,57,31148.7
+Other,57,20K,Female,Scotland,57,20516.92
+Other,58,55K,Female,Scotland,58,59941.68
+Other,58,50K,Female,Scotland,58,53914.11
+Other,58,105K,Female,Scotland,58,105104.49
+Other,58,65K,Female,Scotland,58,69027.62
+Other,58,15K,Female,Scotland,58,15502.73
+Other,58,75K,Female,Scotland,58,77504.67
+Other,59,15K,Female,Scotland,59,19630.11
+Other,59,40K,Female,Scotland,59,44326.6
+Other,59,50K,Female,Scotland,59,54003.42
+Other,59,35K,Female,Scotland,59,39943.69
+Other,59,85K,Female,Scotland,59,87136.45
+Other,59,5K,Female,Scotland,59,6674.7
+Other,59,10K,Female,Scotland,59,14644.76
+Other,59,95K,Female,Scotland,59,99970.31
+Other,59,55K,Female,Scotland,59,55368.66
+Other,59,10K,Female,Scotland,59,13708.97
+Other,60,45K,Female,Scotland,60,47942.04
+Other,60,25K,Female,Scotland,60,28541.14
+Other,60,65K,Female,Scotland,60,67913.86
+Other,60,0K,Female,Scotland,60,2527
+Other,60,40K,Female,Scotland,60,44430.94
+Other,61,15K,Female,Scotland,61,18880.99
+Other,62,110K,Female,Scotland,62,110171.27
+Other,62,85K,Female,Scotland,62,86610.74
+Other,62,20K,Female,Scotland,62,23578.96
+Other,64,20K,Female,Scotland,64,23522.36
+Other,64,70K,Female,Scotland,64,73503.9
+Other,18,15K,Female,Wales,18,18574.76
+Other,25,5K,Female,Wales,25,5073.87
+Other,26,30K,Female,Wales,26,31028.36
+Other,27,40K,Female,Wales,27,40857.78
+Other,28,60K,Female,Wales,28,62137.79
+Other,31,20K,Female,Wales,31,23095.68
+Other,31,5K,Female,Wales,31,7541.33
+Other,31,10K,Female,Wales,31,14961.53
+Other,32,15K,Female,Wales,32,19954.05
+Other,33,15K,Female,Wales,33,18469.94
+Other,33,70K,Female,Wales,33,74578.98
+Other,34,55K,Female,Wales,34,55297.13
+Other,34,15K,Female,Wales,34,19249.76
+Other,35,40K,Female,Wales,35,42743
+Other,35,20K,Female,Wales,35,23072.45
+Other,36,5K,Female,Wales,36,9679.91
+Other,36,60K,Female,Wales,36,60441.82
+Other,36,30K,Female,Wales,36,33899.52
+Other,36,40K,Female,Wales,36,44515.4
+Other,37,15K,Female,Wales,37,15635.08
+Other,38,25K,Female,Wales,38,28968.33
+Other,38,90K,Female,Wales,38,94773.07
+Other,38,20K,Female,Wales,38,23527.21
+Other,39,65K,Female,Wales,39,69569.29
+Other,39,25K,Female,Wales,39,25974.49
+Other,39,65K,Female,Wales,39,68659.24
+Other,40,35K,Female,Wales,40,37204.58
+Other,41,15K,Female,Wales,41,19485.71
+Other,42,55K,Female,Wales,42,55359.26
+Other,42,25K,Female,Wales,42,28516.17
+Other,44,35K,Female,Wales,44,39986.1
+Other,44,0K,Female,Wales,44,1884.22
+Other,44,40K,Female,Wales,44,44752.01
+Other,45,50K,Female,Wales,45,53783.65
+Other,45,20K,Female,Wales,45,22305.13
+Other,45,85K,Female,Wales,45,86475.8
+Other,47,70K,Female,Wales,47,71574.75
+Other,50,90K,Female,Wales,50,91569.83
+White Collar,18,35K,Female,England,18,36706.84
+White Collar,18,90K,Female,England,18,93603.84
+White Collar,18,30K,Female,England,18,31719.69
+White Collar,18,15K,Female,England,18,18520
+White Collar,19,35K,Female,England,19,37946.24
+White Collar,20,50K,Female,England,20,51904.56
+White Collar,20,15K,Female,England,20,17321.01
+White Collar,20,70K,Female,England,20,74880.21
+White Collar,20,30K,Female,England,20,34528.03
+White Collar,21,25K,Female,England,21,25489.13
+White Collar,21,0K,Female,England,21,3038.3
+White Collar,21,10K,Female,England,21,14599.55
+White Collar,22,80K,Female,England,22,84123.93
+White Collar,22,30K,Female,England,22,32946.72
+White Collar,22,80K,Female,England,22,80667.65
+White Collar,22,15K,Female,England,22,16369.66
+White Collar,22,70K,Female,England,22,73415.97
+White Collar,22,15K,Female,England,22,15613.06
+White Collar,22,25K,Female,England,22,28189.39
+White Collar,23,5K,Female,England,23,5965.14
+White Collar,23,130K,Female,England,23,133589.87
+White Collar,23,45K,Female,England,23,47114.15
+White Collar,23,15K,Female,England,23,17247.7
+White Collar,23,40K,Female,England,23,44620.56
+White Collar,23,20K,Female,England,23,24384.59
+White Collar,23,20K,Female,England,23,23220.99
+White Collar,23,10K,Female,England,23,13772.7
+White Collar,24,90K,Female,England,24,93329.94
+White Collar,24,85K,Female,England,24,86123
+White Collar,24,25K,Female,England,24,27806.65
+White Collar,24,70K,Female,England,24,71148.77
+White Collar,24,0K,Female,England,24,2590.6
+White Collar,24,95K,Female,England,24,97846.35
+White Collar,24,25K,Female,England,24,27028.23
+White Collar,24,55K,Female,England,24,59597.09
+White Collar,25,20K,Female,England,25,23571.9
+White Collar,25,5K,Female,England,25,5121.17
+White Collar,25,10K,Female,England,25,13710.31
+White Collar,25,50K,Female,England,25,54930.04
+White Collar,25,70K,Female,England,25,74258.42
+White Collar,25,40K,Female,England,25,42773.9
+White Collar,25,40K,Female,England,25,41415.13
+White Collar,25,45K,Female,England,25,45618.61
+White Collar,25,5K,Female,England,25,5834.39
+White Collar,25,20K,Female,England,25,20412.43
+White Collar,25,55K,Female,England,25,56604.06
+White Collar,25,25K,Female,England,25,29770.55
+White Collar,25,20K,Female,England,25,22598.74
+White Collar,25,20K,Female,England,25,21738.25
+White Collar,25,65K,Female,England,25,66105.55
+White Collar,25,40K,Female,England,25,44240.78
+White Collar,26,10K,Female,England,26,13836.11
+White Collar,26,50K,Female,England,26,54926.14
+White Collar,26,5K,Female,England,26,5526.87
+White Collar,26,0K,Female,England,26,2849.16
+White Collar,26,20K,Female,England,26,21988.77
+White Collar,26,10K,Female,England,26,13299.35
+White Collar,26,25K,Female,England,26,25355.23
+White Collar,26,55K,Female,England,26,59155.94
+White Collar,26,20K,Female,England,26,22897.58
+White Collar,26,0K,Female,England,26,3974.04
+White Collar,26,80K,Female,England,26,83372.36
+White Collar,26,15K,Female,England,26,19090.8
+White Collar,27,20K,Female,England,27,23183.41
+White Collar,27,0K,Female,England,27,3120.2
+White Collar,27,70K,Female,England,27,73722.88
+White Collar,27,0K,Female,England,27,361.64
+White Collar,27,55K,Female,England,27,57283.14
+White Collar,27,60K,Female,England,27,63257.61
+White Collar,27,55K,Female,England,27,55631.78
+White Collar,27,40K,Female,England,27,42901.77
+White Collar,27,10K,Female,England,27,13854.47
+White Collar,28,20K,Female,England,28,20894.82
+White Collar,28,5K,Female,England,28,8195.76
+White Collar,28,55K,Female,England,28,59252.91
+White Collar,28,25K,Female,England,28,28802.1
+White Collar,28,75K,Female,England,28,76304.75
+White Collar,28,10K,Female,England,28,14786.28
+White Collar,28,15K,Female,England,28,19866.92
+White Collar,28,30K,Female,England,28,31066.94
+White Collar,28,25K,Female,England,28,26670.87
+White Collar,28,100K,Female,England,28,104030.29
+White Collar,28,80K,Female,England,28,82638.51
+White Collar,28,0K,Female,England,28,3766.5
+White Collar,28,140K,Female,England,28,142461.87
+White Collar,28,15K,Female,England,28,17565.51
+White Collar,28,105K,Female,England,28,107083.15
+White Collar,28,10K,Female,England,28,11549.67
+White Collar,28,35K,Female,England,28,38920.96
+White Collar,28,35K,Female,England,28,36852.63
+White Collar,28,20K,Female,England,28,21840.84
+White Collar,28,10K,Female,England,28,12085.14
+White Collar,28,35K,Female,England,28,39275.12
+White Collar,28,85K,Female,England,28,88090.32
+White Collar,29,30K,Female,England,29,34725.59
+White Collar,29,5K,Female,England,29,6807.36
+White Collar,29,100K,Female,England,29,103942.23
+White Collar,29,65K,Female,England,29,65213.98
+White Collar,29,65K,Female,England,29,69174.72
+White Collar,29,25K,Female,England,29,25137.17
+White Collar,29,95K,Female,England,29,96673.11
+White Collar,29,15K,Female,England,29,17287.98
+White Collar,29,20K,Female,England,29,23159.95
+White Collar,29,10K,Female,England,29,14661.25
+White Collar,29,5K,Female,England,29,9622.64
+White Collar,29,15K,Female,England,29,16056.76
+White Collar,29,15K,Female,England,29,17952.16
+White Collar,29,50K,Female,England,29,54174.39
+White Collar,29,40K,Female,England,29,40307.9
+White Collar,29,40K,Female,England,29,44345.61
+White Collar,29,50K,Female,England,29,53197.64
+White Collar,29,0K,Female,England,29,98.68
+White Collar,29,50K,Female,England,29,53584.67
+White Collar,29,70K,Female,England,29,71423.01
+White Collar,29,35K,Female,England,29,39324.22
+White Collar,29,5K,Female,England,29,5312.07
+White Collar,29,40K,Female,England,29,40656.48
+White Collar,29,20K,Female,England,29,21477.46
+White Collar,29,25K,Female,England,29,26802.82
+White Collar,29,115K,Female,England,29,119118.39
+White Collar,29,35K,Female,England,29,37466.44
+White Collar,30,105K,Female,England,30,106490.28
+White Collar,30,45K,Female,England,30,49965.59
+White Collar,30,10K,Female,England,30,12356.64
+White Collar,30,50K,Female,England,30,54749.13
+White Collar,30,15K,Female,England,30,16703.14
+White Collar,30,135K,Female,England,30,139784.01
+White Collar,30,0K,Female,England,30,279.01
+White Collar,30,55K,Female,England,30,59120.59
+White Collar,30,0K,Female,England,30,4570.98
+White Collar,30,15K,Female,England,30,17332.05
+White Collar,30,135K,Female,England,30,138086.22
+White Collar,30,0K,Female,England,30,1839.84
+White Collar,30,0K,Female,England,30,2467.17
+White Collar,30,35K,Female,England,30,39515
+White Collar,30,15K,Female,England,30,17188.21
+White Collar,30,25K,Female,England,30,27937.26
+White Collar,30,140K,Female,England,30,143808.39
+White Collar,30,40K,Female,England,30,41750.17
+White Collar,30,40K,Female,England,30,44599.53
+White Collar,30,50K,Female,England,30,52200.62
+White Collar,30,0K,Female,England,30,2633.71
+White Collar,30,50K,Female,England,30,51090.19
+White Collar,30,25K,Female,England,30,25489.52
+White Collar,30,100K,Female,England,30,101676.32
+White Collar,30,25K,Female,England,30,26551.11
+White Collar,30,75K,Female,England,30,79094.42
+White Collar,30,55K,Female,England,30,57333.77
+White Collar,30,75K,Female,England,30,78128.45
+White Collar,30,70K,Female,England,30,73833.28
+White Collar,30,45K,Female,England,30,45527.09
+White Collar,30,40K,Female,England,30,43545.03
+White Collar,31,40K,Female,England,31,44576.62
+White Collar,31,0K,Female,England,31,1330.3
+White Collar,31,45K,Female,England,31,48927.48
+White Collar,31,80K,Female,England,31,82376.44
+White Collar,31,25K,Female,England,31,29053.97
+White Collar,31,10K,Female,England,31,12498.12
+White Collar,31,80K,Female,England,31,84543.25
+White Collar,31,25K,Female,England,31,29296.95
+White Collar,31,130K,Female,England,31,130717.22
+White Collar,31,20K,Female,England,31,23497.05
+White Collar,31,40K,Female,England,31,42662.04
+White Collar,31,10K,Female,England,31,10512.25
+White Collar,31,20K,Female,England,31,24845.43
+White Collar,31,180K,Female,England,31,183467.7
+White Collar,31,0K,Female,England,31,4930.82
+White Collar,31,25K,Female,England,31,27031.96
+White Collar,31,90K,Female,England,31,92983.44
+White Collar,31,15K,Female,England,31,16392.78
+White Collar,31,20K,Female,England,31,20953.3
+White Collar,31,55K,Female,England,31,59263.01
+White Collar,31,70K,Female,England,31,70153.14
+White Collar,31,40K,Female,England,31,40138.75
+White Collar,31,110K,Female,England,31,113868.94
+White Collar,31,85K,Female,England,31,87684.33
+White Collar,31,45K,Female,England,31,45730.02
+White Collar,31,5K,Female,England,31,5062.51
+White Collar,31,30K,Female,England,31,34720.54
+White Collar,31,25K,Female,England,31,25012.17
+White Collar,31,0K,Female,England,31,1447.65
+White Collar,31,45K,Female,England,31,47381.87
+White Collar,32,65K,Female,England,32,68573.19
+White Collar,32,15K,Female,England,32,19995.78
+White Collar,32,30K,Female,England,32,32135.05
+White Collar,32,70K,Female,England,32,74633.22
+White Collar,32,55K,Female,England,32,55749.19
+White Collar,32,15K,Female,England,32,17090.17
+White Collar,32,45K,Female,England,32,47291.75
+White Collar,32,65K,Female,England,32,68085.45
+White Collar,32,85K,Female,England,32,89329.33
+White Collar,32,25K,Female,England,32,26094.22
+White Collar,32,80K,Female,England,32,82104.77
+White Collar,32,50K,Female,England,32,51475.16
+White Collar,32,40K,Female,England,32,44646.75
+White Collar,32,50K,Female,England,32,50282.25
+White Collar,32,5K,Female,England,32,5709.07
+White Collar,32,5K,Female,England,32,6968.37
+White Collar,32,35K,Female,England,32,35888.1
+White Collar,32,30K,Female,England,32,31675.17
+White Collar,32,5K,Female,England,32,5369.67
+White Collar,32,95K,Female,England,32,98044.81
+White Collar,32,70K,Female,England,32,72066.5
+White Collar,32,50K,Female,England,32,53274.83
+White Collar,32,15K,Female,England,32,17715.69
+White Collar,32,10K,Female,England,32,13100.46
+White Collar,32,75K,Female,England,32,79292.15
+White Collar,32,85K,Female,England,32,86890.77
+White Collar,32,55K,Female,England,32,55945.74
+White Collar,32,50K,Female,England,32,50111.16
+White Collar,32,30K,Female,England,32,31476.35
+White Collar,32,25K,Female,England,32,27424.78
+White Collar,32,25K,Female,England,32,26231.03
+White Collar,32,25K,Female,England,32,25464.76
+White Collar,32,35K,Female,England,32,37281.32
+White Collar,32,50K,Female,England,32,52248.29
+White Collar,32,70K,Female,England,32,70324.5
+White Collar,32,60K,Female,England,32,64135.72
+White Collar,32,25K,Female,England,32,27985.76
+White Collar,32,5K,Female,England,32,9287.63
+White Collar,32,30K,Female,England,32,30225.62
+White Collar,32,30K,Female,England,32,33535.24
+White Collar,33,35K,Female,England,33,36425.21
+White Collar,33,35K,Female,England,33,36017.49
+White Collar,33,15K,Female,England,33,15241.21
+White Collar,33,60K,Female,England,33,60116.4
+White Collar,33,30K,Female,England,33,31896.91
+White Collar,33,10K,Female,England,33,14121.7
+White Collar,33,80K,Female,England,33,84064.01
+White Collar,33,60K,Female,England,33,64582.89
+White Collar,33,15K,Female,England,33,19092.99
+White Collar,33,45K,Female,England,33,46035.81
+White Collar,33,10K,Female,England,33,12547.19
+White Collar,33,15K,Female,England,33,16867.36
+White Collar,33,10K,Female,England,33,14301.43
+White Collar,33,0K,Female,England,33,4884.67
+White Collar,33,20K,Female,England,33,21875.7
+White Collar,33,10K,Female,England,33,12357.62
+White Collar,33,75K,Female,England,33,76455.17
+White Collar,33,85K,Female,England,33,88647.1
+White Collar,33,0K,Female,England,33,4575
+White Collar,33,30K,Female,England,33,30454.03
+White Collar,33,45K,Female,England,33,48715.23
+White Collar,33,30K,Female,England,33,34728.83
+White Collar,33,35K,Female,England,33,37520.39
+White Collar,33,20K,Female,England,33,23875.68
+White Collar,33,20K,Female,England,33,20517.2
+White Collar,33,30K,Female,England,33,30045.02
+White Collar,33,65K,Female,England,33,68170.2
+White Collar,33,85K,Female,England,33,85325.26
+White Collar,33,5K,Female,England,33,9113.19
+White Collar,33,40K,Female,England,33,41722.55
+White Collar,34,20K,Female,England,34,22701.72
+White Collar,34,20K,Female,England,34,24006.93
+White Collar,34,0K,Female,England,34,4056.75
+White Collar,34,20K,Female,England,34,21706.73
+White Collar,34,20K,Female,England,34,24827.57
+White Collar,34,60K,Female,England,34,63677.23
+White Collar,34,75K,Female,England,34,77383.45
+White Collar,34,50K,Female,England,34,51621.8
+White Collar,34,70K,Female,England,34,74987.04
+White Collar,34,25K,Female,England,34,29587.31
+White Collar,34,25K,Female,England,34,26768.44
+White Collar,34,0K,Female,England,34,4300.94
+White Collar,34,45K,Female,England,34,48696.83
+White Collar,34,40K,Female,England,34,44066.67
+White Collar,34,105K,Female,England,34,107351.49
+White Collar,34,140K,Female,England,34,143879.62
+White Collar,34,5K,Female,England,34,9286.99
+White Collar,34,95K,Female,England,34,95423
+White Collar,34,130K,Female,England,34,131464.91
+White Collar,34,40K,Female,England,34,41588.81
+White Collar,34,30K,Female,England,34,30002.9
+White Collar,34,125K,Female,England,34,125101.37
+White Collar,34,5K,Female,England,34,5871.86
+White Collar,34,15K,Female,England,34,18856.08
+White Collar,34,145K,Female,England,34,149684.4
+White Collar,34,50K,Female,England,34,52702.58
+White Collar,34,0K,Female,England,34,3682.9
+White Collar,34,10K,Female,England,34,10594.11
+White Collar,34,60K,Female,England,34,60071.77
+White Collar,34,15K,Female,England,34,17928.42
+White Collar,34,5K,Female,England,34,7520
+White Collar,34,60K,Female,England,34,61576
+White Collar,35,0K,Female,England,35,2120.44
+White Collar,35,25K,Female,England,35,26366.52
+White Collar,35,5K,Female,England,35,5603.29
+White Collar,35,25K,Female,England,35,28148.92
+White Collar,35,5K,Female,England,35,9096.77
+White Collar,35,25K,Female,England,35,26111.44
+White Collar,35,10K,Female,England,35,14125.9
+White Collar,35,0K,Female,England,35,4750.24
+White Collar,35,10K,Female,England,35,10708.34
+White Collar,35,0K,Female,England,35,1827.85
+White Collar,35,30K,Female,England,35,31376.37
+White Collar,35,15K,Female,England,35,17322.36
+White Collar,35,25K,Female,England,35,29531.43
+White Collar,35,5K,Female,England,35,5247.83
+White Collar,35,30K,Female,England,35,31392.78
+White Collar,35,120K,Female,England,35,123357.17
+White Collar,35,45K,Female,England,35,45139.58
+White Collar,35,15K,Female,England,35,19857.59
+White Collar,35,15K,Female,England,35,16080.85
+White Collar,35,30K,Female,England,35,34046.5
+White Collar,35,40K,Female,England,35,43139.15
+White Collar,35,50K,Female,England,35,53799.34
+White Collar,35,5K,Female,England,35,8196.9
+White Collar,35,5K,Female,England,35,6556.67
+White Collar,35,10K,Female,England,35,14505.16
+White Collar,35,10K,Female,England,35,11634.97
+White Collar,35,20K,Female,England,35,20637.25
+White Collar,35,25K,Female,England,35,28974.08
+White Collar,35,20K,Female,England,35,23238.28
+White Collar,35,10K,Female,England,35,10247.99
+White Collar,35,60K,Female,England,35,64757.52
+White Collar,35,45K,Female,England,35,46370.97
+White Collar,35,20K,Female,England,35,21508.14
+White Collar,35,40K,Female,England,35,44622.79
+White Collar,36,55K,Female,England,36,57272.58
+White Collar,36,30K,Female,England,36,34618.76
+White Collar,36,40K,Female,England,36,40233.57
+White Collar,36,45K,Female,England,36,47392.56
+White Collar,36,25K,Female,England,36,29876.68
+White Collar,36,5K,Female,England,36,7039.42
+White Collar,36,50K,Female,England,36,50507.35
+White Collar,36,60K,Female,England,36,64555.12
+White Collar,36,45K,Female,England,36,47360.38
+White Collar,36,25K,Female,England,36,28128.35
+White Collar,36,20K,Female,England,36,20254.46
+White Collar,36,45K,Female,England,36,47422.55
+White Collar,36,45K,Female,England,36,47211.31
+White Collar,36,0K,Female,England,36,2566.77
+White Collar,36,0K,Female,England,36,625.07
+White Collar,36,95K,Female,England,36,98682.44
+White Collar,36,80K,Female,England,36,84693.18
+White Collar,36,45K,Female,England,36,49717.13
+White Collar,36,50K,Female,England,36,51614.58
+White Collar,36,0K,Female,England,36,3108.56
+White Collar,36,0K,Female,England,36,4867.07
+White Collar,36,20K,Female,England,36,23749.79
+White Collar,36,45K,Female,England,36,48661.99
+White Collar,36,20K,Female,England,36,23052.1
+White Collar,36,140K,Female,England,36,143447.15
+White Collar,36,70K,Female,England,36,72042.13
+White Collar,36,25K,Female,England,36,27081.12
+White Collar,36,110K,Female,England,36,111371.69
+White Collar,36,75K,Female,England,36,77553.79
+White Collar,36,40K,Female,England,36,41867.19
+White Collar,36,5K,Female,England,36,9356.5
+White Collar,36,15K,Female,England,36,15805.36
+White Collar,36,65K,Female,England,36,66084.12
+White Collar,36,30K,Female,England,36,30604.28
+White Collar,36,50K,Female,England,36,50523.67
+White Collar,36,55K,Female,England,36,59611.33
+White Collar,36,10K,Female,England,36,14544.43
+White Collar,36,60K,Female,England,36,61324.68
+White Collar,36,35K,Female,England,36,37684.71
+White Collar,36,5K,Female,England,36,8942.95
+White Collar,36,30K,Female,England,36,33197.49
+White Collar,36,20K,Female,England,36,24177.3
+White Collar,36,50K,Female,England,36,52050.39
+White Collar,36,125K,Female,England,36,125690.43
+White Collar,37,45K,Female,England,37,49587.2
+White Collar,37,5K,Female,England,37,6845.33
+White Collar,37,25K,Female,England,37,27784.27
+White Collar,37,10K,Female,England,37,12504.73
+White Collar,37,5K,Female,England,37,7467.05
+White Collar,37,30K,Female,England,37,32132.56
+White Collar,37,30K,Female,England,37,31117.71
+White Collar,37,30K,Female,England,37,30894.09
+White Collar,37,25K,Female,England,37,26052.24
+White Collar,37,30K,Female,England,37,32122.47
+White Collar,37,5K,Female,England,37,6110.25
+White Collar,37,0K,Female,England,37,4909.99
+White Collar,37,50K,Female,England,37,51295.71
+White Collar,37,120K,Female,England,37,122248.3
+White Collar,37,10K,Female,England,37,14610.17
+White Collar,37,25K,Female,England,37,27959.65
+White Collar,37,95K,Female,England,37,97665.32
+White Collar,37,60K,Female,England,37,60167.62
+White Collar,37,35K,Female,England,37,39673.84
+White Collar,37,45K,Female,England,37,47072.67
+White Collar,37,35K,Female,England,37,36318.15
+White Collar,37,5K,Female,England,37,7355.25
+White Collar,37,0K,Female,England,37,2317.41
+White Collar,37,40K,Female,England,37,44335.18
+White Collar,37,40K,Female,England,37,42737.83
+White Collar,37,25K,Female,England,37,25191.07
+White Collar,37,45K,Female,England,37,47843.83
+White Collar,37,80K,Female,England,37,81383.21
+White Collar,37,30K,Female,England,37,31435.65
+White Collar,38,45K,Female,England,38,49606.03
+White Collar,38,5K,Female,England,38,5053.64
+White Collar,38,95K,Female,England,38,95608.2
+White Collar,38,25K,Female,England,38,25195.87
+White Collar,38,0K,Female,England,38,2845.03
+White Collar,38,5K,Female,England,38,5852.82
+White Collar,38,65K,Female,England,38,66093.41
+White Collar,38,95K,Female,England,38,96144.95
+White Collar,38,5K,Female,England,38,9071.71
+White Collar,38,50K,Female,England,38,54755.3
+White Collar,38,20K,Female,England,38,22690.73
+White Collar,38,80K,Female,England,38,81724.65
+White Collar,38,35K,Female,England,38,35992.01
+White Collar,38,85K,Female,England,38,89126.12
+White Collar,38,45K,Female,England,38,49490.42
+White Collar,38,30K,Female,England,38,31921.61
+White Collar,38,25K,Female,England,38,25016.8
+White Collar,38,0K,Female,England,38,11.52
+White Collar,38,35K,Female,England,38,37866.52
+White Collar,38,5K,Female,England,38,8080.08
+White Collar,38,20K,Female,England,38,23666.54
+White Collar,38,35K,Female,England,38,39171.72
+White Collar,38,0K,Female,England,38,1768.41
+White Collar,38,30K,Female,England,38,33589.65
+White Collar,38,20K,Female,England,38,24834.61
+White Collar,38,15K,Female,England,38,18578.98
+White Collar,38,30K,Female,England,38,30701.78
+White Collar,38,0K,Female,England,38,3876.27
+White Collar,38,20K,Female,England,38,24729.58
+White Collar,38,40K,Female,England,38,42816.16
+White Collar,38,50K,Female,England,38,51616.07
+White Collar,38,30K,Female,England,38,34385.32
+White Collar,38,65K,Female,England,38,67842.28
+White Collar,39,30K,Female,England,39,33703.11
+White Collar,39,70K,Female,England,39,73238.04
+White Collar,39,15K,Female,England,39,16956
+White Collar,39,70K,Female,England,39,74240.48
+White Collar,39,20K,Female,England,39,22844.3
+White Collar,39,5K,Female,England,39,6861.44
+White Collar,39,40K,Female,England,39,43546.78
+White Collar,39,115K,Female,England,39,118110.62
+White Collar,39,5K,Female,England,39,5133.32
+White Collar,39,40K,Female,England,39,44286.24
+White Collar,39,15K,Female,England,39,19383.54
+White Collar,39,60K,Female,England,39,62902.54
+White Collar,39,105K,Female,England,39,105339.9
+White Collar,39,5K,Female,England,39,6904.7
+White Collar,39,65K,Female,England,39,68694.44
+White Collar,39,10K,Female,England,39,12748.71
+White Collar,39,110K,Female,England,39,112000.36
+White Collar,39,25K,Female,England,39,27715.6
+White Collar,39,75K,Female,England,39,76736.41
+White Collar,39,0K,Female,England,39,4157.79
+White Collar,39,45K,Female,England,39,45969.7
+White Collar,39,40K,Female,England,39,40554.67
+White Collar,39,40K,Female,England,39,44607.05
+White Collar,40,55K,Female,England,40,55409.56
+White Collar,40,30K,Female,England,40,30815.39
+White Collar,40,50K,Female,England,40,50651.68
+White Collar,40,30K,Female,England,40,32141.32
+White Collar,40,30K,Female,England,40,31436.85
+White Collar,40,45K,Female,England,40,47276.63
+White Collar,40,85K,Female,England,40,85043.83
+White Collar,40,60K,Female,England,40,61414.37
+White Collar,40,10K,Female,England,40,10266.95
+White Collar,40,50K,Female,England,40,50283.03
+White Collar,40,0K,Female,England,40,704.83
+White Collar,40,5K,Female,England,40,7551.16
+White Collar,40,45K,Female,England,40,48099.01
+White Collar,40,0K,Female,England,40,2619.62
+White Collar,40,15K,Female,England,40,17546.36
+White Collar,40,50K,Female,England,40,52735.66
+White Collar,40,15K,Female,England,40,18739.17
+White Collar,40,60K,Female,England,40,62802.4
+White Collar,40,5K,Female,England,40,5585.36
+White Collar,40,70K,Female,England,40,71908.74
+White Collar,40,0K,Female,England,40,1949.08
+White Collar,40,70K,Female,England,40,72020.25
+White Collar,40,20K,Female,England,40,21945.27
+White Collar,40,30K,Female,England,40,32051.33
+White Collar,41,35K,Female,England,41,36174.14
+White Collar,41,0K,Female,England,41,916.89
+White Collar,41,20K,Female,England,41,20793.41
+White Collar,41,80K,Female,England,41,81089.55
+White Collar,41,20K,Female,England,41,23182.6
+White Collar,41,5K,Female,England,41,8082.88
+White Collar,41,80K,Female,England,41,83616.58
+White Collar,41,40K,Female,England,41,40523.18
+White Collar,41,20K,Female,England,41,20040.94
+White Collar,41,15K,Female,England,41,18745.42
+White Collar,41,80K,Female,England,41,82862.85
+White Collar,41,35K,Female,England,41,38019.49
+White Collar,41,55K,Female,England,41,58683.04
+White Collar,41,25K,Female,England,41,28579.64
+White Collar,41,20K,Female,England,41,24927.19
+White Collar,41,5K,Female,England,41,7598.49
+White Collar,41,120K,Female,England,41,121591.95
+White Collar,41,0K,Female,England,41,4477.36
+White Collar,41,60K,Female,England,41,60069.88
+White Collar,41,40K,Female,England,41,42914.08
+White Collar,42,5K,Female,England,42,5252.57
+White Collar,42,20K,Female,England,42,24501
+White Collar,42,25K,Female,England,42,25158.08
+White Collar,42,10K,Female,England,42,14989.3
+White Collar,42,45K,Female,England,42,45276.8
+White Collar,42,25K,Female,England,42,29129.11
+White Collar,42,55K,Female,England,42,55193.59
+White Collar,42,85K,Female,England,42,85695.41
+White Collar,42,70K,Female,England,42,73121.32
+White Collar,42,85K,Female,England,42,85207.93
+White Collar,42,95K,Female,England,42,96844.75
+White Collar,42,15K,Female,England,42,17631.94
+White Collar,42,20K,Female,England,42,22087.64
+White Collar,42,15K,Female,England,42,15389.73
+White Collar,42,70K,Female,England,42,72596.02
+White Collar,42,30K,Female,England,42,33307.35
+White Collar,42,30K,Female,England,42,31581.7
+White Collar,43,40K,Female,England,43,42972.72
+White Collar,43,15K,Female,England,43,16111.39
+White Collar,43,35K,Female,England,43,36694.01
+White Collar,43,20K,Female,England,43,23251.07
+White Collar,43,10K,Female,England,43,14523.72
+White Collar,43,105K,Female,England,43,106071.02
+White Collar,43,25K,Female,England,43,27287.49
+White Collar,43,55K,Female,England,43,57739.46
+White Collar,43,0K,Female,England,43,114.69
+White Collar,43,25K,Female,England,43,26737.79
+White Collar,43,10K,Female,England,43,10959.59
+White Collar,43,5K,Female,England,43,7835.46
+White Collar,43,55K,Female,England,43,55352.18
+White Collar,44,25K,Female,England,44,27520.61
+White Collar,44,5K,Female,England,44,9777.9
+White Collar,44,0K,Female,England,44,1607.63
+White Collar,44,5K,Female,England,44,9209.02
+White Collar,44,45K,Female,England,44,46153.29
+White Collar,44,45K,Female,England,44,49219.74
+White Collar,44,5K,Female,England,44,5032.09
+White Collar,44,20K,Female,England,44,24243.83
+White Collar,45,80K,Female,England,45,81370.16
+White Collar,45,20K,Female,England,45,20228.5
+White Collar,45,0K,Female,England,45,1439.15
+White Collar,45,55K,Female,England,45,59349.16
+White Collar,45,40K,Female,England,45,41909.74
+White Collar,45,0K,Female,England,45,1320.93
+White Collar,45,120K,Female,England,45,123159.76
+White Collar,45,55K,Female,England,45,57797.68
+White Collar,45,65K,Female,England,45,69805.45
+White Collar,45,50K,Female,England,45,53536.19
+White Collar,45,25K,Female,England,45,27955.59
+White Collar,45,20K,Female,England,45,21695.26
+White Collar,45,100K,Female,England,45,101994.01
+White Collar,46,5K,Female,England,46,7003.01
+White Collar,46,65K,Female,England,46,67009.53
+White Collar,46,25K,Female,England,46,26572.57
+White Collar,46,45K,Female,England,46,45737.65
+White Collar,46,110K,Female,England,46,112571.21
+White Collar,46,30K,Female,England,46,33779.41
+White Collar,46,55K,Female,England,46,59642.17
+White Collar,47,75K,Female,England,47,75332.4
+White Collar,47,15K,Female,England,47,18860.64
+White Collar,47,5K,Female,England,47,9244.66
+White Collar,47,60K,Female,England,47,64712.17
+White Collar,47,75K,Female,England,47,78150.39
+White Collar,47,0K,Female,England,47,2741.32
+White Collar,47,85K,Female,England,47,86222.34
+White Collar,48,35K,Female,England,48,35410.35
+White Collar,48,45K,Female,England,48,45166.76
+White Collar,48,25K,Female,England,48,29774.99
+White Collar,49,65K,Female,England,49,68026.14
+White Collar,49,70K,Female,England,49,72613.54
+White Collar,49,30K,Female,England,49,34393.8
+White Collar,49,90K,Female,England,49,92941.82
+White Collar,49,0K,Female,England,49,1602.81
+White Collar,49,45K,Female,England,49,48099.69
+White Collar,49,30K,Female,England,49,34375.08
+White Collar,50,25K,Female,England,50,26280.36
+White Collar,50,50K,Female,England,50,50609.43
+White Collar,50,15K,Female,England,50,16041.11
+White Collar,51,55K,Female,England,51,58655.75
+White Collar,51,80K,Female,England,51,80925.56
+White Collar,51,75K,Female,England,51,79715.05
+White Collar,52,55K,Female,England,52,55559.45
+White Collar,54,20K,Female,England,54,21593.57
+White Collar,54,20K,Female,England,54,24265.54
+White Collar,55,20K,Female,England,55,22099.59
+White Collar,56,0K,Female,England,56,997.01
+White Collar,56,45K,Female,England,56,47447.17
+White Collar,61,25K,Female,England,61,25267.28
+White Collar,15,10K,Female,Northern Ireland,15,12548.21
+White Collar,18,30K,Female,Northern Ireland,18,34075.29
+White Collar,23,25K,Female,Northern Ireland,23,27314.43
+White Collar,24,15K,Female,Northern Ireland,24,17347.52
+White Collar,27,30K,Female,Northern Ireland,27,31618.56
+White Collar,27,60K,Female,Northern Ireland,27,64714.44
+White Collar,27,50K,Female,Northern Ireland,27,50798.78
+White Collar,31,20K,Female,Northern Ireland,31,20101.47
+White Collar,31,45K,Female,Northern Ireland,31,48247.85
+White Collar,31,60K,Female,Northern Ireland,31,60850.03
+White Collar,32,40K,Female,Northern Ireland,32,43325.65
+White Collar,32,45K,Female,Northern Ireland,32,45259.78
+White Collar,34,85K,Female,Northern Ireland,34,87664.15
+White Collar,36,35K,Female,Northern Ireland,36,37892.43
+White Collar,37,10K,Female,Northern Ireland,37,13937.18
+White Collar,37,20K,Female,Northern Ireland,37,21823.82
+White Collar,39,75K,Female,Northern Ireland,39,76608.6
+White Collar,40,5K,Female,Northern Ireland,40,6540.58
+White Collar,40,40K,Female,Northern Ireland,40,40064.67
+White Collar,41,55K,Female,Northern Ireland,41,57177.94
+White Collar,61,0K,Female,Northern Ireland,61,4387.05
+White Collar,33,0K,Female,Scotland,33,422.94
+White Collar,41,0K,Female,Scotland,41,4833.02
+White Collar,44,35K,Female,Scotland,44,36903.95
+White Collar,45,40K,Female,Scotland,45,42756.92
+White Collar,46,10K,Female,Scotland,46,10394.28
+White Collar,47,15K,Female,Scotland,47,15352.66
+White Collar,47,25K,Female,Scotland,47,29046.07
+White Collar,49,60K,Female,Scotland,49,64721.73
+White Collar,49,0K,Female,Scotland,49,2994.25
+White Collar,49,35K,Female,Scotland,49,39552.66
+White Collar,50,35K,Female,Scotland,50,39460.72
+White Collar,53,5K,Female,Scotland,53,8313.3
+White Collar,53,15K,Female,Scotland,53,19634.21
+White Collar,54,20K,Female,Scotland,54,21953.02
+White Collar,54,15K,Female,Scotland,54,16332.53
+White Collar,55,65K,Female,Scotland,55,67876.94
+White Collar,56,30K,Female,Scotland,56,33748.33
+White Collar,57,80K,Female,Scotland,57,83992.09
+White Collar,57,25K,Female,Scotland,57,26794.48
+White Collar,57,30K,Female,Scotland,57,34948.54
+White Collar,58,20K,Female,Scotland,58,22024
+White Collar,59,25K,Female,Scotland,59,28221.97
+White Collar,18,35K,Female,Wales,18,38462.35
+White Collar,18,5K,Female,Wales,18,5557.32
+White Collar,19,15K,Female,Wales,19,15278.22
+White Collar,20,30K,Female,Wales,20,32823.6
+White Collar,20,65K,Female,Wales,20,68569.21
+White Collar,21,45K,Female,Wales,21,45899.62
+White Collar,22,60K,Female,Wales,22,63942.65
+White Collar,23,65K,Female,Wales,23,65640.07
+White Collar,24,15K,Female,Wales,24,17649.52
+White Collar,24,55K,Female,Wales,24,55926.46
+White Collar,25,40K,Female,Wales,25,40535.16
+White Collar,25,10K,Female,Wales,25,14632.29
+White Collar,25,70K,Female,Wales,25,74812.05
+White Collar,25,5K,Female,Wales,25,7558.84
+White Collar,26,35K,Female,Wales,26,37590.69
+White Collar,26,55K,Female,Wales,26,58699.25
+White Collar,26,130K,Female,Wales,26,133683.93
+White Collar,26,35K,Female,Wales,26,37830.67
+White Collar,27,30K,Female,Wales,27,33122.15
+White Collar,27,15K,Female,Wales,27,19224.76
+White Collar,28,90K,Female,Wales,28,91237.59
+White Collar,28,45K,Female,Wales,28,49068.58
+White Collar,28,65K,Female,Wales,28,68809.02
+White Collar,28,45K,Female,Wales,28,48124.64
+White Collar,28,30K,Female,Wales,28,30366.24
+White Collar,28,35K,Female,Wales,28,35567.66
+White Collar,28,0K,Female,Wales,28,3856.26
+White Collar,29,10K,Female,Wales,29,10423.88
+White Collar,29,5K,Female,Wales,29,9471.18
+White Collar,29,40K,Female,Wales,29,44060.89
+White Collar,29,25K,Female,Wales,29,25049.02
+White Collar,29,95K,Female,Wales,29,99271.98
+White Collar,29,25K,Female,Wales,29,29355.49
+White Collar,29,95K,Female,Wales,29,99557.72
+White Collar,29,70K,Female,Wales,29,72266.38
+White Collar,30,65K,Female,Wales,30,69152.93
+White Collar,30,10K,Female,Wales,30,13139.08
+White Collar,30,115K,Female,Wales,30,117809.44
+White Collar,31,60K,Female,Wales,31,61587.63
+White Collar,31,5K,Female,Wales,31,6052.52
+White Collar,32,5K,Female,Wales,32,7278.4
+White Collar,32,35K,Female,Wales,32,38704.52
+White Collar,32,70K,Female,Wales,32,72238.95
+White Collar,32,25K,Female,Wales,32,27274.97
+White Collar,32,50K,Female,Wales,32,51208.53
+White Collar,33,30K,Female,Wales,33,32106.88
+White Collar,33,50K,Female,Wales,33,53133.68
+White Collar,33,55K,Female,Wales,33,56539.65
+White Collar,33,5K,Female,Wales,33,8271.07
+White Collar,33,75K,Female,Wales,33,76628.68
+White Collar,33,70K,Female,Wales,33,71331.75
+White Collar,33,20K,Female,Wales,33,22274.84
+White Collar,34,5K,Female,Wales,34,8456.78
+White Collar,34,90K,Female,Wales,34,92083.79
+White Collar,34,40K,Female,Wales,34,43689.43
+White Collar,34,95K,Female,Wales,34,97934.55
+White Collar,34,0K,Female,Wales,34,1090.67
+White Collar,34,20K,Female,Wales,34,22490.5
+White Collar,34,10K,Female,Wales,34,14009.77
+White Collar,34,115K,Female,Wales,34,116366.09
+White Collar,34,15K,Female,Wales,34,15478.24
+White Collar,34,45K,Female,Wales,34,49859.68
+White Collar,35,40K,Female,Wales,35,44438.94
+White Collar,35,50K,Female,Wales,35,52648.77
+White Collar,35,40K,Female,Wales,35,44201.14
+White Collar,35,65K,Female,Wales,35,68176.38
+White Collar,35,75K,Female,Wales,35,78006.49
+White Collar,35,90K,Female,Wales,35,92788.65
+White Collar,35,35K,Female,Wales,35,39380.29
+White Collar,35,0K,Female,Wales,35,4012.37
+White Collar,35,35K,Female,Wales,35,39692.86
+White Collar,36,15K,Female,Wales,36,19045.64
+White Collar,36,5K,Female,Wales,36,9366.57
+White Collar,36,80K,Female,Wales,36,84942.22
+White Collar,36,35K,Female,Wales,36,37585.24
+White Collar,36,35K,Female,Wales,36,35852.79
+White Collar,36,20K,Female,Wales,36,24781.08
+White Collar,36,0K,Female,Wales,36,3962.3
+White Collar,36,0K,Female,Wales,36,1576.57
+White Collar,37,100K,Female,Wales,37,104416.12
+White Collar,37,65K,Female,Wales,37,66400.88
+White Collar,37,15K,Female,Wales,37,16581.56
+White Collar,37,50K,Female,Wales,37,53825.25
+White Collar,37,5K,Female,Wales,37,7981.83
+White Collar,37,30K,Female,Wales,37,34072.27
+White Collar,37,20K,Female,Wales,37,24898.45
+White Collar,37,90K,Female,Wales,37,92953.31
+White Collar,38,30K,Female,Wales,38,31609.57
+White Collar,38,30K,Female,Wales,38,30345.62
+White Collar,38,85K,Female,Wales,38,86892.69
+White Collar,38,10K,Female,Wales,38,12426.64
+White Collar,38,25K,Female,Wales,38,27284.71
+White Collar,38,15K,Female,Wales,38,15926.91
+White Collar,38,5K,Female,Wales,38,7148.82
+White Collar,38,30K,Female,Wales,38,30894.97
+White Collar,38,20K,Female,Wales,38,23308.43
+White Collar,38,15K,Female,Wales,38,15436.43
+White Collar,38,60K,Female,Wales,38,60149.63
+White Collar,38,10K,Female,Wales,38,14400.39
+White Collar,39,0K,Female,Wales,39,3810.47
+White Collar,39,100K,Female,Wales,39,100130.71
+White Collar,39,45K,Female,Wales,39,48514.21
+White Collar,39,30K,Female,Wales,39,31777.55
+White Collar,40,15K,Female,Wales,40,19448.19
+White Collar,40,10K,Female,Wales,40,10914.74
+White Collar,40,50K,Female,Wales,40,53697.1
+White Collar,40,75K,Female,Wales,40,78371.64
+White Collar,40,30K,Female,Wales,40,33801.26
+White Collar,40,40K,Female,Wales,40,42073.13
+White Collar,40,20K,Female,Wales,40,24726.17
+White Collar,40,15K,Female,Wales,40,19443.89
+White Collar,41,10K,Female,Wales,41,12003.06
+White Collar,41,10K,Female,Wales,41,11632.48
+White Collar,41,50K,Female,Wales,41,54697.16
+White Collar,41,55K,Female,Wales,41,57699.86
+White Collar,42,0K,Female,Wales,42,4250.38
+White Collar,42,5K,Female,Wales,42,9904.77
+White Collar,42,25K,Female,Wales,42,27490.82
+White Collar,42,15K,Female,Wales,42,17189.69
+White Collar,42,65K,Female,Wales,42,65123.06
+White Collar,43,70K,Female,Wales,43,74452.61
+White Collar,43,15K,Female,Wales,43,19488.81
+White Collar,43,30K,Female,Wales,43,33336.87
+White Collar,43,50K,Female,Wales,43,54434.04
+White Collar,43,75K,Female,Wales,43,78469.73
+White Collar,44,90K,Female,Wales,44,94722.42
+White Collar,44,30K,Female,Wales,44,33172.4
+White Collar,44,25K,Female,Wales,44,29607.52
+White Collar,44,45K,Female,Wales,44,45868.51
+White Collar,44,65K,Female,Wales,44,68185.66
+White Collar,45,20K,Female,Wales,45,20349.68
+White Collar,46,50K,Female,Wales,46,54711.28
+White Collar,46,55K,Female,Wales,46,55535.23
+White Collar,46,15K,Female,Wales,46,16233.42
+White Collar,46,5K,Female,Wales,46,9867.56
+White Collar,47,40K,Female,Wales,47,43260.49
+White Collar,47,0K,Female,Wales,47,3840.53
+White Collar,47,0K,Female,Wales,47,3985.97
+White Collar,48,35K,Female,Wales,48,36947.59
+White Collar,55,15K,Female,Wales,55,19547.39
+Blue Collar,18,40K,Male,England,18,40572.06
+Blue Collar,18,0K,Male,England,18,3858.9
+Blue Collar,18,60K,Male,England,18,62583.68
+Blue Collar,22,35K,Male,England,22,36867.33
+Blue Collar,22,20K,Male,England,22,24599.85
+Blue Collar,23,5K,Male,England,23,7211.67
+Blue Collar,24,5K,Male,England,24,5396.97
+Blue Collar,24,120K,Male,England,24,123346.44
+Blue Collar,24,15K,Male,England,24,19278.39
+Blue Collar,24,20K,Male,England,24,21601.11
+Blue Collar,25,0K,Male,England,25,2046.02
+Blue Collar,25,20K,Male,England,25,24366.36
+Blue Collar,26,15K,Male,England,26,16466.56
+Blue Collar,26,5K,Male,England,26,9438.06
+Blue Collar,26,20K,Male,England,26,24900.05
+Blue Collar,26,15K,Male,England,26,15031.01
+Blue Collar,27,5K,Male,England,27,5019.65
+Blue Collar,27,40K,Male,England,27,43117.33
+Blue Collar,27,10K,Male,England,27,14601.99
+Blue Collar,27,5K,Male,England,27,9866.04
+Blue Collar,27,35K,Male,England,27,36689.29
+Blue Collar,27,25K,Male,England,27,25524.72
+Blue Collar,27,35K,Male,England,27,39881.74
+Blue Collar,27,5K,Male,England,27,7385.38
+Blue Collar,27,30K,Male,England,27,33472.49
+Blue Collar,28,50K,Male,England,28,54458.54
+Blue Collar,28,30K,Male,England,28,34984.35
+Blue Collar,28,5K,Male,England,28,6747.52
+Blue Collar,28,20K,Male,England,28,22336.22
+Blue Collar,28,40K,Male,England,28,42128.29
+Blue Collar,28,100K,Male,England,28,102952.98
+Blue Collar,29,5K,Male,England,29,9567.74
+Blue Collar,29,30K,Male,England,29,34290.4
+Blue Collar,29,35K,Male,England,29,37027.41
+Blue Collar,29,60K,Male,England,29,63852.14
+Blue Collar,29,15K,Male,England,29,19118.76
+Blue Collar,29,40K,Male,England,29,41898.47
+Blue Collar,30,30K,Male,England,30,32676.42
+Blue Collar,30,0K,Male,England,30,2603.66
+Blue Collar,30,5K,Male,England,30,6983.32
+Blue Collar,30,5K,Male,England,30,9446.43
+Blue Collar,30,105K,Male,England,30,108224.88
+Blue Collar,30,15K,Male,England,30,15452.89
+Blue Collar,31,20K,Male,England,31,24958.04
+Blue Collar,31,5K,Male,England,31,9099.81
+Blue Collar,31,20K,Male,England,31,20238.12
+Blue Collar,31,55K,Male,England,31,56801.98
+Blue Collar,31,50K,Male,England,31,51141.07
+Blue Collar,31,75K,Male,England,31,79314.11
+Blue Collar,31,15K,Male,England,31,16251.57
+Blue Collar,32,15K,Male,England,32,17056.8
+Blue Collar,32,75K,Male,England,32,78712.11
+Blue Collar,32,25K,Male,England,32,27316.09
+Blue Collar,32,90K,Male,England,32,91674.56
+Blue Collar,32,75K,Male,England,32,76492.8
+Blue Collar,32,35K,Male,England,32,35293.03
+Blue Collar,32,10K,Male,England,32,10239.67
+Blue Collar,33,0K,Male,England,33,4706.69
+Blue Collar,33,0K,Male,England,33,614.71
+Blue Collar,33,70K,Male,England,33,70028.94
+Blue Collar,33,50K,Male,England,33,50905.81
+Blue Collar,33,10K,Male,England,33,12798.63
+Blue Collar,33,50K,Male,England,33,50819.63
+Blue Collar,33,10K,Male,England,33,11150.82
+Blue Collar,33,35K,Male,England,33,36003.1
+Blue Collar,33,45K,Male,England,33,48962.02
+Blue Collar,34,20K,Male,England,34,21360.89
+Blue Collar,34,45K,Male,England,34,47988.11
+Blue Collar,34,30K,Male,England,34,30792.03
+Blue Collar,34,75K,Male,England,34,78342.04
+Blue Collar,34,35K,Male,England,34,36464.31
+Blue Collar,34,35K,Male,England,34,36020.52
+Blue Collar,34,135K,Male,England,34,135158.19
+Blue Collar,34,15K,Male,England,34,18412.38
+Blue Collar,34,20K,Male,England,34,21191.18
+Blue Collar,34,40K,Male,England,34,41924.07
+Blue Collar,34,105K,Male,England,34,109300.73
+Blue Collar,34,15K,Male,England,34,18952.55
+Blue Collar,34,55K,Male,England,34,57497.29
+Blue Collar,34,125K,Male,England,34,125975.42
+Blue Collar,35,15K,Male,England,35,16479.12
+Blue Collar,35,15K,Male,England,35,15908.89
+Blue Collar,35,35K,Male,England,35,39044.93
+Blue Collar,35,35K,Male,England,35,37326.33
+Blue Collar,35,0K,Male,England,35,4653.31
+Blue Collar,35,50K,Male,England,35,51009.01
+Blue Collar,36,50K,Male,England,36,51263.69
+Blue Collar,36,40K,Male,England,36,40728.66
+Blue Collar,36,5K,Male,England,36,9352.12
+Blue Collar,36,50K,Male,England,36,53759.89
+Blue Collar,36,45K,Male,England,36,46983.45
+Blue Collar,36,0K,Male,England,36,3691.67
+Blue Collar,36,65K,Male,England,36,65949.77
+Blue Collar,36,10K,Male,England,36,11743.7
+Blue Collar,37,20K,Male,England,37,23034.44
+Blue Collar,37,30K,Male,England,37,30147.28
+Blue Collar,37,50K,Male,England,37,54533.59
+Blue Collar,37,5K,Male,England,37,5234.01
+Blue Collar,37,60K,Male,England,37,60097.21
+Blue Collar,37,20K,Male,England,37,23108.88
+Blue Collar,37,125K,Male,England,37,125213.72
+Blue Collar,37,20K,Male,England,37,22457.9
+Blue Collar,37,0K,Male,England,37,4725.23
+Blue Collar,37,25K,Male,England,37,28386.21
+Blue Collar,37,20K,Male,England,37,22841.56
+Blue Collar,37,15K,Male,England,37,17331.37
+Blue Collar,38,20K,Male,England,38,20076.79
+Blue Collar,38,80K,Male,England,38,83131.72
+Blue Collar,38,5K,Male,England,38,6958.19
+Blue Collar,38,10K,Male,England,38,12881.77
+Blue Collar,39,75K,Male,England,39,77764.13
+Blue Collar,39,25K,Male,England,39,29040.64
+Blue Collar,39,0K,Male,England,39,3436.77
+Blue Collar,39,5K,Male,England,39,9947.41
+Blue Collar,39,90K,Male,England,39,91246.45
+Blue Collar,39,85K,Male,England,39,88544.22
+Blue Collar,40,30K,Male,England,40,30954.9
+Blue Collar,40,60K,Male,England,40,62218.34
+Blue Collar,40,70K,Male,England,40,71368.77
+Blue Collar,40,5K,Male,England,40,5106.86
+Blue Collar,40,35K,Male,England,40,37812.73
+Blue Collar,40,25K,Male,England,40,29733.42
+Blue Collar,40,0K,Male,England,40,2531.01
+Blue Collar,40,40K,Male,England,40,41371.52
+Blue Collar,41,5K,Male,England,41,5040.5
+Blue Collar,41,5K,Male,England,41,7976.04
+Blue Collar,41,80K,Male,England,41,84302.39
+Blue Collar,41,85K,Male,England,41,89366.53
+Blue Collar,42,55K,Male,England,42,59160.59
+Blue Collar,42,70K,Male,England,42,71409.74
+Blue Collar,43,0K,Male,England,43,4808.93
+Blue Collar,43,35K,Male,England,43,39702.48
+Blue Collar,43,0K,Male,England,43,2965.82
+Blue Collar,43,35K,Male,England,43,36109.27
+Blue Collar,44,160K,Male,England,44,161517.82
+Blue Collar,44,10K,Male,England,44,10912.78
+Blue Collar,44,60K,Male,England,44,60462.33
+Blue Collar,44,55K,Male,England,44,59591.3
+Blue Collar,45,45K,Male,England,45,48234.65
+Blue Collar,46,35K,Male,England,46,35219.88
+Blue Collar,46,20K,Male,England,46,22318.08
+Blue Collar,47,5K,Male,England,47,8576.46
+Blue Collar,47,5K,Male,England,47,8610.86
+Blue Collar,48,60K,Male,England,48,62065.37
+Blue Collar,51,55K,Male,England,51,56729.36
+Blue Collar,51,40K,Male,England,51,42316.94
+Blue Collar,21,15K,Male,Northern Ireland,21,16696.08
+Blue Collar,23,105K,Male,Northern Ireland,23,106836
+Blue Collar,27,5K,Male,Northern Ireland,27,6426.13
+Blue Collar,28,30K,Male,Northern Ireland,28,33551.51
+Blue Collar,29,10K,Male,Northern Ireland,29,11180.72
+Blue Collar,29,30K,Male,Northern Ireland,29,33615.06
+Blue Collar,30,30K,Male,Northern Ireland,30,34718.68
+Blue Collar,18,25K,Male,Scotland,18,25898.72
+Blue Collar,20,0K,Male,Scotland,20,3715.81
+Blue Collar,25,10K,Male,Scotland,25,12294.54
+Blue Collar,26,35K,Male,Scotland,26,39625.37
+Blue Collar,26,65K,Male,Scotland,26,69903.96
+Blue Collar,27,70K,Male,Scotland,27,73359.1
+Blue Collar,27,20K,Male,Scotland,27,20963.64
+Blue Collar,31,15K,Male,Scotland,31,16470.81
+Blue Collar,31,15K,Male,Scotland,31,19383.88
+Blue Collar,31,15K,Male,Scotland,31,18673.91
+Blue Collar,32,30K,Male,Scotland,32,33570.99
+Blue Collar,32,20K,Male,Scotland,32,21454.76
+Blue Collar,32,0K,Male,Scotland,32,701.13
+Blue Collar,32,0K,Male,Scotland,32,3785.1
+Blue Collar,32,45K,Male,Scotland,32,45810.04
+Blue Collar,33,0K,Male,Scotland,33,4403.78
+Blue Collar,33,45K,Male,Scotland,33,45820.39
+Blue Collar,34,10K,Male,Scotland,34,10309.36
+Blue Collar,34,25K,Male,Scotland,34,29320.71
+Blue Collar,35,35K,Male,Scotland,35,37041.11
+Blue Collar,36,105K,Male,Scotland,36,106275.73
+Blue Collar,36,50K,Male,Scotland,36,53585.22
+Blue Collar,36,15K,Male,Scotland,36,15706.01
+Blue Collar,37,0K,Male,Scotland,37,4368.71
+Blue Collar,37,60K,Male,Scotland,37,64601.54
+Blue Collar,37,90K,Male,Scotland,37,91884.77
+Blue Collar,37,45K,Male,Scotland,37,45686.41
+Blue Collar,37,15K,Male,Scotland,37,18231.4
+Blue Collar,37,15K,Male,Scotland,37,16866.92
+Blue Collar,37,10K,Male,Scotland,37,12500.3
+Blue Collar,37,35K,Male,Scotland,37,38096.55
+Blue Collar,37,5K,Male,Scotland,37,9217.66
+Blue Collar,38,105K,Male,Scotland,38,106227.27
+Blue Collar,38,40K,Male,Scotland,38,43582.09
+Blue Collar,38,25K,Male,Scotland,38,26844.18
+Blue Collar,38,85K,Male,Scotland,38,89551.4
+Blue Collar,39,35K,Male,Scotland,39,37602.39
+Blue Collar,39,0K,Male,Scotland,39,177.28
+Blue Collar,39,0K,Male,Scotland,39,1255.52
+Blue Collar,39,25K,Male,Scotland,39,27726.59
+Blue Collar,40,40K,Male,Scotland,40,42462.18
+Blue Collar,40,60K,Male,Scotland,40,64487.05
+Blue Collar,40,40K,Male,Scotland,40,43604.8
+Blue Collar,40,20K,Male,Scotland,40,24646.37
+Blue Collar,40,95K,Male,Scotland,40,99604.38
+Blue Collar,40,15K,Male,Scotland,40,18505.82
+Blue Collar,41,95K,Male,Scotland,41,97626.31
+Blue Collar,41,35K,Male,Scotland,41,39250.53
+Blue Collar,41,30K,Male,Scotland,41,34985.76
+Blue Collar,41,25K,Male,Scotland,41,25407.37
+Blue Collar,41,25K,Male,Scotland,41,25288.1
+Blue Collar,41,90K,Male,Scotland,41,93395.64
+Blue Collar,41,85K,Male,Scotland,41,87116.58
+Blue Collar,41,60K,Male,Scotland,41,64766.09
+Blue Collar,41,0K,Male,Scotland,41,1684.44
+Blue Collar,41,60K,Male,Scotland,41,61508.32
+Blue Collar,42,80K,Male,Scotland,42,82055.21
+Blue Collar,42,20K,Male,Scotland,42,20345
+Blue Collar,42,25K,Male,Scotland,42,29640.92
+Blue Collar,42,50K,Male,Scotland,42,54856.02
+Blue Collar,42,65K,Male,Scotland,42,68973.86
+Blue Collar,42,35K,Male,Scotland,42,37912.46
+Blue Collar,42,35K,Male,Scotland,42,36871.21
+Blue Collar,42,40K,Male,Scotland,42,43767.15
+Blue Collar,42,40K,Male,Scotland,42,43693.07
+Blue Collar,42,40K,Male,Scotland,42,41989.44
+Blue Collar,43,25K,Male,Scotland,43,29782.79
+Blue Collar,43,80K,Male,Scotland,43,80189.9
+Blue Collar,43,30K,Male,Scotland,43,33132.45
+Blue Collar,43,50K,Male,Scotland,43,53739.25
+Blue Collar,43,10K,Male,Scotland,43,10301.71
+Blue Collar,43,20K,Male,Scotland,43,21251.76
+Blue Collar,43,60K,Male,Scotland,43,61360.64
+Blue Collar,43,80K,Male,Scotland,43,83943.55
+Blue Collar,43,30K,Male,Scotland,43,31739.2
+Blue Collar,43,55K,Male,Scotland,43,57784.39
+Blue Collar,43,50K,Male,Scotland,43,50448.22
+Blue Collar,43,15K,Male,Scotland,43,16457.71
+Blue Collar,43,30K,Male,Scotland,43,30216.11
+Blue Collar,43,30K,Male,Scotland,43,33234.66
+Blue Collar,43,80K,Male,Scotland,43,84220.99
+Blue Collar,43,35K,Male,Scotland,43,35520.18
+Blue Collar,43,40K,Male,Scotland,43,44371.75
+Blue Collar,43,15K,Male,Scotland,43,19221.27
+Blue Collar,44,35K,Male,Scotland,44,37315.31
+Blue Collar,44,85K,Male,Scotland,44,86184.27
+Blue Collar,44,55K,Male,Scotland,44,56071.51
+Blue Collar,44,85K,Male,Scotland,44,86652.4
+Blue Collar,44,65K,Male,Scotland,44,65479.32
+Blue Collar,44,20K,Male,Scotland,44,23676.9
+Blue Collar,44,100K,Male,Scotland,44,101645.25
+Blue Collar,44,15K,Male,Scotland,44,18393.7
+Blue Collar,44,5K,Male,Scotland,44,6697.68
+Blue Collar,44,0K,Male,Scotland,44,4611.45
+Blue Collar,44,65K,Male,Scotland,44,65358.53
+Blue Collar,44,35K,Male,Scotland,44,38646.92
+Blue Collar,44,60K,Male,Scotland,44,60052.58
+Blue Collar,45,40K,Male,Scotland,45,43733.51
+Blue Collar,45,85K,Male,Scotland,45,88366.08
+Blue Collar,45,15K,Male,Scotland,45,17520.08
+Blue Collar,45,10K,Male,Scotland,45,11565.04
+Blue Collar,45,60K,Male,Scotland,45,64665.58
+Blue Collar,45,25K,Male,Scotland,45,28654.5
+Blue Collar,45,10K,Male,Scotland,45,10899.65
+Blue Collar,45,10K,Male,Scotland,45,10760.17
+Blue Collar,45,40K,Male,Scotland,45,41160.57
+Blue Collar,45,20K,Male,Scotland,45,20513.31
+Blue Collar,45,0K,Male,Scotland,45,3052.4
+Blue Collar,45,70K,Male,Scotland,45,70491.38
+Blue Collar,45,35K,Male,Scotland,45,39198.79
+Blue Collar,45,90K,Male,Scotland,45,91759.2
+Blue Collar,45,0K,Male,Scotland,45,2583.75
+Blue Collar,45,110K,Male,Scotland,45,111961.53
+Blue Collar,45,55K,Male,Scotland,45,55276.13
+Blue Collar,46,85K,Male,Scotland,46,87484.96
+Blue Collar,46,5K,Male,Scotland,46,9163.19
+Blue Collar,46,45K,Male,Scotland,46,48967.15
+Blue Collar,46,50K,Male,Scotland,46,50945.1
+Blue Collar,46,95K,Male,Scotland,46,99396.23
+Blue Collar,46,70K,Male,Scotland,46,70621.1
+Blue Collar,46,60K,Male,Scotland,46,61806.36
+Blue Collar,46,45K,Male,Scotland,46,47720.66
+Blue Collar,46,85K,Male,Scotland,46,87192.65
+Blue Collar,46,5K,Male,Scotland,46,7532.32
+Blue Collar,46,65K,Male,Scotland,46,68884.38
+Blue Collar,46,85K,Male,Scotland,46,86983.68
+Blue Collar,46,55K,Male,Scotland,46,57005.15
+Blue Collar,46,90K,Male,Scotland,46,94688.11
+Blue Collar,47,55K,Male,Scotland,47,56257.26
+Blue Collar,47,55K,Male,Scotland,47,59432.06
+Blue Collar,47,25K,Male,Scotland,47,26087.66
+Blue Collar,47,20K,Male,Scotland,47,22946.04
+Blue Collar,47,60K,Male,Scotland,47,62781.64
+Blue Collar,47,80K,Male,Scotland,47,83071.96
+Blue Collar,47,10K,Male,Scotland,47,11644.61
+Blue Collar,47,10K,Male,Scotland,47,14273.21
+Blue Collar,47,45K,Male,Scotland,47,48667.64
+Blue Collar,47,30K,Male,Scotland,47,33282.11
+Blue Collar,47,55K,Male,Scotland,47,59561.46
+Blue Collar,47,5K,Male,Scotland,47,5875.97
+Blue Collar,47,5K,Male,Scotland,47,5520.69
+Blue Collar,47,15K,Male,Scotland,47,17274.32
+Blue Collar,47,60K,Male,Scotland,47,64172.31
+Blue Collar,47,0K,Male,Scotland,47,1948.26
+Blue Collar,47,20K,Male,Scotland,47,21736.04
+Blue Collar,47,30K,Male,Scotland,47,32801
+Blue Collar,48,0K,Male,Scotland,48,2991.66
+Blue Collar,48,35K,Male,Scotland,48,39352.22
+Blue Collar,48,35K,Male,Scotland,48,36171.83
+Blue Collar,48,5K,Male,Scotland,48,5725.96
+Blue Collar,48,10K,Male,Scotland,48,11035
+Blue Collar,48,0K,Male,Scotland,48,4363.5
+Blue Collar,48,70K,Male,Scotland,48,73268.73
+Blue Collar,48,45K,Male,Scotland,48,48392
+Blue Collar,48,5K,Male,Scotland,48,5703.79
+Blue Collar,48,35K,Male,Scotland,48,39883.56
+Blue Collar,48,25K,Male,Scotland,48,28118.54
+Blue Collar,48,10K,Male,Scotland,48,11862.81
+Blue Collar,48,50K,Male,Scotland,48,54817.88
+Blue Collar,48,0K,Male,Scotland,48,2840.77
+Blue Collar,48,0K,Male,Scotland,48,1208.06
+Blue Collar,48,30K,Male,Scotland,48,32412.76
+Blue Collar,48,10K,Male,Scotland,48,11240.91
+Blue Collar,48,20K,Male,Scotland,48,23726.79
+Blue Collar,48,50K,Male,Scotland,48,50224.02
+Blue Collar,48,35K,Male,Scotland,48,35874.31
+Blue Collar,49,75K,Male,Scotland,49,79844.5
+Blue Collar,49,20K,Male,Scotland,49,20409.28
+Blue Collar,49,15K,Male,Scotland,49,17312.41
+Blue Collar,49,45K,Male,Scotland,49,48950
+Blue Collar,49,35K,Male,Scotland,49,35192.83
+Blue Collar,49,75K,Male,Scotland,49,75620.5
+Blue Collar,49,35K,Male,Scotland,49,36624.84
+Blue Collar,49,0K,Male,Scotland,49,342.64
+Blue Collar,49,40K,Male,Scotland,49,42654.47
+Blue Collar,49,0K,Male,Scotland,49,875.27
+Blue Collar,49,0K,Male,Scotland,49,1096.36
+Blue Collar,49,5K,Male,Scotland,49,9806.38
+Blue Collar,49,0K,Male,Scotland,49,1018.95
+Blue Collar,49,10K,Male,Scotland,49,10315.47
+Blue Collar,49,25K,Male,Scotland,49,28451.26
+Blue Collar,50,5K,Male,Scotland,50,6844.11
+Blue Collar,50,65K,Male,Scotland,50,67763.97
+Blue Collar,50,20K,Male,Scotland,50,21885.91
+Blue Collar,50,0K,Male,Scotland,50,2311.31
+Blue Collar,50,0K,Male,Scotland,50,3246.67
+Blue Collar,50,30K,Male,Scotland,50,34772.99
+Blue Collar,50,0K,Male,Scotland,50,4557.94
+Blue Collar,50,65K,Male,Scotland,50,65277.36
+Blue Collar,50,80K,Male,Scotland,50,82077.52
+Blue Collar,50,10K,Male,Scotland,50,12610.37
+Blue Collar,50,20K,Male,Scotland,50,20655.58
+Blue Collar,50,45K,Male,Scotland,50,45141.01
+Blue Collar,50,35K,Male,Scotland,50,37788.14
+Blue Collar,50,30K,Male,Scotland,50,34740.16
+Blue Collar,50,20K,Male,Scotland,50,21417.49
+Blue Collar,50,0K,Male,Scotland,50,1566.53
+Blue Collar,50,25K,Male,Scotland,50,28141.86
+Blue Collar,50,40K,Male,Scotland,50,42830.98
+Blue Collar,51,10K,Male,Scotland,51,14693.74
+Blue Collar,51,5K,Male,Scotland,51,5038.58
+Blue Collar,51,60K,Male,Scotland,51,62238.7
+Blue Collar,51,5K,Male,Scotland,51,5018.31
+Blue Collar,51,50K,Male,Scotland,51,50865.75
+Blue Collar,51,25K,Male,Scotland,51,29247.25
+Blue Collar,51,25K,Male,Scotland,51,27770.8
+Blue Collar,51,5K,Male,Scotland,51,8142.18
+Blue Collar,51,35K,Male,Scotland,51,36707.21
+Blue Collar,51,35K,Male,Scotland,51,38865.85
+Blue Collar,51,50K,Male,Scotland,51,52186.48
+Blue Collar,51,105K,Male,Scotland,51,109395.78
+Blue Collar,51,50K,Male,Scotland,51,50629.7
+Blue Collar,51,0K,Male,Scotland,51,239.45
+Blue Collar,51,10K,Male,Scotland,51,14724.29
+Blue Collar,51,10K,Male,Scotland,51,12765.42
+Blue Collar,51,50K,Male,Scotland,51,54174.88
+Blue Collar,51,0K,Male,Scotland,51,4188.63
+Blue Collar,52,15K,Male,Scotland,52,19297.55
+Blue Collar,52,0K,Male,Scotland,52,4661.79
+Blue Collar,52,30K,Male,Scotland,52,34118.28
+Blue Collar,52,20K,Male,Scotland,52,23604.06
+Blue Collar,52,0K,Male,Scotland,52,2793.81
+Blue Collar,52,100K,Male,Scotland,52,104693.27
+Blue Collar,52,90K,Male,Scotland,52,93586.64
+Blue Collar,52,65K,Male,Scotland,52,69036.02
+Blue Collar,52,40K,Male,Scotland,52,40011.42
+Blue Collar,52,45K,Male,Scotland,52,47219.2
+Blue Collar,52,55K,Male,Scotland,52,59450.29
+Blue Collar,52,80K,Male,Scotland,52,83783.18
+Blue Collar,52,5K,Male,Scotland,52,6809.17
+Blue Collar,52,55K,Male,Scotland,52,56069.72
+Blue Collar,52,60K,Male,Scotland,52,64059.71
+Blue Collar,52,30K,Male,Scotland,52,31275.84
+Blue Collar,52,10K,Male,Scotland,52,12638.78
+Blue Collar,52,30K,Male,Scotland,52,31428.98
+Blue Collar,52,45K,Male,Scotland,52,45833.87
+Blue Collar,52,0K,Male,Scotland,52,675.08
+Blue Collar,52,45K,Male,Scotland,52,47271.67
+Blue Collar,52,0K,Male,Scotland,52,4096.45
+Blue Collar,53,0K,Male,Scotland,53,680.55
+Blue Collar,53,30K,Male,Scotland,53,31175.46
+Blue Collar,53,30K,Male,Scotland,53,31253.69
+Blue Collar,53,45K,Male,Scotland,53,48775.57
+Blue Collar,53,40K,Male,Scotland,53,44984.09
+Blue Collar,53,0K,Male,Scotland,53,4821.6
+Blue Collar,53,40K,Male,Scotland,53,44741.93
+Blue Collar,53,5K,Male,Scotland,53,6989.48
+Blue Collar,53,110K,Male,Scotland,53,114059.89
+Blue Collar,53,40K,Male,Scotland,53,43276.26
+Blue Collar,53,65K,Male,Scotland,53,65464.91
+Blue Collar,53,15K,Male,Scotland,53,15775.81
+Blue Collar,53,120K,Male,Scotland,53,121801.58
+Blue Collar,53,45K,Male,Scotland,53,49225.7
+Blue Collar,54,90K,Male,Scotland,54,90166.9
+Blue Collar,54,25K,Male,Scotland,54,29769.98
+Blue Collar,54,95K,Male,Scotland,54,96381.84
+Blue Collar,54,25K,Male,Scotland,54,26905.37
+Blue Collar,54,25K,Male,Scotland,54,25766.83
+Blue Collar,54,75K,Male,Scotland,54,76439.52
+Blue Collar,54,105K,Male,Scotland,54,108968.26
+Blue Collar,54,5K,Male,Scotland,54,8216.23
+Blue Collar,54,20K,Male,Scotland,54,20405.95
+Blue Collar,54,40K,Male,Scotland,54,41314.33
+Blue Collar,54,0K,Male,Scotland,54,1473.57
+Blue Collar,54,30K,Male,Scotland,54,34987.42
+Blue Collar,54,30K,Male,Scotland,54,34782.54
+Blue Collar,54,5K,Male,Scotland,54,7410.73
+Blue Collar,54,95K,Male,Scotland,54,96359.91
+Blue Collar,54,10K,Male,Scotland,54,11561.43
+Blue Collar,54,65K,Male,Scotland,54,68965.07
+Blue Collar,55,35K,Male,Scotland,55,39603.99
+Blue Collar,55,35K,Male,Scotland,55,39834.95
+Blue Collar,55,30K,Male,Scotland,55,31708.22
+Blue Collar,55,40K,Male,Scotland,55,44489.44
+Blue Collar,55,65K,Male,Scotland,55,66721.34
+Blue Collar,55,70K,Male,Scotland,55,71276.7
+Blue Collar,55,65K,Male,Scotland,55,69349.56
+Blue Collar,55,25K,Male,Scotland,55,28781.46
+Blue Collar,55,15K,Male,Scotland,55,15817.09
+Blue Collar,55,55K,Male,Scotland,55,59957.08
+Blue Collar,55,5K,Male,Scotland,55,6727.7
+Blue Collar,55,10K,Male,Scotland,55,10903.24
+Blue Collar,55,45K,Male,Scotland,55,48227.16
+Blue Collar,55,15K,Male,Scotland,55,18087.62
+Blue Collar,55,50K,Male,Scotland,55,54622.95
+Blue Collar,55,70K,Male,Scotland,55,71796.68
+Blue Collar,56,5K,Male,Scotland,56,9249.08
+Blue Collar,56,10K,Male,Scotland,56,10642.44
+Blue Collar,56,0K,Male,Scotland,56,740.2
+Blue Collar,56,10K,Male,Scotland,56,11897.17
+Blue Collar,56,55K,Male,Scotland,56,55295.38
+Blue Collar,56,40K,Male,Scotland,56,43145.1
+Blue Collar,56,90K,Male,Scotland,56,93164.29
+Blue Collar,56,0K,Male,Scotland,56,3578.96
+Blue Collar,56,20K,Male,Scotland,56,21196.37
+Blue Collar,56,0K,Male,Scotland,56,3516.35
+Blue Collar,56,60K,Male,Scotland,56,64503.88
+Blue Collar,57,10K,Male,Scotland,57,12857.71
+Blue Collar,57,80K,Male,Scotland,57,81414.37
+Blue Collar,57,5K,Male,Scotland,57,6436.22
+Blue Collar,57,45K,Male,Scotland,57,49358.43
+Blue Collar,57,45K,Male,Scotland,57,46060.29
+Blue Collar,57,60K,Male,Scotland,57,60086.6
+Blue Collar,57,75K,Male,Scotland,57,78221.89
+Blue Collar,57,5K,Male,Scotland,57,5042.52
+Blue Collar,57,40K,Male,Scotland,57,42706.66
+Blue Collar,57,15K,Male,Scotland,57,18910.03
+Blue Collar,57,75K,Male,Scotland,57,76554.32
+Blue Collar,57,105K,Male,Scotland,57,106232.34
+Blue Collar,57,25K,Male,Scotland,57,26137.76
+Blue Collar,57,60K,Male,Scotland,57,63027.96
+Blue Collar,57,140K,Male,Scotland,57,141792.5
+Blue Collar,58,20K,Male,Scotland,58,20162.2
+Blue Collar,58,50K,Male,Scotland,58,51723.62
+Blue Collar,58,10K,Male,Scotland,58,10786.24
+Blue Collar,58,30K,Male,Scotland,58,31082.12
+Blue Collar,58,125K,Male,Scotland,58,128259.93
+Blue Collar,58,75K,Male,Scotland,58,76328.95
+Blue Collar,58,10K,Male,Scotland,58,10235.19
+Blue Collar,58,65K,Male,Scotland,58,65497.14
+Blue Collar,58,10K,Male,Scotland,58,13230.47
+Blue Collar,58,15K,Male,Scotland,58,17953.21
+Blue Collar,58,10K,Male,Scotland,58,11925.05
+Blue Collar,58,75K,Male,Scotland,58,79655.37
+Blue Collar,58,35K,Male,Scotland,58,39415.54
+Blue Collar,58,100K,Male,Scotland,58,102552.12
+Blue Collar,59,60K,Male,Scotland,59,64210.63
+Blue Collar,59,0K,Male,Scotland,59,690.99
+Blue Collar,59,5K,Male,Scotland,59,9905.53
+Blue Collar,59,65K,Male,Scotland,59,68406.24
+Blue Collar,59,15K,Male,Scotland,59,19832.01
+Blue Collar,59,15K,Male,Scotland,59,17674.35
+Blue Collar,59,10K,Male,Scotland,59,13364.78
+Blue Collar,60,20K,Male,Scotland,60,23011.89
+Blue Collar,60,55K,Male,Scotland,60,59183.23
+Blue Collar,60,100K,Male,Scotland,60,102409.29
+Blue Collar,60,65K,Male,Scotland,60,67510.19
+Blue Collar,60,5K,Male,Scotland,60,6961.67
+Blue Collar,60,20K,Male,Scotland,60,22118.93
+Blue Collar,60,50K,Male,Scotland,60,52742.54
+Blue Collar,60,10K,Male,Scotland,60,11663.35
+Blue Collar,60,35K,Male,Scotland,60,35082.21
+Blue Collar,60,20K,Male,Scotland,60,23755.34
+Blue Collar,61,75K,Male,Scotland,61,75638.28
+Blue Collar,61,110K,Male,Scotland,61,114858.67
+Blue Collar,61,55K,Male,Scotland,61,56809.26
+Blue Collar,61,15K,Male,Scotland,61,19128.02
+Blue Collar,61,20K,Male,Scotland,61,23509.64
+Blue Collar,61,10K,Male,Scotland,61,11242.54
+Blue Collar,61,5K,Male,Scotland,61,7992.21
+Blue Collar,61,5K,Male,Scotland,61,6243.3
+Blue Collar,61,40K,Male,Scotland,61,42862.41
+Blue Collar,61,25K,Male,Scotland,61,27421.16
+Blue Collar,61,40K,Male,Scotland,61,42052.1
+Blue Collar,61,35K,Male,Scotland,61,36149.33
+Blue Collar,61,20K,Male,Scotland,61,20606.21
+Blue Collar,62,15K,Male,Scotland,62,18687.01
+Blue Collar,62,55K,Male,Scotland,62,55526.53
+Blue Collar,62,80K,Male,Scotland,62,83595.79
+Blue Collar,63,35K,Male,Scotland,63,36281.44
+Blue Collar,63,15K,Male,Scotland,63,15822.61
+Blue Collar,63,35K,Male,Scotland,63,36409.2
+Blue Collar,64,70K,Male,Scotland,64,71106.33
+Blue Collar,64,10K,Male,Scotland,64,10325.52
+Blue Collar,64,90K,Male,Scotland,64,92921.99
+Blue Collar,64,45K,Male,Scotland,64,48456.48
+Blue Collar,64,135K,Male,Scotland,64,139415.88
+Blue Collar,64,45K,Male,Scotland,64,47115.07
+Blue Collar,64,20K,Male,Scotland,64,24994.57
+Blue Collar,18,75K,Male,Wales,18,77682
+Blue Collar,22,10K,Male,Wales,22,14748.59
+Blue Collar,23,65K,Male,Wales,23,68184.25
+Blue Collar,27,25K,Male,Wales,27,25525.88
+Blue Collar,27,45K,Male,Wales,27,47857.14
+Blue Collar,28,0K,Male,Wales,28,4820.98
+Blue Collar,28,45K,Male,Wales,28,46835.63
+Blue Collar,29,25K,Male,Wales,29,29909.03
+Blue Collar,29,30K,Male,Wales,29,32447.58
+Blue Collar,30,40K,Male,Wales,30,42827
+Blue Collar,30,15K,Male,Wales,30,15071.69
+Blue Collar,30,35K,Male,Wales,30,38093.36
+Blue Collar,30,40K,Male,Wales,30,42008.82
+Blue Collar,30,65K,Male,Wales,30,68927.97
+Blue Collar,31,25K,Male,Wales,31,29371.32
+Blue Collar,31,30K,Male,Wales,31,30436.38
+Blue Collar,31,55K,Male,Wales,31,56035.34
+Blue Collar,31,10K,Male,Wales,31,14625.23
+Blue Collar,31,25K,Male,Wales,31,28265.93
+Blue Collar,31,40K,Male,Wales,31,40081.67
+Blue Collar,31,40K,Male,Wales,31,42471.07
+Blue Collar,32,40K,Male,Wales,32,43532.66
+Blue Collar,33,10K,Male,Wales,33,12567.26
+Blue Collar,33,120K,Male,Wales,33,121683.14
+Blue Collar,33,30K,Male,Wales,33,30293.19
+Blue Collar,33,105K,Male,Wales,33,108674.69
+Blue Collar,34,0K,Male,Wales,34,1400.26
+Blue Collar,34,35K,Male,Wales,34,37254.18
+Blue Collar,35,45K,Male,Wales,35,45240.82
+Blue Collar,35,130K,Male,Wales,35,134324.66
+Blue Collar,35,10K,Male,Wales,35,12738.86
+Blue Collar,35,0K,Male,Wales,35,1819.36
+Blue Collar,35,45K,Male,Wales,35,48599.08
+Blue Collar,36,55K,Male,Wales,36,56449.04
+Blue Collar,36,5K,Male,Wales,36,6467.89
+Blue Collar,36,85K,Male,Wales,36,89727.27
+Blue Collar,37,80K,Male,Wales,37,80824.89
+Blue Collar,37,35K,Male,Wales,37,36731.86
+Blue Collar,37,90K,Male,Wales,37,94647.65
+Blue Collar,38,0K,Male,Wales,38,4409.18
+Blue Collar,38,45K,Male,Wales,38,48829.47
+Blue Collar,39,55K,Male,Wales,39,57496.71
+Blue Collar,39,45K,Male,Wales,39,48032.86
+Blue Collar,39,5K,Male,Wales,39,5201.79
+Blue Collar,41,55K,Male,Wales,41,56244.09
+Blue Collar,41,0K,Male,Wales,41,77.46
+Blue Collar,41,30K,Male,Wales,41,32837.02
+Blue Collar,42,15K,Male,Wales,42,19473.74
+Blue Collar,44,35K,Male,Wales,44,37449.47
+Blue Collar,44,50K,Male,Wales,44,53325.85
+Blue Collar,44,5K,Male,Wales,44,8365.04
+Blue Collar,45,20K,Male,Wales,45,21018.89
+Blue Collar,46,90K,Male,Wales,46,91216.49
+Blue Collar,46,0K,Male,Wales,46,3002.2
+Blue Collar,46,35K,Male,Wales,46,36919.09
+Blue Collar,47,125K,Male,Wales,47,128488.01
+Blue Collar,47,95K,Male,Wales,47,97201.55
+Other,18,15K,Male,England,18,18231.91
+Other,19,15K,Male,England,19,19359.04
+Other,20,60K,Male,England,20,64855.42
+Other,23,0K,Male,England,23,4588.12
+Other,23,5K,Male,England,23,5257.22
+Other,24,55K,Male,England,24,57099.28
+Other,25,40K,Male,England,25,41058.11
+Other,25,80K,Male,England,25,81820.9
+Other,25,70K,Male,England,25,73869.26
+Other,25,40K,Male,England,25,44515.32
+Other,25,40K,Male,England,25,44277.62
+Other,25,75K,Male,England,25,75357.92
+Other,26,55K,Male,England,26,57623.58
+Other,26,55K,Male,England,26,58955.8
+Other,26,60K,Male,England,26,64330.34
+Other,26,95K,Male,England,26,99642.13
+Other,27,15K,Male,England,27,16613.41
+Other,27,10K,Male,England,27,10223.59
+Other,27,35K,Male,England,27,36303.3
+Other,28,75K,Male,England,28,78383.54
+Other,28,35K,Male,England,28,38926.37
+Other,28,5K,Male,England,28,6016.04
+Other,28,10K,Male,England,28,13468.66
+Other,28,5K,Male,England,28,5247.94
+Other,28,80K,Male,England,28,82847.05
+Other,28,10K,Male,England,28,11825.37
+Other,29,70K,Male,England,29,70086.82
+Other,29,50K,Male,England,29,50953.26
+Other,29,15K,Male,England,29,16997.69
+Other,29,35K,Male,England,29,36086.9
+Other,29,105K,Male,England,29,106821.73
+Other,30,80K,Male,England,30,83041.14
+Other,30,60K,Male,England,30,62353.77
+Other,30,10K,Male,England,30,12647.17
+Other,30,20K,Male,England,30,20821.23
+Other,30,70K,Male,England,30,71799.26
+Other,30,0K,Male,England,30,3776.11
+Other,31,50K,Male,England,31,51754.08
+Other,31,15K,Male,England,31,16161.94
+Other,31,20K,Male,England,31,20763.6
+Other,31,5K,Male,England,31,5478.06
+Other,31,55K,Male,England,31,55173.03
+Other,32,20K,Male,England,32,22126.72
+Other,32,0K,Male,England,32,4983.93
+Other,32,0K,Male,England,32,677.88
+Other,33,0K,Male,England,33,2609.28
+Other,33,5K,Male,England,33,7716.87
+Other,33,15K,Male,England,33,18305.03
+Other,33,0K,Male,England,33,920.87
+Other,33,40K,Male,England,33,43473.64
+Other,33,15K,Male,England,33,15660.89
+Other,33,65K,Male,England,33,68310.37
+Other,33,10K,Male,England,33,13701.41
+Other,34,65K,Male,England,34,67894.27
+Other,34,110K,Male,England,34,111798.34
+Other,34,65K,Male,England,34,68498.24
+Other,34,5K,Male,England,34,7842.61
+Other,34,25K,Male,England,34,29745.48
+Other,34,25K,Male,England,34,27049.56
+Other,34,40K,Male,England,34,44155.19
+Other,34,130K,Male,England,34,133630.5
+Other,35,25K,Male,England,35,26728
+Other,35,35K,Male,England,35,39428.53
+Other,35,25K,Male,England,35,25257.22
+Other,35,70K,Male,England,35,71961.78
+Other,35,20K,Male,England,35,20770.08
+Other,35,110K,Male,England,35,111412.09
+Other,36,45K,Male,England,36,46324.39
+Other,36,20K,Male,England,36,22756.57
+Other,36,10K,Male,England,36,13698.63
+Other,36,0K,Male,England,36,3890.92
+Other,36,90K,Male,England,36,94494.62
+Other,36,60K,Male,England,36,62882.21
+Other,36,85K,Male,England,36,88451.81
+Other,36,70K,Male,England,36,74026.52
+Other,37,5K,Male,England,37,8819.9
+Other,37,0K,Male,England,37,3287.31
+Other,37,5K,Male,England,37,6591.25
+Other,37,20K,Male,England,37,23396.9
+Other,37,30K,Male,England,37,32063.76
+Other,37,5K,Male,England,37,6031.79
+Other,38,55K,Male,England,38,56516.64
+Other,38,40K,Male,England,38,40414.88
+Other,38,60K,Male,England,38,64508.93
+Other,38,20K,Male,England,38,21535.24
+Other,38,55K,Male,England,38,59261.81
+Other,38,45K,Male,England,38,49041.1
+Other,38,45K,Male,England,38,49610.44
+Other,38,65K,Male,England,38,66085.83
+Other,39,35K,Male,England,39,36666.7
+Other,39,20K,Male,England,39,20388.38
+Other,40,15K,Male,England,40,15634.04
+Other,40,25K,Male,England,40,29293.29
+Other,41,10K,Male,England,41,10486.23
+Other,41,0K,Male,England,41,4111.42
+Other,41,30K,Male,England,41,32715.84
+Other,41,65K,Male,England,41,68193.25
+Other,41,60K,Male,England,41,61602.73
+Other,43,80K,Male,England,43,81498.88
+Other,44,50K,Male,England,44,54062.08
+Other,44,25K,Male,England,44,25768.74
+Other,45,85K,Male,England,45,85992.59
+Other,45,40K,Male,England,45,41348.08
+Other,47,20K,Male,England,47,23372.89
+Other,47,25K,Male,England,47,26891.41
+Other,47,5K,Male,England,47,8300.29
+Other,47,15K,Male,England,47,19916.05
+Other,48,0K,Male,England,48,4901.23
+Other,48,70K,Male,England,48,72061.71
+Other,48,35K,Male,England,48,39445.7
+Other,48,75K,Male,England,48,75739.94
+Other,49,0K,Male,England,49,4735.8
+Other,49,0K,Male,England,49,1426.26
+Other,53,10K,Male,England,53,12714.42
+Other,59,35K,Male,England,59,37483.44
+Other,17,5K,Male,Northern Ireland,17,5158.87
+Other,19,50K,Male,Northern Ireland,19,50562.98
+Other,25,40K,Male,Northern Ireland,25,44575.02
+Other,26,35K,Male,Northern Ireland,26,39569.45
+Other,26,25K,Male,Northern Ireland,26,26165.32
+Other,30,80K,Male,Northern Ireland,30,83549.66
+Other,32,10K,Male,Northern Ireland,32,11297.19
+Other,33,25K,Male,Northern Ireland,33,28681.8
+Other,35,30K,Male,Northern Ireland,35,33042.13
+Other,19,30K,Male,Scotland,19,30691.82
+Other,24,40K,Male,Scotland,24,43980.94
+Other,24,10K,Male,Scotland,24,10369.95
+Other,30,25K,Male,Scotland,30,26818.45
+Other,32,0K,Male,Scotland,32,1361.83
+Other,33,35K,Male,Scotland,33,37752.35
+Other,33,65K,Male,Scotland,33,65608.68
+Other,34,65K,Male,Scotland,34,68600.9
+Other,34,20K,Male,Scotland,34,21134.53
+Other,35,30K,Male,Scotland,35,33575.8
+Other,37,60K,Male,Scotland,37,61009.63
+Other,38,5K,Male,Scotland,38,7218.79
+Other,38,45K,Male,Scotland,38,48778.81
+Other,38,50K,Male,Scotland,38,54828.36
+Other,39,70K,Male,Scotland,39,74775.98
+Other,40,35K,Male,Scotland,40,37247.66
+Other,40,0K,Male,Scotland,40,4076.19
+Other,40,5K,Male,Scotland,40,9554.52
+Other,41,55K,Male,Scotland,41,57520.31
+Other,42,30K,Male,Scotland,42,30923.4
+Other,42,25K,Male,Scotland,42,28676.72
+Other,42,35K,Male,Scotland,42,35698.04
+Other,42,110K,Male,Scotland,42,112917.42
+Other,43,75K,Male,Scotland,43,75563.64
+Other,43,55K,Male,Scotland,43,55959.34
+Other,43,70K,Male,Scotland,43,70629.05
+Other,43,5K,Male,Scotland,43,8115.05
+Other,43,20K,Male,Scotland,43,22810.16
+Other,43,5K,Male,Scotland,43,9546.56
+Other,44,30K,Male,Scotland,44,30778.33
+Other,44,60K,Male,Scotland,44,63735.05
+Other,44,25K,Male,Scotland,44,25358.91
+Other,44,25K,Male,Scotland,44,28479.92
+Other,45,10K,Male,Scotland,45,10473.26
+Other,45,25K,Male,Scotland,45,27154.95
+Other,45,0K,Male,Scotland,45,3927.15
+Other,45,75K,Male,Scotland,45,77140.53
+Other,45,80K,Male,Scotland,45,81068.1
+Other,45,60K,Male,Scotland,45,64592.88
+Other,45,10K,Male,Scotland,45,10508.74
+Other,45,5K,Male,Scotland,45,9207.62
+Other,45,65K,Male,Scotland,45,69809.23
+Other,45,55K,Male,Scotland,45,58442.24
+Other,46,30K,Male,Scotland,46,33915.03
+Other,46,75K,Male,Scotland,46,76601.08
+Other,46,15K,Male,Scotland,46,16842.71
+Other,46,90K,Male,Scotland,46,94781.97
+Other,47,35K,Male,Scotland,47,37150.04
+Other,47,5K,Male,Scotland,47,7286.16
+Other,47,85K,Male,Scotland,47,87669.32
+Other,47,60K,Male,Scotland,47,64034.82
+Other,47,60K,Male,Scotland,47,60277.8
+Other,47,25K,Male,Scotland,47,27955.18
+Other,47,50K,Male,Scotland,47,54547.24
+Other,48,40K,Male,Scotland,48,43730.24
+Other,48,50K,Male,Scotland,48,54607.76
+Other,48,65K,Male,Scotland,48,65535.05
+Other,48,20K,Male,Scotland,48,21734.65
+Other,48,45K,Male,Scotland,48,46551.52
+Other,48,40K,Male,Scotland,48,40487.71
+Other,48,40K,Male,Scotland,48,40174.57
+Other,48,30K,Male,Scotland,48,32709.97
+Other,48,45K,Male,Scotland,48,45705.24
+Other,48,75K,Male,Scotland,48,77332.09
+Other,48,25K,Male,Scotland,48,28873.73
+Other,48,70K,Male,Scotland,48,73399.17
+Other,49,45K,Male,Scotland,49,45629.65
+Other,49,70K,Male,Scotland,49,71307.31
+Other,49,80K,Male,Scotland,49,83989.67
+Other,49,65K,Male,Scotland,49,69791.57
+Other,49,40K,Male,Scotland,49,44251.15
+Other,49,45K,Male,Scotland,49,45545.02
+Other,49,40K,Male,Scotland,49,40878.43
+Other,49,5K,Male,Scotland,49,6881.74
+Other,49,85K,Male,Scotland,49,85903.66
+Other,49,15K,Male,Scotland,49,19921.89
+Other,50,30K,Male,Scotland,50,33161.08
+Other,50,75K,Male,Scotland,50,76764.62
+Other,50,25K,Male,Scotland,50,27043.73
+Other,50,55K,Male,Scotland,50,57632.39
+Other,50,55K,Male,Scotland,50,55396.83
+Other,50,170K,Male,Scotland,50,172085.48
+Other,50,75K,Male,Scotland,50,78992.92
+Other,50,65K,Male,Scotland,50,67946.54
+Other,50,95K,Male,Scotland,50,99255.19
+Other,50,5K,Male,Scotland,50,6400.76
+Other,51,35K,Male,Scotland,51,37322.47
+Other,51,0K,Male,Scotland,51,4573.26
+Other,51,60K,Male,Scotland,51,62064.73
+Other,51,0K,Male,Scotland,51,1753.34
+Other,51,25K,Male,Scotland,51,25973.39
+Other,51,30K,Male,Scotland,51,32712.76
+Other,51,20K,Male,Scotland,51,20981.07
+Other,51,50K,Male,Scotland,51,53537.01
+Other,51,10K,Male,Scotland,51,11139.78
+Other,51,10K,Male,Scotland,51,13547.12
+Other,51,0K,Male,Scotland,51,879.78
+Other,51,15K,Male,Scotland,51,16192.49
+Other,52,10K,Male,Scotland,52,13419.57
+Other,52,45K,Male,Scotland,52,45992.16
+Other,52,10K,Male,Scotland,52,13536.36
+Other,52,35K,Male,Scotland,52,37817.35
+Other,52,20K,Male,Scotland,52,20132.46
+Other,52,10K,Male,Scotland,52,13622.87
+Other,52,25K,Male,Scotland,52,27024.47
+Other,52,75K,Male,Scotland,52,75743.08
+Other,52,0K,Male,Scotland,52,4793.55
+Other,52,110K,Male,Scotland,52,111036.92
+Other,52,45K,Male,Scotland,52,48602.47
+Other,52,35K,Male,Scotland,52,35191.56
+Other,53,45K,Male,Scotland,53,49863.23
+Other,53,25K,Male,Scotland,53,25797.17
+Other,53,50K,Male,Scotland,53,53354.74
+Other,53,70K,Male,Scotland,53,73457.73
+Other,53,10K,Male,Scotland,53,13667.27
+Other,53,10K,Male,Scotland,53,11375.64
+Other,53,35K,Male,Scotland,53,37425.23
+Other,53,65K,Male,Scotland,53,67521.26
+Other,54,30K,Male,Scotland,54,34664
+Other,54,15K,Male,Scotland,54,16280.16
+Other,54,40K,Male,Scotland,54,44192.29
+Other,54,10K,Male,Scotland,54,12749.4
+Other,54,15K,Male,Scotland,54,15269.36
+Other,54,70K,Male,Scotland,54,71935.8
+Other,54,25K,Male,Scotland,54,28430.19
+Other,55,20K,Male,Scotland,55,24030.97
+Other,55,70K,Male,Scotland,55,74534.05
+Other,55,0K,Male,Scotland,55,3397.32
+Other,55,20K,Male,Scotland,55,20815.73
+Other,55,65K,Male,Scotland,55,66668.78
+Other,56,5K,Male,Scotland,56,6887.34
+Other,56,55K,Male,Scotland,56,59975.14
+Other,56,65K,Male,Scotland,56,69022.66
+Other,56,35K,Male,Scotland,56,35180.1
+Other,56,75K,Male,Scotland,56,76278.37
+Other,56,25K,Male,Scotland,56,29861.37
+Other,57,45K,Male,Scotland,57,47745.75
+Other,57,135K,Male,Scotland,57,139509.54
+Other,57,85K,Male,Scotland,57,87348.99
+Other,58,5K,Male,Scotland,58,7185.59
+Other,58,40K,Male,Scotland,58,41285.8
+Other,58,40K,Male,Scotland,58,40378.63
+Other,58,15K,Male,Scotland,58,19164.52
+Other,58,15K,Male,Scotland,58,18189.63
+Other,58,55K,Male,Scotland,58,58713.96
+Other,58,10K,Male,Scotland,58,10783.63
+Other,58,45K,Male,Scotland,58,47114.02
+Other,58,50K,Male,Scotland,58,54124.86
+Other,58,65K,Male,Scotland,58,66875.08
+Other,58,25K,Male,Scotland,58,28310.16
+Other,59,15K,Male,Scotland,59,15402.84
+Other,59,20K,Male,Scotland,59,23907.86
+Other,59,50K,Male,Scotland,59,50189.26
+Other,59,0K,Male,Scotland,59,2114.65
+Other,60,85K,Male,Scotland,60,89173.1
+Other,60,55K,Male,Scotland,60,55173.94
+Other,60,20K,Male,Scotland,60,22067.63
+Other,60,55K,Male,Scotland,60,58058.81
+Other,60,115K,Male,Scotland,60,115932.44
+Other,60,20K,Male,Scotland,60,23122.01
+Other,60,60K,Male,Scotland,60,64373.74
+Other,61,0K,Male,Scotland,61,4926.12
+Other,61,35K,Male,Scotland,61,35341.04
+Other,61,55K,Male,Scotland,61,55421.45
+Other,61,5K,Male,Scotland,61,5711.43
+Other,61,40K,Male,Scotland,61,42472.71
+Other,61,105K,Male,Scotland,61,105354.02
+Other,61,30K,Male,Scotland,61,32439.6
+Other,61,40K,Male,Scotland,61,40989.59
+Other,62,75K,Male,Scotland,62,76842.9
+Other,63,50K,Male,Scotland,63,53004.65
+Other,63,5K,Male,Scotland,63,8391.79
+Other,64,10K,Male,Scotland,64,14558.13
+Other,64,10K,Male,Scotland,64,14242.57
+Other,64,15K,Male,Scotland,64,19711.66
+Other,24,5K,Male,Wales,24,7552.5
+Other,25,40K,Male,Wales,25,41197.66
+Other,29,85K,Male,Wales,29,87844.61
+Other,29,15K,Male,Wales,29,15762.18
+Other,29,10K,Male,Wales,29,13910.24
+Other,33,35K,Male,Wales,33,38089.79
+Other,33,25K,Male,Wales,33,25705.16
+Other,33,60K,Male,Wales,33,61390.52
+Other,33,95K,Male,Wales,33,95833.44
+Other,34,40K,Male,Wales,34,43520.9
+Other,34,15K,Male,Wales,34,15746.62
+Other,35,135K,Male,Wales,35,136365.52
+Other,35,100K,Male,Wales,35,104813.21
+Other,35,75K,Male,Wales,35,78755.01
+Other,37,40K,Male,Wales,37,40862.92
+Other,39,70K,Male,Wales,39,72866.17
+Other,39,0K,Male,Wales,39,3575.21
+Other,41,60K,Male,Wales,41,60076.55
+Other,41,5K,Male,Wales,41,9293.04
+Other,42,5K,Male,Wales,42,8102.48
+Other,42,10K,Male,Wales,42,11609.33
+Other,43,50K,Male,Wales,43,51598.1
+Other,43,75K,Male,Wales,43,78323.16
+Other,44,15K,Male,Wales,44,16627.15
+Other,46,35K,Male,Wales,46,38460.8
+Other,48,45K,Male,Wales,48,47418.57
+Other,57,65K,Male,Wales,57,69281.64
+White Collar,18,0K,Male,England,18,840.88
+White Collar,18,20K,Male,England,18,23399.53
+White Collar,18,55K,Male,England,18,56473.51
+White Collar,19,10K,Male,England,19,12964.93
+White Collar,19,65K,Male,England,19,68980.3
+White Collar,19,75K,Male,England,19,75913.85
+White Collar,20,95K,Male,England,20,98261.13
+White Collar,20,10K,Male,England,20,11434.59
+White Collar,20,50K,Male,England,20,52109.92
+White Collar,21,85K,Male,England,21,88147.69
+White Collar,21,35K,Male,England,21,35057.97
+White Collar,21,40K,Male,England,21,40886.21
+White Collar,21,20K,Male,England,21,22103.13
+White Collar,21,15K,Male,England,21,18508.11
+White Collar,22,0K,Male,England,22,781.84
+White Collar,22,10K,Male,England,22,14282.81
+White Collar,22,65K,Male,England,22,66480.85
+White Collar,23,85K,Male,England,23,85965.79
+White Collar,23,0K,Male,England,23,640.91
+White Collar,23,65K,Male,England,23,68508.87
+White Collar,23,35K,Male,England,23,38866.87
+White Collar,23,115K,Male,England,23,117946.76
+White Collar,23,65K,Male,England,23,66040.46
+White Collar,23,40K,Male,England,23,40230.42
+White Collar,24,15K,Male,England,24,17127.23
+White Collar,24,65K,Male,England,24,65072.93
+White Collar,24,0K,Male,England,24,2111.51
+White Collar,24,25K,Male,England,24,25781.13
+White Collar,24,15K,Male,England,24,16721.96
+White Collar,24,20K,Male,England,24,24875.64
+White Collar,24,55K,Male,England,24,56070.28
+White Collar,24,5K,Male,England,24,5880.85
+White Collar,24,50K,Male,England,24,52872.53
+White Collar,24,35K,Male,England,24,35939.96
+White Collar,25,15K,Male,England,25,18053.11
+White Collar,25,75K,Male,England,25,77624.38
+White Collar,25,0K,Male,England,25,2126.9
+White Collar,25,35K,Male,England,25,36021.53
+White Collar,25,5K,Male,England,25,5280.71
+White Collar,25,120K,Male,England,25,123865.36
+White Collar,25,75K,Male,England,25,78020.29
+White Collar,25,10K,Male,England,25,11186.61
+White Collar,26,10K,Male,England,26,12883.77
+White Collar,26,5K,Male,England,26,8708.57
+White Collar,26,35K,Male,England,26,36964.26
+White Collar,26,10K,Male,England,26,14520.25
+White Collar,26,25K,Male,England,26,28355.66
+White Collar,26,105K,Male,England,26,105093.23
+White Collar,26,50K,Male,England,26,52604.44
+White Collar,26,90K,Male,England,26,91847.1
+White Collar,26,60K,Male,England,26,61577.15
+White Collar,26,80K,Male,England,26,80850.12
+White Collar,26,10K,Male,England,26,12604.91
+White Collar,26,5K,Male,England,26,7685.3
+White Collar,26,25K,Male,England,26,29265.97
+White Collar,26,30K,Male,England,26,34526.64
+White Collar,26,65K,Male,England,26,65283.32
+White Collar,26,100K,Male,England,26,104366.63
+White Collar,26,80K,Male,England,26,81489.43
+White Collar,27,75K,Male,England,27,77898.09
+White Collar,27,5K,Male,England,27,6825.79
+White Collar,27,50K,Male,England,27,54644.32
+White Collar,27,35K,Male,England,27,39495.99
+White Collar,27,30K,Male,England,27,34618.1
+White Collar,27,30K,Male,England,27,33355.25
+White Collar,27,50K,Male,England,27,53494.5
+White Collar,27,40K,Male,England,27,40625.59
+White Collar,27,0K,Male,England,27,1387.14
+White Collar,27,40K,Male,England,27,41775.2
+White Collar,27,30K,Male,England,27,31637.34
+White Collar,27,90K,Male,England,27,92610.22
+White Collar,27,145K,Male,England,27,146892.37
+White Collar,27,30K,Male,England,27,30268.33
+White Collar,27,30K,Male,England,27,33463.13
+White Collar,27,45K,Male,England,27,45374.89
+White Collar,27,5K,Male,England,27,8121.14
+White Collar,27,20K,Male,England,27,22525.46
+White Collar,27,10K,Male,England,27,10183.23
+White Collar,27,35K,Male,England,27,35451.37
+White Collar,27,0K,Male,England,27,2504.74
+White Collar,28,10K,Male,England,28,14448.61
+White Collar,28,10K,Male,England,28,12028.2
+White Collar,28,90K,Male,England,28,94339.78
+White Collar,28,70K,Male,England,28,73793.66
+White Collar,28,40K,Male,England,28,42331.5
+White Collar,28,50K,Male,England,28,51953.67
+White Collar,28,5K,Male,England,28,6680.22
+White Collar,28,15K,Male,England,28,18938.2
+White Collar,28,5K,Male,England,28,8958.39
+White Collar,28,50K,Male,England,28,53357.54
+White Collar,28,10K,Male,England,28,13390.78
+White Collar,28,20K,Male,England,28,23076.43
+White Collar,28,60K,Male,England,28,62077.51
+White Collar,28,65K,Male,England,28,69126.18
+White Collar,28,60K,Male,England,28,60496.8
+White Collar,28,45K,Male,England,28,46762.44
+White Collar,28,80K,Male,England,28,82862.73
+White Collar,28,65K,Male,England,28,65994.32
+White Collar,28,45K,Male,England,28,47740.27
+White Collar,28,40K,Male,England,28,40037.6
+White Collar,29,0K,Male,England,29,2987.04
+White Collar,29,15K,Male,England,29,17844.83
+White Collar,29,45K,Male,England,29,48925.1
+White Collar,29,20K,Male,England,29,23963.27
+White Collar,29,55K,Male,England,29,58720.19
+White Collar,29,10K,Male,England,29,11246.02
+White Collar,29,15K,Male,England,29,15560.77
+White Collar,29,35K,Male,England,29,36582.31
+White Collar,29,25K,Male,England,29,26045.79
+White Collar,29,20K,Male,England,29,21577.22
+White Collar,29,50K,Male,England,29,51239.25
+White Collar,29,20K,Male,England,29,21908.77
+White Collar,29,25K,Male,England,29,27985.16
+White Collar,29,135K,Male,England,29,135545.59
+White Collar,29,35K,Male,England,29,38139.7
+White Collar,29,30K,Male,England,29,31044.8
+White Collar,29,10K,Male,England,29,14187.24
+White Collar,29,10K,Male,England,29,12258.48
+White Collar,29,25K,Male,England,29,25665.76
+White Collar,29,5K,Male,England,29,9979.14
+White Collar,29,50K,Male,England,29,50618.79
+White Collar,29,5K,Male,England,29,5564.99
+White Collar,29,15K,Male,England,29,18808.61
+White Collar,29,30K,Male,England,29,30158.03
+White Collar,29,75K,Male,England,29,76517.85
+White Collar,29,20K,Male,England,29,20166.68
+White Collar,29,55K,Male,England,29,57228.34
+White Collar,29,45K,Male,England,29,47610.68
+White Collar,29,5K,Male,England,29,6839.9
+White Collar,30,45K,Male,England,30,47550.08
+White Collar,30,20K,Male,England,30,20362.27
+White Collar,30,65K,Male,England,30,68336.84
+White Collar,30,30K,Male,England,30,30189.87
+White Collar,30,40K,Male,England,30,42732.72
+White Collar,30,25K,Male,England,30,29283.75
+White Collar,30,40K,Male,England,30,40488.29
+White Collar,30,25K,Male,England,30,26412.29
+White Collar,30,20K,Male,England,30,22763.84
+White Collar,30,20K,Male,England,30,23025.61
+White Collar,30,30K,Male,England,30,32400.35
+White Collar,30,20K,Male,England,30,22295.82
+White Collar,30,25K,Male,England,30,29433.64
+White Collar,30,15K,Male,England,30,19604.57
+White Collar,30,50K,Male,England,30,54432.83
+White Collar,30,25K,Male,England,30,27891.74
+White Collar,30,20K,Male,England,30,21014.53
+White Collar,30,30K,Male,England,30,34879.77
+White Collar,30,35K,Male,England,30,38121.48
+White Collar,30,30K,Male,England,30,33885.07
+White Collar,30,5K,Male,England,30,8422.3
+White Collar,31,5K,Male,England,31,5178.59
+White Collar,31,55K,Male,England,31,59589.73
+White Collar,31,40K,Male,England,31,42049.89
+White Collar,31,85K,Male,England,31,88023.96
+White Collar,31,30K,Male,England,31,34212.84
+White Collar,31,15K,Male,England,31,17452.2
+White Collar,31,35K,Male,England,31,38361.91
+White Collar,31,0K,Male,England,31,919.95
+White Collar,31,55K,Male,England,31,58911.42
+White Collar,31,30K,Male,England,31,31181.91
+White Collar,31,20K,Male,England,31,24498.39
+White Collar,31,10K,Male,England,31,10377.13
+White Collar,31,10K,Male,England,31,12728.29
+White Collar,31,20K,Male,England,31,24458
+White Collar,31,45K,Male,England,31,48932.49
+White Collar,31,70K,Male,England,31,70156.16
+White Collar,31,5K,Male,England,31,9814.58
+White Collar,31,100K,Male,England,31,101731.87
+White Collar,31,20K,Male,England,31,20544.55
+White Collar,31,10K,Male,England,31,10247.13
+White Collar,31,115K,Male,England,31,116522.47
+White Collar,31,25K,Male,England,31,26913.26
+White Collar,31,35K,Male,England,31,36528.38
+White Collar,31,15K,Male,England,31,17395.93
+White Collar,31,90K,Male,England,31,90760.82
+White Collar,31,70K,Male,England,31,71267.85
+White Collar,31,10K,Male,England,31,12383.01
+White Collar,31,10K,Male,England,31,12395.4
+White Collar,31,75K,Male,England,31,76429.81
+White Collar,31,20K,Male,England,31,22240.2
+White Collar,31,25K,Male,England,31,27812.51
+White Collar,31,5K,Male,England,31,8857.19
+White Collar,31,50K,Male,England,31,51397.48
+White Collar,31,20K,Male,England,31,24574.84
+White Collar,31,30K,Male,England,31,32293.11
+White Collar,31,20K,Male,England,31,24779.98
+White Collar,32,50K,Male,England,32,52696.94
+White Collar,32,0K,Male,England,32,2096.64
+White Collar,32,50K,Male,England,32,54090.91
+White Collar,32,30K,Male,England,32,31681.14
+White Collar,32,15K,Male,England,32,19806.11
+White Collar,32,55K,Male,England,32,59321.49
+White Collar,32,60K,Male,England,32,64701.01
+White Collar,32,40K,Male,England,32,44978.01
+White Collar,32,55K,Male,England,32,55348.18
+White Collar,32,5K,Male,England,32,6471.9
+White Collar,32,5K,Male,England,32,5519.53
+White Collar,32,5K,Male,England,32,9068.75
+White Collar,32,60K,Male,England,32,63106.43
+White Collar,32,10K,Male,England,32,12954.98
+White Collar,32,25K,Male,England,32,27593.12
+White Collar,32,15K,Male,England,32,19407.16
+White Collar,32,30K,Male,England,32,30865.97
+White Collar,32,10K,Male,England,32,13668.23
+White Collar,32,40K,Male,England,32,42956.77
+White Collar,32,25K,Male,England,32,28744.79
+White Collar,32,15K,Male,England,32,16127.3
+White Collar,32,25K,Male,England,32,25583.2
+White Collar,32,55K,Male,England,32,56233.65
+White Collar,32,35K,Male,England,32,36780.87
+White Collar,32,0K,Male,England,32,3103.61
+White Collar,32,75K,Male,England,32,79604.57
+White Collar,32,0K,Male,England,32,4287.63
+White Collar,32,30K,Male,England,32,32529.22
+White Collar,32,55K,Male,England,32,59266.24
+White Collar,32,30K,Male,England,32,32344.1
+White Collar,32,5K,Male,England,32,6080.49
+White Collar,32,45K,Male,England,32,49778.16
+White Collar,32,130K,Male,England,32,132536.87
+White Collar,33,15K,Male,England,33,19294.37
+White Collar,33,80K,Male,England,33,81827.13
+White Collar,33,45K,Male,England,33,48891.91
+White Collar,33,30K,Male,England,33,31959.46
+White Collar,33,35K,Male,England,33,35607.63
+White Collar,33,20K,Male,England,33,22448.82
+White Collar,33,55K,Male,England,33,59890
+White Collar,33,5K,Male,England,33,7593.12
+White Collar,33,115K,Male,England,33,116577.61
+White Collar,33,35K,Male,England,33,39625
+White Collar,33,20K,Male,England,33,23676.73
+White Collar,33,60K,Male,England,33,61877.87
+White Collar,33,95K,Male,England,33,96422.41
+White Collar,33,10K,Male,England,33,13036.35
+White Collar,33,50K,Male,England,33,50075.4
+White Collar,33,0K,Male,England,33,682.97
+White Collar,33,65K,Male,England,33,69416.18
+White Collar,33,70K,Male,England,33,73297.04
+White Collar,33,5K,Male,England,33,7974.93
+White Collar,33,75K,Male,England,33,76301.47
+White Collar,33,30K,Male,England,33,30227.5
+White Collar,33,120K,Male,England,33,122294.27
+White Collar,33,50K,Male,England,33,53759.34
+White Collar,33,95K,Male,England,33,96379.13
+White Collar,33,65K,Male,England,33,66452.64
+White Collar,33,30K,Male,England,33,32247.97
+White Collar,33,5K,Male,England,33,9165.84
+White Collar,33,20K,Male,England,33,21424.46
+White Collar,33,5K,Male,England,33,9987.42
+White Collar,33,45K,Male,England,33,48286.35
+White Collar,33,0K,Male,England,33,2710.9
+White Collar,33,20K,Male,England,33,24025.12
+White Collar,33,20K,Male,England,33,20091.28
+White Collar,33,120K,Male,England,33,122002.75
+White Collar,34,25K,Male,England,34,25949.97
+White Collar,34,55K,Male,England,34,58648.57
+White Collar,34,0K,Male,England,34,3014.85
+White Collar,34,95K,Male,England,34,96893.79
+White Collar,34,5K,Male,England,34,7149.43
+White Collar,34,20K,Male,England,34,20628.63
+White Collar,34,60K,Male,England,34,62654.71
+White Collar,34,0K,Male,England,34,3531.34
+White Collar,34,40K,Male,England,34,43670.72
+White Collar,34,70K,Male,England,34,70803.13
+White Collar,34,40K,Male,England,34,41640.88
+White Collar,34,90K,Male,England,34,94732.96
+White Collar,34,15K,Male,England,34,18971.51
+White Collar,34,40K,Male,England,34,42429.24
+White Collar,34,80K,Male,England,34,81376.19
+White Collar,34,25K,Male,England,34,26897.8
+White Collar,34,15K,Male,England,34,16194.49
+White Collar,34,5K,Male,England,34,9197.04
+White Collar,34,0K,Male,England,34,3716.8
+White Collar,34,20K,Male,England,34,24433.04
+White Collar,34,0K,Male,England,34,919.1
+White Collar,34,15K,Male,England,34,17007.15
+White Collar,34,20K,Male,England,34,23744.57
+White Collar,34,45K,Male,England,34,48947.83
+White Collar,34,15K,Male,England,34,19053.75
+White Collar,34,55K,Male,England,34,57914.55
+White Collar,34,0K,Male,England,34,251.67
+White Collar,34,40K,Male,England,34,43370.71
+White Collar,34,70K,Male,England,34,71362.71
+White Collar,34,10K,Male,England,34,14010.06
+White Collar,34,20K,Male,England,34,20922.69
+White Collar,34,10K,Male,England,34,12238.08
+White Collar,34,95K,Male,England,34,99934.82
+White Collar,34,55K,Male,England,34,59162.23
+White Collar,34,40K,Male,England,34,41060.69
+White Collar,35,15K,Male,England,35,19857.03
+White Collar,35,45K,Male,England,35,49048.13
+White Collar,35,5K,Male,England,35,8257.62
+White Collar,35,5K,Male,England,35,5582.48
+White Collar,35,110K,Male,England,35,114115.93
+White Collar,35,180K,Male,England,35,181680.99
+White Collar,35,15K,Male,England,35,18055.9
+White Collar,35,125K,Male,England,35,125015.82
+White Collar,35,135K,Male,England,35,137981.62
+White Collar,35,25K,Male,England,35,26058.08
+White Collar,35,5K,Male,England,35,8167.59
+White Collar,35,20K,Male,England,35,21753.37
+White Collar,35,30K,Male,England,35,33153.19
+White Collar,35,10K,Male,England,35,10291.64
+White Collar,35,15K,Male,England,35,18190.48
+White Collar,35,30K,Male,England,35,33838.37
+White Collar,35,15K,Male,England,35,19680.67
+White Collar,35,110K,Male,England,35,114954.78
+White Collar,35,30K,Male,England,35,34377.4
+White Collar,35,55K,Male,England,35,56363.31
+White Collar,35,75K,Male,England,35,76480.41
+White Collar,35,40K,Male,England,35,40309.87
+White Collar,35,65K,Male,England,35,66122.89
+White Collar,35,40K,Male,England,35,41292.98
+White Collar,36,40K,Male,England,36,43882.44
+White Collar,36,40K,Male,England,36,42161.49
+White Collar,36,5K,Male,England,36,8060.05
+White Collar,36,30K,Male,England,36,31628.04
+White Collar,36,15K,Male,England,36,19076.5
+White Collar,36,15K,Male,England,36,16312.01
+White Collar,36,60K,Male,England,36,61027.02
+White Collar,36,5K,Male,England,36,8335.97
+White Collar,36,40K,Male,England,36,41643.52
+White Collar,36,60K,Male,England,36,63323.61
+White Collar,36,25K,Male,England,36,27584.04
+White Collar,36,65K,Male,England,36,66519.95
+White Collar,36,45K,Male,England,36,46758.9
+White Collar,36,30K,Male,England,36,30047.75
+White Collar,36,30K,Male,England,36,33595.68
+White Collar,36,15K,Male,England,36,17823.65
+White Collar,36,35K,Male,England,36,35195.63
+White Collar,36,5K,Male,England,36,7729.82
+White Collar,36,20K,Male,England,36,22675.26
+White Collar,36,0K,Male,England,36,3374.77
+White Collar,36,55K,Male,England,36,59127.76
+White Collar,36,60K,Male,England,36,64281.78
+White Collar,36,30K,Male,England,36,30265.69
+White Collar,36,40K,Male,England,36,43385.17
+White Collar,36,35K,Male,England,36,39028.74
+White Collar,36,50K,Male,England,36,53344.6
+White Collar,36,60K,Male,England,36,61333.01
+White Collar,36,45K,Male,England,36,45626.72
+White Collar,36,5K,Male,England,36,7441.87
+White Collar,36,0K,Male,England,36,3629.45
+White Collar,36,0K,Male,England,36,2385.47
+White Collar,36,20K,Male,England,36,23674.84
+White Collar,36,40K,Male,England,36,41423.78
+White Collar,36,10K,Male,England,36,14699.68
+White Collar,36,65K,Male,England,36,65592.55
+White Collar,36,5K,Male,England,36,5275.67
+White Collar,36,35K,Male,England,36,38836.01
+White Collar,36,20K,Male,England,36,24904.09
+White Collar,36,35K,Male,England,36,39384.83
+White Collar,36,0K,Male,England,36,4503.8
+White Collar,36,5K,Male,England,36,9780.79
+White Collar,37,5K,Male,England,37,8679.67
+White Collar,37,115K,Male,England,37,118379.33
+White Collar,37,25K,Male,England,37,28244.63
+White Collar,37,35K,Male,England,37,35743.13
+White Collar,37,30K,Male,England,37,32570.65
+White Collar,37,0K,Male,England,37,4269.31
+White Collar,37,30K,Male,England,37,33744.12
+White Collar,37,25K,Male,England,37,28328.21
+White Collar,37,20K,Male,England,37,22058.44
+White Collar,37,20K,Male,England,37,24607.65
+White Collar,37,10K,Male,England,37,10911.82
+White Collar,37,30K,Male,England,37,34070.86
+White Collar,37,25K,Male,England,37,28809.98
+White Collar,37,30K,Male,England,37,34786.14
+White Collar,37,40K,Male,England,37,43254.96
+White Collar,37,80K,Male,England,37,83804.88
+White Collar,37,15K,Male,England,37,19014.05
+White Collar,37,10K,Male,England,37,10887.08
+White Collar,37,10K,Male,England,37,12160.79
+White Collar,37,10K,Male,England,37,13518.54
+White Collar,37,70K,Male,England,37,74633.01
+White Collar,37,10K,Male,England,37,14866.88
+White Collar,37,40K,Male,England,37,44872.72
+White Collar,37,50K,Male,England,37,50527.47
+White Collar,37,90K,Male,England,37,91665.23
+White Collar,37,25K,Male,England,37,27526.79
+White Collar,37,75K,Male,England,37,77501.35
+White Collar,37,30K,Male,England,37,32591.02
+White Collar,37,75K,Male,England,37,77155.23
+White Collar,37,35K,Male,England,37,37670.59
+White Collar,37,55K,Male,England,37,59940.45
+White Collar,37,55K,Male,England,37,59430.45
+White Collar,37,15K,Male,England,37,17275.34
+White Collar,37,5K,Male,England,37,6765.07
+White Collar,37,55K,Male,England,37,59673.88
+White Collar,38,55K,Male,England,38,59605.02
+White Collar,38,20K,Male,England,38,20238.28
+White Collar,38,20K,Male,England,38,21765.28
+White Collar,38,15K,Male,England,38,16024.43
+White Collar,38,5K,Male,England,38,6411.33
+White Collar,38,10K,Male,England,38,12380.76
+White Collar,38,45K,Male,England,38,46663.19
+White Collar,38,5K,Male,England,38,7098.63
+White Collar,38,30K,Male,England,38,30231.47
+White Collar,38,45K,Male,England,38,49172.92
+White Collar,38,0K,Male,England,38,267.38
+White Collar,38,25K,Male,England,38,25807.24
+White Collar,38,10K,Male,England,38,14042.25
+White Collar,38,60K,Male,England,38,62279.7
+White Collar,38,50K,Male,England,38,53247.48
+White Collar,38,50K,Male,England,38,52100.59
+White Collar,38,55K,Male,England,38,59179.29
+White Collar,38,25K,Male,England,38,27303.89
+White Collar,38,60K,Male,England,38,63644.91
+White Collar,38,25K,Male,England,38,29679.51
+White Collar,38,25K,Male,England,38,27984.32
+White Collar,38,30K,Male,England,38,31323.94
+White Collar,38,10K,Male,England,38,13849.75
+White Collar,38,10K,Male,England,38,12703.52
+White Collar,38,0K,Male,England,38,2638.71
+White Collar,38,20K,Male,England,38,21417.1
+White Collar,38,95K,Male,England,38,98022.86
+White Collar,38,70K,Male,England,38,72352.01
+White Collar,38,90K,Male,England,38,90250.17
+White Collar,38,75K,Male,England,38,77710.39
+White Collar,39,45K,Male,England,39,46065.96
+White Collar,39,0K,Male,England,39,4563.44
+White Collar,39,15K,Male,England,39,15830.77
+White Collar,39,10K,Male,England,39,11024.75
+White Collar,39,10K,Male,England,39,14024.55
+White Collar,39,55K,Male,England,39,59641.84
+White Collar,39,30K,Male,England,39,30238.1
+White Collar,39,55K,Male,England,39,55454.96
+White Collar,39,15K,Male,England,39,17435.1
+White Collar,39,55K,Male,England,39,55146.36
+White Collar,39,35K,Male,England,39,38806.91
+White Collar,39,50K,Male,England,39,52566.58
+White Collar,39,10K,Male,England,39,10188.53
+White Collar,39,30K,Male,England,39,30475.64
+White Collar,39,135K,Male,England,39,139434.09
+White Collar,39,10K,Male,England,39,14367.29
+White Collar,39,105K,Male,England,39,105718.04
+White Collar,39,50K,Male,England,39,53388.21
+White Collar,39,15K,Male,England,39,15208.44
+White Collar,39,20K,Male,England,39,20461.13
+White Collar,39,20K,Male,England,39,21204.79
+White Collar,40,5K,Male,England,40,9785.44
+White Collar,40,15K,Male,England,40,17616.26
+White Collar,40,60K,Male,England,40,63320.75
+White Collar,40,45K,Male,England,40,48998.08
+White Collar,40,65K,Male,England,40,67327.11
+White Collar,40,45K,Male,England,40,49490.49
+White Collar,40,20K,Male,England,40,20906.27
+White Collar,40,25K,Male,England,40,25417.31
+White Collar,40,105K,Male,England,40,107130.48
+White Collar,40,80K,Male,England,40,80678.36
+White Collar,40,0K,Male,England,40,3890.53
+White Collar,40,15K,Male,England,40,18220.43
+White Collar,40,10K,Male,England,40,12622.63
+White Collar,40,0K,Male,England,40,2559.52
+White Collar,40,45K,Male,England,40,45671.3
+White Collar,40,25K,Male,England,40,25921.92
+White Collar,40,5K,Male,England,40,7741.38
+White Collar,40,80K,Male,England,40,82664.04
+White Collar,40,35K,Male,England,40,38282.11
+White Collar,40,65K,Male,England,40,66914.25
+White Collar,40,35K,Male,England,40,37713.23
+White Collar,40,30K,Male,England,40,34694.96
+White Collar,40,55K,Male,England,40,55771.08
+White Collar,40,60K,Male,England,40,61559.53
+White Collar,41,60K,Male,England,41,64153.64
+White Collar,41,0K,Male,England,41,2665.32
+White Collar,41,10K,Male,England,41,12737.83
+White Collar,41,10K,Male,England,41,14800.36
+White Collar,41,25K,Male,England,41,28479.51
+White Collar,41,75K,Male,England,41,75878.51
+White Collar,41,20K,Male,England,41,24924.42
+White Collar,41,10K,Male,England,41,14899.94
+White Collar,41,40K,Male,England,41,41511.86
+White Collar,41,40K,Male,England,41,43488.59
+White Collar,41,50K,Male,England,41,54256.9
+White Collar,41,10K,Male,England,41,11104.86
+White Collar,41,25K,Male,England,41,26828.16
+White Collar,41,70K,Male,England,41,71079.13
+White Collar,41,75K,Male,England,41,79036.3
+White Collar,41,80K,Male,England,41,80234.49
+White Collar,41,0K,Male,England,41,1423.98
+White Collar,41,55K,Male,England,41,55038.36
+White Collar,41,20K,Male,England,41,24913.78
+White Collar,42,30K,Male,England,42,30797.77
+White Collar,42,15K,Male,England,42,19996.17
+White Collar,42,60K,Male,England,42,61354.78
+White Collar,42,55K,Male,England,42,55687.53
+White Collar,42,70K,Male,England,42,71219.4
+White Collar,42,35K,Male,England,42,37456.5
+White Collar,42,10K,Male,England,42,11632.9
+White Collar,42,45K,Male,England,42,49683.78
+White Collar,42,0K,Male,England,42,368.53
+White Collar,42,40K,Male,England,42,43621.9
+White Collar,42,30K,Male,England,42,32973.73
+White Collar,42,30K,Male,England,42,33299.64
+White Collar,42,95K,Male,England,42,96088.41
+White Collar,43,45K,Male,England,43,45425.57
+White Collar,43,100K,Male,England,43,104169.39
+White Collar,43,90K,Male,England,43,91470.56
+White Collar,43,35K,Male,England,43,35417.02
+White Collar,43,5K,Male,England,43,5055.31
+White Collar,43,50K,Male,England,43,51578.31
+White Collar,43,10K,Male,England,43,11873.22
+White Collar,43,30K,Male,England,43,31840.24
+White Collar,43,65K,Male,England,43,68113.06
+White Collar,43,25K,Male,England,43,29339.77
+White Collar,43,0K,Male,England,43,2619.84
+White Collar,43,45K,Male,England,43,48270.26
+White Collar,43,55K,Male,England,43,55988.59
+White Collar,43,15K,Male,England,43,15879.52
+White Collar,43,0K,Male,England,43,4421.1
+White Collar,43,20K,Male,England,43,24711.61
+White Collar,43,10K,Male,England,43,11880.68
+White Collar,43,5K,Male,England,43,6525.63
+White Collar,43,10K,Male,England,43,12324.12
+White Collar,44,25K,Male,England,44,27673.63
+White Collar,44,65K,Male,England,44,65544.92
+White Collar,44,30K,Male,England,44,31063.54
+White Collar,44,60K,Male,England,44,60906.04
+White Collar,44,0K,Male,England,44,3790.23
+White Collar,44,5K,Male,England,44,9161.15
+White Collar,44,0K,Male,England,44,918.56
+White Collar,44,20K,Male,England,44,23330.41
+White Collar,44,10K,Male,England,44,13179.89
+White Collar,44,0K,Male,England,44,2716.79
+White Collar,44,55K,Male,England,44,59608.54
+White Collar,45,15K,Male,England,45,18027.52
+White Collar,45,25K,Male,England,45,27591.72
+White Collar,45,5K,Male,England,45,8435.91
+White Collar,45,20K,Male,England,45,20407.02
+White Collar,45,35K,Male,England,45,38098.76
+White Collar,45,0K,Male,England,45,2479.52
+White Collar,45,40K,Male,England,45,40200.6
+White Collar,45,70K,Male,England,45,73668.49
+White Collar,45,25K,Male,England,45,28673.76
+White Collar,46,85K,Male,England,46,85331.69
+White Collar,46,25K,Male,England,46,29931.26
+White Collar,46,15K,Male,England,46,17757.91
+White Collar,46,0K,Male,England,46,4439.7
+White Collar,46,45K,Male,England,46,47908.76
+White Collar,46,0K,Male,England,46,4887.16
+White Collar,46,20K,Male,England,46,22280.28
+White Collar,46,45K,Male,England,46,49511.64
+White Collar,46,80K,Male,England,46,84080.85
+White Collar,46,75K,Male,England,46,79398.91
+White Collar,46,25K,Male,England,46,29407.63
+White Collar,46,90K,Male,England,46,94033.87
+White Collar,46,45K,Male,England,46,47359.83
+White Collar,47,115K,Male,England,47,115722.65
+White Collar,47,10K,Male,England,47,14703.33
+White Collar,47,35K,Male,England,47,36493.69
+White Collar,47,5K,Male,England,47,6631.7
+White Collar,47,10K,Male,England,47,12302.28
+White Collar,47,60K,Male,England,47,63746.78
+White Collar,47,5K,Male,England,47,8964.65
+White Collar,47,50K,Male,England,47,53788.44
+White Collar,47,35K,Male,England,47,39124.62
+White Collar,48,0K,Male,England,48,4098.82
+White Collar,48,30K,Male,England,48,33104.34
+White Collar,48,50K,Male,England,48,53270.72
+White Collar,48,15K,Male,England,48,18254.46
+White Collar,48,50K,Male,England,48,51202.31
+White Collar,48,80K,Male,England,48,81684.68
+White Collar,48,0K,Male,England,48,3961.9
+White Collar,48,20K,Male,England,48,21250.29
+White Collar,49,20K,Male,England,49,21066.89
+White Collar,49,15K,Male,England,49,18893.22
+White Collar,50,50K,Male,England,50,50706.4
+White Collar,50,25K,Male,England,50,26318.03
+White Collar,50,0K,Male,England,50,2470.52
+White Collar,50,15K,Male,England,50,17454.85
+White Collar,50,55K,Male,England,50,56402.62
+White Collar,50,20K,Male,England,50,20397.32
+White Collar,51,40K,Male,England,51,41266.34
+White Collar,51,35K,Male,England,51,36622.39
+White Collar,52,20K,Male,England,52,23112.67
+White Collar,18,50K,Male,Northern Ireland,18,50457.71
+White Collar,21,10K,Male,Northern Ireland,21,10248.59
+White Collar,25,20K,Male,Northern Ireland,25,22186.17
+White Collar,27,20K,Male,Northern Ireland,27,22674.03
+White Collar,27,0K,Male,Northern Ireland,27,3331.8
+White Collar,30,30K,Male,Northern Ireland,30,33024.7
+White Collar,31,5K,Male,Northern Ireland,31,9482.02
+White Collar,33,20K,Male,Northern Ireland,33,20111.98
+White Collar,35,5K,Male,Northern Ireland,35,9465.58
+White Collar,35,25K,Male,Northern Ireland,35,26311.08
+White Collar,37,115K,Male,Northern Ireland,37,117089.6
+White Collar,38,75K,Male,Northern Ireland,38,76999.31
+White Collar,41,85K,Male,Northern Ireland,41,85187.91
+White Collar,42,20K,Male,Northern Ireland,42,23979.99
+White Collar,19,5K,Male,Scotland,19,9758.09
+White Collar,30,30K,Male,Scotland,30,31231.03
+White Collar,31,120K,Male,Scotland,31,124232.17
+White Collar,33,0K,Male,Scotland,33,655.36
+White Collar,33,60K,Male,Scotland,33,61079.39
+White Collar,34,10K,Male,Scotland,34,12137.16
+White Collar,37,15K,Male,Scotland,37,15811.05
+White Collar,39,65K,Male,Scotland,39,69713.05
+White Collar,40,30K,Male,Scotland,40,34944.91
+White Collar,44,0K,Male,Scotland,44,4442.02
+White Collar,44,80K,Male,Scotland,44,82950.04
+White Collar,44,0K,Male,Scotland,44,242.49
+White Collar,44,35K,Male,Scotland,44,38971.83
+White Collar,45,85K,Male,Scotland,45,89524.95
+White Collar,45,45K,Male,Scotland,45,48333.09
+White Collar,46,10K,Male,Scotland,46,12483.24
+White Collar,48,0K,Male,Scotland,48,3678.99
+White Collar,48,55K,Male,Scotland,48,55410.06
+White Collar,48,70K,Male,Scotland,48,71225.87
+White Collar,48,80K,Male,Scotland,48,81531.27
+White Collar,48,50K,Male,Scotland,48,54081.03
+White Collar,48,65K,Male,Scotland,48,66005.41
+White Collar,50,5K,Male,Scotland,50,9604.4
+White Collar,50,15K,Male,Scotland,50,19956.27
+White Collar,50,30K,Male,Scotland,50,30166.99
+White Collar,50,65K,Male,Scotland,50,65433.7
+White Collar,51,30K,Male,Scotland,51,32448.94
+White Collar,51,40K,Male,Scotland,51,41097.46
+White Collar,51,20K,Male,Scotland,51,24745.8
+White Collar,52,70K,Male,Scotland,52,74560.83
+White Collar,52,10K,Male,Scotland,52,14788.77
+White Collar,52,105K,Male,Scotland,52,105810.79
+White Collar,53,25K,Male,Scotland,53,28479.55
+White Collar,53,40K,Male,Scotland,53,43361.73
+White Collar,53,40K,Male,Scotland,53,43176.47
+White Collar,54,25K,Male,Scotland,54,25605.83
+White Collar,55,25K,Male,Scotland,55,27732.99
+White Collar,58,135K,Male,Scotland,58,139610.13
+White Collar,59,20K,Male,Scotland,59,24989.82
+White Collar,60,70K,Male,Scotland,60,74666.21
+White Collar,18,40K,Male,Wales,18,43780.77
+White Collar,18,45K,Male,Wales,18,49678.06
+White Collar,18,25K,Male,Wales,18,27333.57
+White Collar,21,30K,Male,Wales,21,30442.37
+White Collar,21,15K,Male,Wales,21,17595.19
+White Collar,22,40K,Male,Wales,22,40668.9
+White Collar,22,95K,Male,Wales,22,96018.25
+White Collar,22,25K,Male,Wales,22,25219.7
+White Collar,26,55K,Male,Wales,26,58399.2
+White Collar,27,95K,Male,Wales,27,99502.56
+White Collar,27,15K,Male,Wales,27,17541.06
+White Collar,27,15K,Male,Wales,27,15126.82
+White Collar,27,5K,Male,Wales,27,7897.23
+White Collar,27,85K,Male,Wales,27,89186.6
+White Collar,28,120K,Male,Wales,28,121021.5
+White Collar,28,90K,Male,Wales,28,94767.31
+White Collar,28,75K,Male,Wales,28,77211.46
+White Collar,28,30K,Male,Wales,28,32031.95
+White Collar,29,70K,Male,Wales,29,74898.55
+White Collar,29,90K,Male,Wales,29,94523.22
+White Collar,29,60K,Male,Wales,29,64191.88
+White Collar,29,30K,Male,Wales,29,30556.05
+White Collar,30,30K,Male,Wales,30,32060.6
+White Collar,30,5K,Male,Wales,30,8250.75
+White Collar,30,5K,Male,Wales,30,7049.66
+White Collar,31,35K,Male,Wales,31,35448.77
+White Collar,31,45K,Male,Wales,31,48703.81
+White Collar,32,10K,Male,Wales,32,10728.12
+White Collar,33,25K,Male,Wales,33,27843.26
+White Collar,33,10K,Male,Wales,33,11224.82
+White Collar,33,40K,Male,Wales,33,44605.53
+White Collar,33,120K,Male,Wales,33,120278.47
+White Collar,34,40K,Male,Wales,34,40380.07
+White Collar,34,60K,Male,Wales,34,62326.7
+White Collar,34,25K,Male,Wales,34,25458.38
+White Collar,34,30K,Male,Wales,34,32851.32
+White Collar,34,55K,Male,Wales,34,59292.42
+White Collar,35,5K,Male,Wales,35,7139.62
+White Collar,35,10K,Male,Wales,35,12813.83
+White Collar,35,10K,Male,Wales,35,11552.18
+White Collar,35,35K,Male,Wales,35,36572.74
+White Collar,35,20K,Male,Wales,35,20739.01
+White Collar,36,55K,Male,Wales,36,55382.31
+White Collar,36,60K,Male,Wales,36,62369.55
+White Collar,36,140K,Male,Wales,36,144209.77
+White Collar,36,105K,Male,Wales,36,105439.61
+White Collar,36,20K,Male,Wales,36,23291.89
+White Collar,37,25K,Male,Wales,37,28858.98
+White Collar,37,35K,Male,Wales,37,37483.99
+White Collar,37,15K,Male,Wales,37,17130.26
+White Collar,37,30K,Male,Wales,37,34838.68
+White Collar,37,65K,Male,Wales,37,66105.06
+White Collar,37,55K,Male,Wales,37,59494.69
+White Collar,37,10K,Male,Wales,37,13005.94
+White Collar,38,45K,Male,Wales,38,48959.81
+White Collar,38,60K,Male,Wales,38,63211.19
+White Collar,38,20K,Male,Wales,38,24965.41
+White Collar,39,25K,Male,Wales,39,28142.18
+White Collar,39,140K,Male,Wales,39,144607.38
+White Collar,39,30K,Male,Wales,39,32430.78
+White Collar,39,40K,Male,Wales,39,43262.53
+White Collar,40,35K,Male,Wales,40,39935.98
+White Collar,40,0K,Male,Wales,40,3615.89
+White Collar,40,20K,Male,Wales,40,23357.27
+White Collar,41,0K,Male,Wales,41,4657.16
+White Collar,41,25K,Male,Wales,41,27629.86
+White Collar,41,110K,Male,Wales,41,112243.76
+White Collar,41,85K,Male,Wales,41,87285.66
+White Collar,41,15K,Male,Wales,41,17160.06
+White Collar,41,25K,Male,Wales,41,25581.54
+White Collar,41,5K,Male,Wales,41,8176.98
+White Collar,41,50K,Male,Wales,41,52335.99
+White Collar,42,5K,Male,Wales,42,5436
+White Collar,42,80K,Male,Wales,42,80922.09
+White Collar,42,45K,Male,Wales,42,45546.49
+White Collar,42,0K,Male,Wales,42,1153.98
+White Collar,42,10K,Male,Wales,42,14699.25
+White Collar,42,40K,Male,Wales,42,44017.46
+White Collar,43,55K,Male,Wales,43,57193.29
+White Collar,43,115K,Male,Wales,43,115674.98
+White Collar,43,45K,Male,Wales,43,47373.56
+White Collar,44,110K,Male,Wales,44,110880.94
+White Collar,44,25K,Male,Wales,44,26502.42
+White Collar,44,5K,Male,Wales,44,8128.57
+White Collar,44,100K,Male,Wales,44,103404.37
+White Collar,45,15K,Male,Wales,45,18035.37
+White Collar,45,25K,Male,Wales,45,28483.25
+White Collar,47,65K,Male,Wales,47,65701.28
+White Collar,49,30K,Male,Wales,49,32867.5
+White Collar,50,5K,Male,Wales,50,7697.3
