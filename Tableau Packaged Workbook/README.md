@@ -1,0 +1,1 @@
+This folder contains **UK Bank Customer Insights.twbx** _(Tableau Packaged Workbook)_ and, **P1-UK-Bank-Customers.hyper** _(Tableau Data Extract)_ on which the tableau dashboard works. You can download this folder to run the dashboard on your system.
