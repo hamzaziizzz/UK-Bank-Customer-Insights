@@ -1,4 +1,4 @@
-# UK-Bank-Customer-Insights
+# UK Bank Customer Insights
 This repository is about data visualization of a bank's customer insights. This bank has four branches in Scotland, Northern Ireland, Wales and England. The bank manager wants to analyze how its customers are distributed in the four countries. Now this can be done in various ways, what percentage of males or females are account holders in the bank, how much balance does they hold, what are their job classifications, etc. In this project, I have distributed data in four ways - *Age Distribution*, *Balance Distribution*, *Job Classification* and *Gender Distribution*.
 
 **Note**: *Please see the caption in image for a brief description*
